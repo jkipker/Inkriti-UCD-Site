@@ -1,0 +1,2021 @@
+/* jk-extends.css */
+
+body{
+	height: 100%;
+	overflow: scroll;
+}
+
+h1, h2{
+    font-family: 'Belleza', sans-serif !important;
+}
+
+.stage{
+	height: 100%;
+	/*background-image: url('../img/updated/new-plate.jpg');*/
+	background-repeat: no-repeat;
+    overflow: hidden;
+    width: 23450px;
+    /*width: 22811px !important;*/
+    min-height: 640px !important;
+}
+
+.stage section{
+	/*border: thin red solid;*/
+	position: relative;
+	/*width: auto;*/
+	min-height: 640px !important;
+	display: inline-block;
+    margin-left: -10px;
+    /*top: -10px;*/
+    /*border: thin red solid;*/
+    overflow:hidden;
+}
+
+/*SECTION WIDTHS*/
+.sec1{
+    width: 900px !important;
+}
+
+.lookBack{
+    width: 2380px !important;
+    overflow: visible !important;
+}
+
+.exeSummary{
+    width: 1330px !important;
+}
+
+.ourMission{
+    width: 11425px !important;
+}
+
+.ourCommunity{
+    width: 4107px !important;
+}
+
+.financials{
+    width: 1855px !important;
+}
+
+.ourCompany{
+    width: 910px !important;
+}
+
+
+
+
+
+.lookBack, .exeSummary, .ourMission, .ourCommunity, .financials, .ourCompany{
+	float:none;
+}
+
+.sec-divider{
+	float: none;
+	display: inline-block;
+	margin-left: -100px;
+}
+
+.miss-img{
+	width: 251px;
+	margin-left: -5px;
+    margin-top: 0px;
+    vertical-align: top;
+}
+
+.jeff{
+	left: 565px;
+    position: absolute;
+    top: -60px;
+    height: 100%;
+    left: 565px;
+    position: absolute;
+    top: -60px;
+    width: auto;
+}
+
+.protecting h2{
+	font-size: 36px;
+	color: #636466;
+	margin: -40px 0px 0 50px;
+	width: 500px;
+}
+
+.protecting h2 span{
+	margin-left: 100px;
+	font-size: 56px;
+    margin-left: 155px;
+}
+
+.protecting p{
+	font-size: 18px;
+    margin-left: 275px !important;
+    margin-top: 5px;
+    width: 350px;
+}
+
+
+.home_wrapper{
+	display: block;
+    margin: 20% auto 0 80px;
+    padding: 60px;
+    text-align: center;
+    width: 62%;
+}
+
+#home{
+	width: 900px;
+    height: auto;
+}
+
+.dentist{
+	bottom:16px;
+	width: 450px;
+}
+
+
+#a-look-back .wrap{
+    background-color: transparent;
+}
+.sec1{
+    background-color: white;
+}
+
+.protecting{
+	left: 25px;
+	top: 12%;
+}
+
+.bg1 div.chain{
+	margin-left: 80px;
+    margin-top: -90px;
+    position: absolute;
+    top: 48%;
+    width: 650px;
+}
+
+.dental-integration{
+	left: 510px;
+	top: 46%;
+	width: 500px;
+}
+
+.dental-integration blockquote, .dental-integration blockquote strong{
+	font-size: 24px;
+}
+
+.hallowBlueBtm{
+	right: 60px;
+	bottom: 10px;
+}
+
+.dental-integration span{
+	margin-top: -10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.study-material h2{
+	color: #0066a4;
+    font-size: 76px;
+    margin-left: 115px;
+    margin-top: -15px;
+    width: 472px;
+    margin-left: 105px;
+    margin-top: -55px;
+    width: 540px;
+}
+
+.study-material h2 span{
+	font-size: 56px;
+    float: right;
+    margin-top: -20px;
+    margin-right: 0px;
+    display: inline-block;
+}
+
+.study-material p{
+	float: none;
+    font-size: 17px;
+    line-height: 20px;
+    margin: -10px 0 0 320px;
+    width: 490px;
+}
+
+.studyDocs{
+	clear: left;
+    float: left;
+    margin: 10px 0 0 320px;
+    width: 230px;
+}
+
+.studyDocs .share img{
+	width: 80px;
+	height: 30px;
+}
+
+.share{
+	margin: 10px 0 0 -40px;
+}
+
+
+.excellence p{
+	display: block;
+    font-size: 17px;
+    line-height: 20px;
+    margin-left: 40px;
+    margin-top: -15px;
+    width: 480px;
+}
+
+.inner-right img{
+	width: 280px;
+}
+
+
+.excellence{
+	display: block;
+    margin-right: -110px;
+    position: absolute;
+    right: 160px;
+    top: 13%;
+    width: 640px;
+    right: 195px;
+}
+
+.excellence .inner-right{
+	float: left;
+    height: 0px;
+    position: absolute;
+    top: 260px;
+    width: 300px;
+    left: 300px;
+}
+
+.file{
+	left: 640px;
+    margin-left: 80px;
+    margin-top: -40px;
+    position: absolute;
+    width: 480px !important;
+}
+
+.prev, .next{
+	bottom: 50px;
+	/*display: none;*/
+}
+
+.nav2 .bottom-nav, .nav2{
+	bottom: 15px;
+    left: 280px;
+    position: fixed;
+    display: none;
+    z-index: 5000;
+}
+
+.nav2 .menu li{
+    /*background-color: white;*/
+    padding-top: 3px;
+}
+
+#a-look-back{
+    width: 2330px;
+    border: 25px #76bde9 solid;
+background-color: transparent;
+height:95%;
+}
+
+.exec-img, .exec-img img{
+	vertical-align: top;
+    height: 640px;
+}
+
+.summary-txt{
+	width: auto;
+	height: 100%;
+	border:none;
+    top: 8%;
+    background: none;
+}
+
+.left-summary-txt{
+	display: inline-block;
+    font-size: 15px;
+    width: 410px;
+}
+
+.right-summary-txt{
+    font-size: 15px;
+    margin-left: 72px;
+    margin-top:-10px;
+    width: 530px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#summaryWrap{
+	height: 100%;
+    left: 915px;
+    margin-top: -20px;
+    position: absolute;
+    top: 0;
+    vertical-align: top;
+    width: 270px;
+}
+
+.exeSummary{
+	margin-left:45px;
+}
+
+.exec-summary{
+	width: 1370px;
+    margin-left:-90px;
+}
+
+.singnatures{
+	width: 370px;
+	border-bottom: none;
+}
+
+.exec-summary .wrap{
+	background: none;
+	border-bottom: 72px solid white;
+    border-top: 25px solid white;
+    height: 85%;
+}
+
+.miss-headings{
+	display: block;
+    float: left;
+    left: 280px;
+    position: absolute;
+    top: 4%;
+}
+
+#mission{
+    /*left: -240px;*/
+    left: -1.8%;
+border: 25px #f99d29 solid;
+border-right:none;
+background-color: transparent;
+height: 95%;
+}
+
+#mission .content .inner-left{
+	float: left;
+    margin-left: -50px;
+    margin-right: 60px;
+    width: 475px;
+}
+
+#mission .content p{
+	color: #636466;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    width: 100%;
+}
+
+#mission .content .inner-right{
+    width: 452px;
+}
+
+#mission .content {
+    top: 35%;
+}
+
+.blocquotes{
+	top: 10%;
+	left: 1018px;
+	width: 550px;
+	line-height: 22px;
+}
+
+.blocquotes span{
+	font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.CAE {
+    left: 1320px;
+    top: 48%;
+    width: 500px;
+}
+
+.goodNews{
+	left: 1835px;
+    position: absolute;
+    top: 5%;
+    width: 465px;
+}
+
+.goodNews .content-box{
+	display: table;
+    float: left;
+    margin-left: 280px;
+    margin-top: 33%;
+    width: 465px;
+}
+
+.bg2 {
+    height: 90%;
+left: 3300px;
+position: absolute;
+background-color: white;
+width: 7000px;
+}
+
+.bg2 img{
+	width:400px;
+}
+
+
+.fillOrangeBtm{
+    bottom: 50px;
+}
+.tab1, .tab2, .tab3{
+    margin-top: -30px;
+    z-index: 900;
+}
+
+.tab1 h3, .tab2 h3, .tab3 h3{
+	font-size: 26px;
+}
+
+.tab1{
+	left: 570px;
+    width: 200px;
+}
+
+.tab2{
+	left: 2340px;
+    width: 200px;
+}
+
+.tab3{
+    left: 8930px;
+    width: 200px;
+}
+
+.direction{
+	top: 22px;
+	left: 2490px;
+    border: 10px rgb(249, 157, 41) solid;
+}
+
+.halloWhiteTop{	
+	background: url("../img/fill-org-topleft.png") no-repeat scroll 0 0 / 65px 55px rgba(0, 0, 0, 0);
+    height: 71px;
+    left: -100px;
+    position: absolute;
+    top: -30px;
+    width: 85px;
+}
+
+.direction .blocquotes{
+	left: 0px;
+    position: relative;
+    top: -10px;
+    width: 500px;
+}
+
+
+.halloWhiteTop{
+	height: 71px;
+    left: -30px;
+    position: absolute;
+    top: -15px;
+    width: 85px;
+}
+
+.halloWhiteBtm{
+	background: url("../img/fill-org-btmright.png") no-repeat scroll 0 0 / 60px 50px rgba(0, 0, 0, 0);
+	bottom: 35px;
+    height: 71px;
+    position: absolute;
+    right: -40px;
+    width: 85px;
+}
+
+.direction .blocquotes span{
+	line-height:14px;
+}
+
+.hide-DMD{
+	border-top: 2px solid #666;
+    color: #fff;
+    margin-left: -20px;
+    margin-top: 20px;
+    position: relative;
+    top: -20px;
+    width: 495px;
+}
+
+
+
+.hide-DMD p {
+    font-size: 13px;
+margin-top: -18px;
+width: 470px;
+margin-left: 30px;
+}
+}
+
+.direction{
+	background-color: transparent;
+    left: 2490px;
+    min-height: 510px;
+    padding: 20px 50px;
+    position: absolute;
+    top: 22px;
+    width: 465px;
+    height: 80%;
+    top: 4%;
+    border: 10px rgb(249, 157, 41) solid;
+}
+
+.goodNews h2{
+    left: -50px;
+}
+
+div{
+    padding: 0;
+}
+
+.img-divider{
+    display: inline-block;
+    min-height: 640px !important;
+    position: relative;
+    z-index: 100;
+    height: 100%;
+    /*max-width: 280px;*/
+}
+
+.img-divider img{
+    height: 100%;
+}
+
+.new-exec-img{
+    margin-left:-185px;
+}
+
+.new-sum-img{
+    margin-left:-30px;
+}
+
+.new-jeff-img{
+    float: left;
+    left: 3080px;
+    margin-top: -20px;
+    position: relative;
+}
+
+.summaryOfficers{ 
+    display: inline-block;
+    position: relative;
+    left: 900px;
+    height: 100%;
+}
+
+.summaryOfficers img{
+    height: 100%;
+}
+
+.singnatures{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    display: inline-block;
+    top: 18%;
+    width: 350px;
+}
+
+.goodNews{
+    left: 1705px;
+    width: 505px;
+}
+
+.goodNews h2{
+    font-size: 70px;
+    left: -50px;
+    letter-spacing: 0.05em;
+}
+
+.goodNews h2 span{
+    color: inherit;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.oral-wellness{
+    top:8%;
+    left: 3385px;
+    margin-left:0.3%;
+}
+
+.oral-wellness hgroup{
+    margin: -40px 0 0 80px;
+}
+
+.maps-graphs-stats{
+    /*border: thin red solid;*/
+}
+
+.maxp-txt{
+    height: 320px;
+    left: 180px;
+    margin-top: 60px;
+    position: absolute;
+    top: 83%;
+    width: 420px;
+    z-index: 300;
+}
+
+#arrow1{
+    left: 515px;
+    position: absolute;
+    top: 265px;
+    z-index: 230;
+}
+
+.problem-per{
+    border-radius: 100%;
+    height: 380px;
+    left: 611px;
+    position: absolute;
+    top: -50px;
+    width: 380px;
+}
+
+.chronic-conditions{
+    height: 350px;
+    left: 1040px;
+    position: absolute;
+    top: 82%;
+    width: 420px;
+    z-index: 100;
+}
+
+.effected-per{
+    border-radius: 100%;
+    height: 380px;
+    left: 1451px;
+    position: absolute;
+    top: -50px;
+    width: 380px;
+    z-index: 70;
+}
+
+.people-figures{
+    left: -68px;
+    position: absolute;
+    top: -34px;
+    width: 440px;
+}
+
+.gum-wrap{
+    left: -205px;
+    position: absolute;
+    top: 88%;
+}
+
+.oral-care{
+    left: 2299px;
+    position: absolute;
+    top: -45px;
+}
+
+.flaux-anim{
+    bottom: 92px;
+    left: 225px;
+    position: relative;
+    width: 305px;
+    z-index: 10;
+}
+
+.medical-savings{
+    left: 420px;
+    position: absolute;
+    top: 40px;
+}
+
+.medical-savings h2{
+    color: #8dc63f;
+    font-size: 48px;
+    left: 210px;
+    position: absolute;
+    text-transform: uppercase;
+    top: -49px;
+    width: 550px;
+    font-family: arial !important
+}
+
+.oral-wellness h2.footer-txt{
+    color: #0066a4;
+    display: table;
+    float: left;
+    font-size: 39px;
+    left: 2910px;
+    position: absolute;
+    top: 160%;
+    width: 100%;
+    margin-top: 110px;
+}
+
+.footer-txt span{
+    color: #8dc63f;
+}
+
+.hospital-reductions{
+    left: 1555px;
+    position: absolute;
+    top: 35px;
+}
+
+.hospital-reductions h2{
+    color: #f15d5e;
+    font-size: 50px;
+    left: 10px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 360px;
+    width: 1000px;
+}
+
+#programTab{
+    display: block;
+    float: right;
+    left: 8220px;
+    position: absolute;
+}
+
+audio, canvas, progress, video{
+    display: inline-block;
+    height: 260px;
+    margin-left: 70px;
+    vertical-align: baseline;
+    width: 420px;
+}
+
+.video-quote .blocquotes{
+    left: 120px;
+    position: absolute;
+    text-align: center;
+    top: 370px;
+    width: 500px;
+    z-index: 1000;
+}
+
+.blocquotes span{
+    line-height: 14px;
+}
+
+.hallowOrangeBtm{
+    right: 25px;
+    bottom: 15px;
+}
+
+.uc-wellness hgroup h2:first-child{
+    color: #0066a4;
+    font-size: 42px;
+    margin-bottom: 0;
+    margin-top: 80px;
+}
+
+.leader-txt{
+    left: 1030px;
+    top: 38%;
+    font-size: 17px;
+    width: 630px;
+}
+
+.innovative-smile{
+    top: 58%;
+    left: 1320px;
+}
+
+.blocquotes.engagement{
+    font-size: 13px;
+    left: 1500px;
+    position: absolute;
+    top: 7%;
+    width: 600px;
+}
+
+.fillOrangeBtm{
+    bottom:40px;
+}
+
+.phone-woman-img{
+    margin-left: -1325px;
+}
+
+.financial-img{
+    margin-left:-230px;
+    /*max-width: 230px;*/
+}
+
+.company-img{
+
+}
+
+.ourMission{
+    /*border: thin red solid;*/
+}
+
+#mission .wrap{
+    display: block;
+    background-color:transparent;
+}
+
+.wrap{
+    /*max-height: 735px !important;*/
+    /*margin-top: 0.3% !important;*/
+}
+
+#community .wrap{
+    height: 95.7%;
+}
+
+#community{
+    margin-left: -20px;
+    position: relative;
+}
+
+.going-beyond{
+    left: 50px;
+}
+
+.call-center{
+    left: 85px;
+    position: absolute;
+    top: 220px;
+    width: 210px;
+}
+
+.going-beyond h2{
+    margin:0;
+}
+
+.green-list{
+    margin-top: 10px;
+    width: 440px;
+}
+
+.content-com{
+    display: block;
+    float: left;
+    left: 765px;
+    position: absolute;
+    top: 15%;
+    width: 500px;
+}
+
+.app{
+    left: 1275px;
+    top: 3%;
+}
+
+.app p{
+    display: block;
+    float: left;
+    line-height: 22px;
+    margin-left: 30px;
+}
+
+.app h2, .kids-app h2{
+    font-size: 52px;
+    color: #0066a4;
+}
+
+.app > img{
+    clear: both;
+    float: left;
+    margin-left: 22px;
+}
+
+.blocquotes.amyShearer{
+    left: 1780px;
+    top: 6%;
+    text-align:center;
+}
+
+.kids-app{
+    left: 2075px;
+    top: 32%;
+}
+
+.ponyies{
+    left: 2317px;
+margin-top: 80px;
+position: relative;
+width: 370px;
+float: none;
+}
+
+.socialmedia-wrapper{
+    left: -240px;
+position: relative;
+width: 1000px;
+border: 8px #8dc63f solid;
+height: 86%;
+background-color:white;
+}
+
+.socialmedia-wrapper h1{
+    font-size: 64px;
+    color: #0066a4;
+    margin-left: 20px;
+    margin-top: -8px;
+}
+
+.socialmedia-wrapper .col .social-descript{
+    width: 370px;
+}
+
+.socialmedia-wrapper ul.social-links{
+    margin-left: 25px;
+    margin-top: 10px;
+    padding: 10px 38px 0 14px;
+}
+
+.socialmedia-wrapper .social-links img{
+    width: 50px;
+    height: 50px;
+}
+
+.socialmedia-box{
+    background: none repeat scroll 0 0 #636466;
+    border-radius: 20px;
+    color: #636466;
+    float: left;
+    font-weight: bold;
+    height: 70px;
+    margin: 0 0 0 40px;
+    padding: 10px 25px;
+    position: relative;
+    width: 255px;
+}
+
+.social-links li{
+    margin-right: 15px;
+}
+
+.socialmedia-box p{
+    font-size: 12px !important;
+    text-align:left;
+}
+
+.link-icon{
+    position: absolute;
+    right: 5px;
+    bottom: 2px;
+}
+
+.socialmedia-box-row .socialmedia-box{
+    height: 120px;
+    width: 130px;
+    margin-left: 10px;
+}
+
+.socialmedia-box-row-1{
+    margin-left: 30px;
+}
+
+.socialmedia-box-row-1 .right{
+    margin-left: 0px;
+}
+
+.socialmedia-wrapper .col.colright{
+    float: left;
+    margin-left: -115px;
+}
+
+.socialmedia-wrapper .col.colright .socialmedia-box{
+    margin-left: 0px;
+    width: 515px;
+}
+
+.socialmedia-wrapper .col.colright .socialmedia-box-rowleft .socialmedia-box{
+    width: 175px;
+    height: 250px;
+}
+
+.socialmedia-wrapper .ucd-lower-box{
+    height: 100px !important;
+}
+
+.socialmedia-wrapper .link-icon{
+    margin-top:-10px !important;
+}
+
+.socialmedia-box-rowright{
+    float: left;
+    margin-left: -90px;
+    width: 323px;
+}
+
+.socialmedia-wrapper .col.colright .socialmedia-box-rowright .socialmedia-box{
+    margin-left: 0px;
+    width: 128px;
+    margin-top:-5px;
+}
+
+.youtubbe-video{
+    border-radius: 20px;
+    float: left;
+    margin: -10px 0 0 0px;
+    padding: 10px;
+    position: relative;
+    width: 283px;
+}
+
+.socialmedia-box-row{
+    width: auto;
+}
+
+.ucd-end-row{
+    width: 600px;
+}
+
+.socialmedia-wrapper .col.colright{
+    width: auto;
+}
+
+#financials{
+    margin-left: -10px;
+    width: 1705px !important;
+    margin-left: -10px;
+}
+
+.company-img{
+    margin-left: -10px;
+}
+
+#company{
+    margin-left:-10px;
+    width: 840px;
+    border: 25px #004462 solid;
+}
+
+.animated{
+    opacity: 0;
+}
+
+.gum-disease{
+    background-color: #004563;
+border-radius: 11%;
+height: 300px;
+left: 2060px;
+position: absolute;
+top: 86%;
+width: 350px;
+margin-top: -40px;
+/*z-index: 500;*/
+}
+.medical-savings h2 sup{
+    font-size: 24px;
+margin-top: -10px;
+position: relative;
+display: inline-block;
+top: -20px;
+}
+
+.chronic-wrap{
+    margin-top: 40px;
+    background-size: 400px 320px;
+}
+
+.phone-woman-img{
+    /*margin-left: 10px;*/
+}
+
+
+.nav2 .menu{
+    width: 600px;
+    /*background-color: white;*/
+    height: 44px;
+    margin-bottom: 10px;
+}
+
+.nav2 .menu li ul.subNav{
+  margin-top: -135px;  
+}
+
+
+/* new layout */
+
+.excellence h2{
+    color: #0066a4;
+    font-size: 42px;
+    margin-bottom: 22px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.excellence p{
+    display: block;
+font-size: 17px;
+line-height: 22px;
+margin-left: 100px;
+margin-top: -15px;
+width: 380px;
+}
+
+.excellence .inner-right{
+    display: none;
+}
+
+.exec-summary .wrap, .exec-summary{
+    background: white;
+}
+
+.summary-txt h2{
+    color: #0066a4;
+    font-weight: bold;
+    font-weight: bold;
+    font-size: 42px;
+    margin-left: 105px;
+    margin-top: 20px;
+}
+
+.left-summary-txt{
+    font-size: 14px;
+    color: #666;
+    font-size: 15px;
+    width: 530px;
+    margin-left: 125px;
+    margin-top: -7px;
+    line-height: 18px;
+}
+
+.left-summary-txt p, .right-summary-txt p{
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.summary-txt{
+    margin-top:-20px;
+    top: 0;
+}
+
+.miss-headings h2{
+    display: block;
+    float: left;
+    margin: 11px 0 0;
+    margin-bottom: -12px;
+}
+
+.miss-headings > h2[title="mill-members"]{
+ color: #0066a4;   
+}
+
+
+#mission .content .inner-left{
+    float: left;
+    margin-left: 20px;
+    margin-right: 60px;
+    width: 690px;
+    margin-top: -50px;
+}
+
+.goodNews h2{
+    color: #0066a4;
+    font-size: 62px;
+    left: -20px;
+    letter-spacing: 0.05em;
+    width: 900px;margin-top:15%;
+}
+
+.goodNews{
+    left:1525px;
+    margin-top:-20px;
+}
+
+.goodNews p{
+    font-size: 16px;
+    ine-height: 22px;
+    font-size: 18px;
+    width: 580px;
+}
+
+.goodNews .content-box{
+    display: table;
+    float: left;
+    margin-left: 355px;
+    margin-top: 25%;
+    width: 630px;
+}
+
+.direction{
+    width: 805px;
+    top: 0%;
+    height:495px;
+    margin-left:10px;
+    background-color: white !important;
+    min-height: auto;
+
+}
+
+.oral-wellness hgroup{
+    margin: 10px 0 0 30px;
+}
+
+.maxp-txt{
+    left: 200px;
+    top: 78%;
+}
+
+
+#arrow2{
+    z-index: 200;
+left: 270px;
+position: absolute;
+top: 29%;
+}
+
+
+.chronic-conditions{
+    top: 76%;
+}
+
+#arrow3{
+    left: 300px;
+position: absolute;
+top: 122px;
+z-index: 75;
+}
+
+.oral-wellness hgroup .smile{
+    color: #76bde9 !important;
+}
+
+
+.oral-wrap h2:first-child{
+    width: 400px;
+color: #0066a4;
+font-size: 42px;
+margin-top: 40px;
+line-height: 48px;
+}
+
+.oral-wrap h2 span{
+    color: #0066a4 !important;
+}
+
+
+.medical-savings h2{
+color: #8dc63f;
+font-size: 46px;
+left: 200px;
+position: absolute;
+text-transform: uppercase;
+top: -35px;
+width: 650px;
+}
+
+.medical-savings{
+    left: 480px;
+}
+
+
+#human-figs{
+    width: 970px;
+}
+
+#tags{
+    width: 1120px;
+}
+
+.hospital-bg{
+    margin-left: 40px;
+}
+
+.heart-arrow{
+    left: 365px;
+top: -60px;
+width: 260px;
+}
+
+.needle-arrow{
+    left: 680px;
+    top: -60px;
+    width: 300px;
+}
+
+.oral-wellness h2.footer-txt{
+    color: ##0066a4;
+display: table;
+float: left;
+font-size: 40px;
+left: 2959px;
+position: absolute;
+top: 168%;
+width: 100%;
+margin-top: 115px;
+}
+
+.footer-txt span{
+    color: #76bde9;
+}
+
+.hospital-reductions h2{
+    color: #f15d5e;
+font-size: 46px;
+left: 30px;
+position: absolute;
+text-transform: uppercase;
+top: 365px;
+width: 1000px;
+}
+
+.video-quote .blocquotes{
+    left: 200px;
+}
+
+.uc-wellness hgroup{
+    display: block;
+margin-top: 20px;
+margin-left: 60px;
+}
+
+
+.blocquotes.engagement{
+    font-size: 13px;
+left: 1465px;
+position: absolute;
+top: 7%;
+width: 600px;
+}
+
+.innovative-smile{
+    width: 630px;
+}
+
+.innovative-smile p{
+    font-size: 17px;
+    line-height: 22px;
+    left: 1270px;
+}
+
+.phone-woman-img{
+    margin-left: -1325px;
+}
+
+.going-beyond h2{
+    font-size: 62px;
+color: #0066a4;
+line-height:62px;
+}
+
+.indent_two{
+    font-size: 38px;
+}
+
+.going-beyond{
+    width: 690px;
+}
+
+.call-center{
+    left: 45px;
+position: absolute;
+top: 230px;
+width: 210px;
+}
+
+.content-com{
+    display: block;
+float: left;
+left: 745px;
+position: absolute;
+top: 14%;
+width: 450px;
+}
+
+.content-com .com{
+    margin-top: -10px;
+    margin-left: 60px;
+}
+
+.content-com p{
+    font-size: 18px;
+}
+
+.content-com .com h2{
+    font-size: 56px;
+    color: #0066a4;
+}
+
+.content-com .com p{
+    margin-top: 0px;
+margin-left: 40px;
+}
+
+.app p{
+    display: block;
+float: left;
+line-height: 22px;
+margin-left: 30px;
+font-size: 17px;
+width: 350px;
+}
+
+.app .app-second-p{
+    width: 620px;
+margin-left: 80px;
+margin-top:50px;
+}
+
+.blocquotes.amyShearer{
+    left: 1730px;
+}
+
+.kids-app{
+    left: 2050px;
+top: 35%;
+}
+
+.middle-col h1{
+    font-size: 58px;
+    color: #0066a4;
+    margin: 40px 0 0 0;
+}
+
+.middle-col-content h2{
+    font-size: 38px;
+color: #636366;
+margin: 0;
+margin-left: 10px;
+width: 1000px;
+}
+
+.middle-col-content-left{
+    float: left;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.middle-col-content-left p, .middle-col-content-right p{
+    color: #444;
+margin: 0;
+font-size: 17px;
+line-height: 22px;
+}
+
+.middle-col{
+    float: left;
+width: 920px;
+padding: 0 0 0 35px;
+background: url(../img/symbol.png) no-repeat 598px 30px;
+background: none !important;
+}
+
+.financialSummary{
+    margin-left: 120px;
+    margin-top: 10px;
+    width: 630px;
+}
+
+#financials{
+    width: 1855px !important;
+    background-color: white !important;
+    border: 25px #666 solid;
+    margin-left:-20px;
+}
+
+#financials .wrap{
+    background-color: transparent;
+}
+
+.financialSummary h1{
+    font-size: 58px;
+    color: #0066a4;
+    margin-top:-10px;
+}
+
+.financialSummary .heading{
+    color: #0066a4;
+}
+
+.middle-col-content-right{
+   padding: 0;
+    margin-top: -170px;
+    margin-right: -95px;
+    position: relative;
+    color: #0066a4;
+}
+
+.middle-col-content-right h3{
+   color: #0066a4;
+font-size: 38px;
+width: 400px;
+/* text-align: left; */
+margin-left: -30px;
+}
+
+
+.middle-col-content-right .pos-num-p{
+    margin-left: -50px;
+    width: 340px;
+}
+
+
+blockquote strong{
+    color: #0066a4;
+}
+
+.hallowBlueTop{
+width: 97px;
+height: 94px;
+background: url(../img/scene1-quotes.png) no-repeat 0 0;
+left: -40px;
+position: absolute;
+top: 10px;
+}
+
+#globe{
+width: 650px;
+height: 650px;
+background: url("../img/globe2.png") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+border-radius: 50%;
+ box-shadow: none;
+/* -webkit-animation-name: rotate; */
+/* -webkit-animation-duration: 4s; */
+/* -webkit-animation-iteration-count: infinite; */
+-webkit-animation-timing-function: none;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-timing-function: linear;
+/* margin: 85px 0 0 100px; */
+/* opacity: 0.5; */
+
+margin-top: 0px;
+margin-left: -110px;
+}
+
+.maxp-txt h4{
+    display: none;
+}
+
+.per-wrap{
+    background-color: #ffffff;
+border: 18px solid #f99d29;
+border-radius: 100%;
+height: 330px;
+position: relative;
+width: 330px;
+z-index: 225;
+margin-left: 10px;
+margin-top: 30px;
+}
+
+.per-wrap h4{
+    color: #f99d29;
+    margin-left: -15px;
+    margin-top: 90px;
+}
+
+.tooth img{
+    width: 150px;
+}
+
+.per-wrap span{
+    font-weight: bold;
+/*color: #f99d29;*/
+margin-left: -20px;
+}
+
+.chronic-conditions span, .chronic-conditions .icons, .chronic-conditions .tooth-anim{
+    display: none;
+}
+
+.effected-per{
+    border-radius: 100%;
+    height: 380px;
+    left: 1451px;
+    position: absolute;
+    top: -55px;
+    width: 380px;
+    z-index: 70;
+}
+
+.effected-per .per-wrap h4{
+    color: #8dc63f;
+font-size: 110px;
+left: 78px;
+font-weight: bold;
+margin-bottom: 0;
+margin-top: 29px;
+position: absolute;
+}
+
+
+.effected-per .per-wrap span{
+    /*color: #8dc63f;*/
+display: block;
+font-size: 22px;
+left: -5px;
+line-height: 22px;
+position: absolute;
+text-align: center;
+top: 43%;
+width: 379px;
+}
+
+.socialmedia-box p, .socialmedia-wrapper .col p, .ourCompany p, .hide-DMD p{
+    opacity: 1 !important;
+}
+
+.gum-disease p{
+    border-bottom: 14px solid #fff;
+color: #ffffff !important;
+font-size: 20px;
+margin: 50px 7px 0 30px;
+padding-bottom: 20px;
+font-weight: bold;
+opacity: 1 !important;
+}
+
+.oral-wrap{
+
+}
+.stroke-txt, .heart-txt, .needle-txt{
+    display: none;
+}
+
+.hospital-reductions h2{
+    font-family: arial !important;
+    color: #f99d29;
+}
+
+.bg3 div{
+    display: inline-block;
+float: left;
+left: 175px;
+position: absolute;
+top: 26px;
+width: 1500px;
+display:none;
+}
+
+.arrow-animation{
+    float: right;
+height: auto;
+left: 245px;
+margin: 0;
+/* overflow: hidden; */
+padding: 0;
+position: absolute;
+top: 320px;
+width: 485px;
+z-index: 100;
+}
+
+.new-signatures{
+    width: 510px;
+display: inline-block;
+margin-top: 3%;
+position: absolute;
+display: none;
+}
+
+#company .right-column{
+    float: left;
+padding: 0 40px 0 0;
+width: 795px;
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.tooth{
+    width: 160px;
+}
+
+.nav-logo-btm{
+position: absolute;
+z-index: 9999;
+margin-bottom: -15px;
+margin-left: -195px;
+margin-top: 26px;
+width: 190px;
+}
+
+.wrap p, .direction .blocquotes blockquote, .direction .blocquotes span, .hide-DMD h3, .socialmedia-box p, .youtubbe-video p{
+    color: #666 !important;
+}
+
+.gum-disease p{
+    color: #fff !important
+}
+
+.bg1 div, .bg2 div{
+    display:none !important;
+}
+
+.menu li div a{
+    margin-top: 19px;
+}
+
+.nav-execsummary{
+    margin-top: 5px !important;
+}
+
+.bquo1{
+    left:1070px;
+}
+
+.gum-disease p span{
+    color:white;
+}
+
+.uc-wellness{
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.leader-txt{
+    left: 1070px;
+}
+
+.miss-headings h2[title="NW-clients"]{
+    color: #555555;
+}
+
+#company .right-column h1{
+    font-size: 70px;
+}
+
+.hide-DMD a, .hide-DMD h3{
+    cursor: pointer;
+}
+
+.hide-DMD h3{
+   background: url(../img/accorian-bg2.gif) no-repeat left -38px;
+padding-left: 30px;
+height: 30px;
+padding-top: 4px;
+margin-top: 5px;
+}
+
+.dmd-plus{
+background: url(../img/accorian-bg2.gif) no-repeat left 6px !important;
+}
+
+.socialmedia-box, .youtubbe-video{
+    border-radius: 0;
+    background-color:transparent;
+    border: 3px #636466 solid;
+}
+
+.human .heart{
+    margin: 50px 0 0 25px;
+}
+
+.socialmedia-wrapper .col .social-descript{
+    margin-left: 25px;
+width: 350px;
+line-height: 16px;
+backgorund-color:white;
+}
+
+.logo-bg{
+    position: fixed;
+    width:100%;
+    height: 100%;
+    /*border: thin red solid;*/
+    background: url(../img/logo-bg-lg.png) no-repeat center center; 
+    background-size: 100%;
+}
+
+#community{
+    margin-left: -20px;
+position: relative;
+border: 25px #8DC63F solid;
+background-color: transparent;
+height: 95%;
+}
+
+#community .wrap{
+    background-color: transparent;
+    margin-top: 0px !important;
+}
+
+.excellence-pdf-box{
+    margin-left: 70px;
+}
+
+.logo-exec-sum{
+    margin: auto;
+display: block;
+margin-top: 50px;
+}
+
+.goodNews .footer .share{
+    margin-top:40px;
+    margin-left:-200px;
+}
+
+
+.gum-wrap-arrow{
+
+/* position: absolute; */
+margin-left: 2280px;
+/* width: 180px; */
+/* height: 180px; */
+z-index: 5000;
+margin-top: -100px;
+}
+
+.video-wrap{
+    width: 500px;
+margin-left: 180px;
+margin-top: 40px;
+}
+
+.wrap, #a-look-back .wrap, #a-look-back, .summary-txt, #mission .wrap, #mission, #community, .socialmedia-wrapper, #financials, #company, .exec-summary .wrap, .exec-summary{
+    /*background-color: transparent !important;*/
+}
+
+
+.comm-app-links{
+  margin-left: 32px;  
+  width: 230px;
+}
+
+.kids-app .comm-app-links{
+    margin-left: 50px;
+}
+
+.left-summary-txt .citation{
+    font-size: 9px;
+    line-height: 10px;
+}
+
+.study-material .citation{
+    font-size: 9px;
+    line-height: 10px;
+    margin-top:10px;
+}
+
+.goodNews span{
+    display: block;
+font-size: 9px;
+line-height: 9px;
+color: #636466;
+width: 200px;
+margin-top: -15px;
+}
+
+.direction .plus-minus{
+    top: 580px;
+position: absolute;
+margin-left: 5px;
+}
+
+
+.kids-app p strong, .app div strong{
+    color: #0066a4;
+}
+
+.content-com .com strong{
+    color: #0066a4;
+}
+
+.financialSummary .plus-minus{
+    position: absolute;
+margin-top: 465px;
+margin-left: 30px;
+}
+
+.ourCompany .plus-minus{
+    position: absolute;
+top: 595px;
+margin-left: 10px;}
+
+.tag1 h3 sup, .tag2 h3 sup, .tag3 h3 sup, .tag4 h3 sup{
+    font-size: 38px;
+}
+.tag4 h3 sup{
+    top: -9px;
+}
+
+.problem-per .citation{
+    z-index: 500;
+position: relative;
+opacity: 1;
+font-size: 9px;
+width: 150px;
+margin-left: 100px;
+margin-top: 25px;
+}
+
+.effected-per .citation{
+    z-index: 500;
+position: relative;
+opacity: 1;
+font-size: 9px;
+width: 140px;
+margin-left: 100px;
+margin-top: 25px;
+}
+
+.footer-txt .citation{
+      z-index: 500;
+position: relative;
+opacity: 1;
+font-size: 9px;
+width: 150px;
+margin-left: 570px;
+margin-top: -135px;
+/* border: thin red solid; */
+line-height: 8px;
+}
+
+.hospital-reductions h2 .citation{
+          z-index: 500;
+position: relative;
+opacity: 1;
+font-size: 9px;
+width: 150px;
+margin-left: 570px;
+margin-top: -135px2
+line-height: 8px;
+}
+
+.tag4 span sup{
+    font-size: 11px;
+}
+
+.goodNews .footer .inner-left, .excellence .inner-left img{
+    width: 230px;
+}
+
+.uc-img{
+    width: 600px;
+}
+
+.blocquotes blockquote strong{
+    color: #8dc63f;
+}
+
+.goodNews .footer .share span{
+    margin-left: -85px;
+}
+
+.heart, .animated-custom.infinite{
+/*-webkit-animation: none;*/
+}
+
+.tag4 h3{
+    margin-left: -30px;
+    margin-top: 2px;
+    margin-bottom: -6px;
+}
+
+#company{
+    background-color: white;
+}
+
+#company .wrap{
+    height: 80% !important;
+}
+
+.exec-summary .wrap, .exec-summary{
+    background-color:transparent;
+}
+
+.exec-summary{
+    border: 25px #0066a4 solid;
+    background-color: white;
+}
+
+.com .doc{
+    margin-left: 40px;
+}
+
+.share-box{
+    width: 75px;
+    height: 60px;
+    background-image: url("../img/social-divbg.png");
+    background-repeat: no-repeat;
+    background-position: center 20px;
+    text-align: center;
+    display: none;
+}
+
+.share-box .social-ico{
+    margin-right:3px;
+    margin-top: 6px;
+}
+
+.comm-app-links .share-box{
+    top: 0;
+    margin-top: -54px;
+    margin-left: 240px;
+}
+
+.socialmedia-box a, .socialmedia-box a:hover{
+    color: #0066a4;
+}
+
