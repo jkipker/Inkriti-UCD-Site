@@ -4,12 +4,12 @@
   <div class="wrap">
     <!--right column-->
     <div class="middle-col">
-      <h1 CLASS="animated">Healthy Bottom Line </h1>
+      <h1 CLASS="animated"><img src="img/titles/14-bottom-line.png"/></h1>
       <div class="middle-col-content">
-        <h2>Generating more than $1.1 billion in revenue </h2>
+       
         <div class="middle-col-content-left">
           <p>Through a combination of focused efforts, United Concordia Dental recorded another strong financial year, generating more than $1.1 billion in revenue and earning solid ratings for financial stability. It’s this ongoing strength that gives us the opportunity to move forward, impact lives, and help members improve their oral and overall health.</p>
-          <p>In order for us to continue our mission, we must build on this positive<br/> momentum by investing in technology, our people and the behind-<br/>the-scenes operations that will make purchasing and managing<br/> dental benefits easier for members, reward dentists with a<br/> first of its kind pay-for-performance reward system<br/> and strengthen the partnerships that are<br/> essential to delivering dental products on<br/> exchange in the marketplaces created <br/>by Health Care Reform.</p>
+         
           <ul class="arrow-animation animated">
             <img src="img/bottom-arrows.png"/>
             <!-- <li class="level-one"><img data-4500="left:0;top:300px" data-4550="left:0;top:153px" src="img/arrow1.png" alt="arrow"></li>               .
@@ -19,14 +19,14 @@
           </ul>
         </div>
         <div class="middle-col-content-right">
-          <h3>Positive Numbers.<span>Positive Results.</span> </h3>
+          <h3><img src="img/titles/15-positive-nums.png"/> </h3>
           <p class="pos-num-p">2013 saw solid growth from our strategic health partnerships — more than 600,000 contracts enrolled — bringing total membership to more than 7.5 million.</p>
         </div>
       </div>
     </div>
 
     <div class="financialSummary">
-      <h1>2013 Financial Summary</h1>
+      <h1><img src="img/titles/16-summary.png"/></h1>
       <div class="heading"><strong>2013 Consolidated Balance Sheet</strong><span>(As of December 31, $ in Thousands)</span></div>
       <div class="financialSummary-details">
         <div class="accordion">
@@ -43,33 +43,37 @@
           <h2><span>Liabilities and Stockholders Equity <strong>$704,443</strong></span></h2>
           <div class="content">
             <ul>
-              <li><span>Cash and Cash Equivalents</span><strong>$116,114</strong></li>
-              <li><span>Investments</span><strong>360,529</strong></li>
-              <li><span>Receivables</span><strong>152,390</strong></li>
-              <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab">$704,443</strong></li>
+              <li><span>Claims Outstanding</span><strong>$109,412</strong></li>
+              <li><span>Unearned Subscription Income</span><strong>42,049</strong></li>
+              <li><span>Other Payables and Accrued Expenses</span><strong>114,813</strong></li>
+              <li><span><strong>Total Liabilities</strong></span><strong>266,274</strong></li>
+              <li><span>Stockholder's Equity</span><strong>438,169</strong></li>
+              <li class="result-tab"><span><strong>Total Liabilities Stockholder's Equity</strong></span><strong class="total-tab">$704,443</strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
           <h2><span>Revenue <strong>$1,145,580</strong></span></h2>
           <div class="content">
             <ul>
-              <li><span>Cash and Cash Equivalents</span><strong>$116,114</strong></li>
-              <li><span>Investments</span><strong>360,529</strong></li>
-              <li><span>Receivables</span><strong>152,390</strong></li>
-              <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab">$704,443</strong></li>
+              <li><span>Dental Care Expenses</span><strong>$806,984</strong></li>
+              <li><span>Administrative and Other Expenses</span><strong>232,468</strong></li>
+              <li><span>Total Expenses</span><strong>1,039,452</strong></li>
+              <li><span>Income Before Taxes</span><strong>106,128</strong></li>
+              <li class="result-tab"><span>Provision for Income Taxes</span><strong class="total-tab">$37,441</strong></li>
+              <li class="result-tab"><span>Net Income</span><strong class="total-tab">$68,687</strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
           <h2><span>Net Income<strong>$68,687</strong></span></h2>
           <div class="content">
             <ul>
-              <li><span>Cash and Cash Equivalents</span><strong>$116,114</strong></li>
-              <li><span>Investments</span><strong>360,529</strong></li>
-              <li><span>Receivables</span><strong>152,390</strong></li>
-              <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab">$704,443</strong></li>
+              <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong>$38,629</strong></li>
+              <li><span>Net Cash Provided by Operating Activities</span><strong>107,316</strong></li>
+              <li><span>Net Cash Used in Investing Activities</span><strong>(925)</strong></li>
+              <li><span>Net Cash Used in Financing Activities</span><strong>92,867</strong></li>
+              <li class="result-tab"><span>Net Increase in Cash and Cash Equivalents</span><strong class="total-tab">13,524</strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab">102,590</strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab">$116,114</strong></li>
             </ul>
           </div>
         </div>

@@ -5,23 +5,24 @@
 
             <div class="contentWrap">
                 <div class="summary-txt">
-                   <h2 class="animated">Executive Summary</h2>
+                   <h2 class="animated"><img src="img/titles/4-exec-summary.png"/></h2>
                    <div class="left-summary-txt">
-                    <p><strong>As we look back at the past year,</strong> it will always stand out as one that further changed who we are as a company. It’s not something hastily done or easily accomplished, but something each of us at United Concordia believes is truly necessary if we are to succeed at taking our company and our industry to the next level, and meet the ever-changing needs of our customers.</p>
+                    <p><strong>A lot can change during the course of a year.</strong> In 2013, we channeled our energy on becoming a consumer-centric company focused on the important connection between oral and overall health. By focusing on data-driven decisions, accountability and result inclusiveness and innovation, <strong>we are working to establish United Concordia as a leading, non-traditional dental wellness company.</strong> Based on new results from the research gathered and reported in our landmark study of 2012,<sup>2</sup> we started another chapter in our history—seeking new ways to share the message that a healthier mouth and a healthier body go hand-in-hand, and helping guide consumers to better overall wellness.</p>
 
-                    <p>We enjoyed another strong financial year, ensuring we have the resources we need to move forward, impact lives and help members improve their oral and overall health like never before.</p>
+                    <p>We’ve developed and implemented new ways to share information, created new products and services targeted more clearly to differing client needs and affordability, and worked to enhance our partnerships with our dentists—making major strides toward our important and exciting transformation.</p>
 
-                    <p>We took a deeper dive into the research from our landmark 2012 study<sup>2</sup> and built on earlier findings that clearly illustrate the connection between the health of the mouth and the health of the body. This research further demonstrates the significant medical cost savings possible when individuals with gum disease receive and maintain treatment. This insight continues to inspire us and drive our efforts to develop new ways to share this important story and ensure consumers become more active in their own oral health care.</p>
+                    <p>Through enhanced interaction and coordination between dentists and doctors, <strong>we can lower costs, promote overall health and deliver real savings.</strong></p>
 
                     <p class="citation">2 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of  Dental Research, March 23, 2012.</p>
                   </div>
 
                   <div class="right-summary-txt">
-                    <p>We continued to build our nationwide network of dentists, added to our range of cost-effective and responsive plans and programs,  enhanced our website and created simpler ways for members to engage with us. We also developed strategic health partnerships, created an award-winning mobile app and strengthened our position as an industry leader.</p>
-
-                  <p>For all of us at United Concordia, 2013 was an exciting year, but the momentum we generated is only the beginning of a mission that will carry us far into the future as we continue to build awareness, provide education and do all we can to ensure that people everywhere understand the important connection between oral health and overall wellness. 
-                    <img class="logo-exec-sum" src="img/logo-exec-sum.png"/>
-                  </p>
+                    <p>By engaging with consumers through targeted communication, education and treatment, we’re helping them see us as partners in their journey to overall wellness.</p>
+                    <p>
+United Concordia Dental created a lot of momentum in 2013— generating more than 600,000 new members in our first year focused on oral health and overall wellness. This is only the beginning of a mission that will carry us far into the future, as we continue to build awareness, provide education and do all we can to ensure that people everywhere understand the important connection between oral health and overall wellness.</p><p>
+We’re excited about the challenges of the years ahead. As we heighten our commitment to taking our company and industry to the next level, we are solidifying our strategic move from dental insurer to a non-traditional dental wellness company unlike any other.
+                                        <img class="logo-exec-sum" src="img/logo-exec-sum.png"/>
+                                      </p>
                 </div>
                    
                 </div>

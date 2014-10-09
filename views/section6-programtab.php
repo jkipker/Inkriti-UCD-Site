@@ -39,15 +39,20 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
 
                <div class="uc-wellness">
                   <hgroup>
-                    <h2>Giving Members<br>More Reasons To Smile</h2>
-                    <h2>Smile For Health<sup>&reg;</sup>&mdash;Wellness</h2>
+                    <h2><img src="img/titles/8-smile-for-health.png"/></h2>
                   </hgroup>
                   <div class="uc-img"><img src="img/uc-wellness.png" alt=""></div>
-                  <div class="leader-txt"><p><strong>As a leader in the industry</strong>, we're recognized for our focus on helping
-members cover the expenses of preventive dental care, restoration and dental
-emergencies. Through input from our members and the nearly 103,000 dentists
-within our network of nearly 300,000 locations, we’re constantly working to add
-to the range of our cost-effective plans and programs.</p></div>
+                  <div class="leader-txt"><p><strong>As a leader in the industry</strong>, we're recognized for our focus on helping members cover the expenses of preventive dental care, restoration and dental              emergencies. Through input from our members and the nearly 103,000 dentists
+                  within our network of nearly 300,000 locations, we’re constantly working to add
+                  to the range of our cost-effective plans and programs.</p>
+
+
+              <p>A recent network sharing agreement between United Concordia Dental, Dental Network of America (DNoA) and DenteMax further solidifies our position as <strong>one of the nation’s largest networks with more than 102,900 unique dentists and over 283,100 access points.</strong> And as our network continues to grow, so does our ability to provide high-quality, accessible care to our members and clients, while helping our producers, participating dentists and partners realize additional business opportunities.</p>
+
+              <p>
+                Our innovative <span><strong>Smile For Health&reg;–Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, and who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
+              </p>
+</div>
                </div>
 
                <!-- Rachel Stone -->
@@ -59,18 +64,18 @@ wellness company, <strong>we are investing in client and member
 engagement</strong> through the addition of wellness coaches to
 our sales team. These coaches will meet face-to-face with
 HR managers, company marketing teams and members to
-help them make the most of what this product has to offer
+help them make the most of what this product has to offer.
 <span data-3400="transform:scale(0); opacity:0" data-3450="transform:scale(1); opacity:1" class="fillOrangeBtm">&nbsp;</span>
                   </blockquote>
                   <span>&mdash; Laurie Laspina<br> <i>Division Vice President, Western Region, Sales,<br>
 for United Concordia Dental</i></span>
                   </div>
 
-                  <div class="innovative-smile"><p>Our innovative <span>Smile For Health<sup>®</sup>–Wellness</span> product has been specifically
+                  <!-- <div class="innovative-smile"><p>Our innovative <span>Smile For Health<sup>®</sup>–Wellness</span> product has been specifically
 developed to help members with certain chronic conditions like heart disease,
 stroke and diabetes, and who are pregnant, lead a healthier life through better
 oral care. Through involved employer groups, 600,000 members now receive
 enhanced benefits to treat their gum disease, helping decrease health care
-costs across the board.</p></div>
+costs across the board.</p></div> -->
 
             </div><!-- /program Section -->

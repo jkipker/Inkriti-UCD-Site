@@ -183,6 +183,7 @@ h1, h2{
     margin-left: 105px;
     margin-top: -55px;
     width: 540px;
+    height: 80px;
 }
 
 .study-material h2 span{
@@ -223,7 +224,7 @@ h1, h2{
     font-size: 17px;
     line-height: 20px;
     margin-left: 40px;
-    margin-top: -15px;
+    margin-top: 75px;
     width: 480px;
 }
 
@@ -504,10 +505,10 @@ width: 7000px;
 }
 
 .hide-DMD{
-	border-top: 2px solid #666;
+	border-top: none;
     color: #fff;
     margin-left: -20px;
-    margin-top: 20px;
+    margin-top: 50px;
     position: relative;
     top: -20px;
     width: 495px;
@@ -516,7 +517,7 @@ width: 7000px;
 
 
 .hide-DMD p {
-    font-size: 13px;
+    font-size: 16px;
 margin-top: -18px;
 width: 470px;
 margin-left: 30px;
@@ -687,11 +688,11 @@ div{
 }
 
 .flaux-anim{
-    bottom: 92px;
-    left: 225px;
-    position: relative;
-    width: 305px;
-    z-index: 10;
+    bottom: 10px;
+left: 205px;
+position: relative;
+width: 305px;
+z-index: 10;
 }
 
 .medical-savings{
@@ -787,7 +788,7 @@ audio, canvas, progress, video{
     left: 1030px;
     top: 38%;
     font-size: 17px;
-    width: 630px;
+    width: 660px;
 }
 
 .innovative-smile{
@@ -797,9 +798,9 @@ audio, canvas, progress, video{
 
 .blocquotes.engagement{
     font-size: 13px;
-    left: 1500px;
+    left: 1505px;
     position: absolute;
-    top: 7%;
+    top: 17%;
     width: 600px;
 }
 
@@ -808,7 +809,7 @@ audio, canvas, progress, video{
 }
 
 .phone-woman-img{
-    margin-left: -1325px;
+    margin-left: -1300px;
 }
 
 .financial-img{
@@ -850,7 +851,7 @@ audio, canvas, progress, video{
 .call-center{
     left: 85px;
     position: absolute;
-    top: 220px;
+    top: 206px;
     width: 210px;
 }
 
@@ -969,7 +970,7 @@ background-color:white;
 
 .link-icon{
     position: absolute;
-    right: 5px;
+    right: 6px;
     bottom: 2px;
 }
 
@@ -999,7 +1000,7 @@ background-color:white;
 
 .socialmedia-wrapper .col.colright .socialmedia-box-rowleft .socialmedia-box{
     width: 175px;
-    height: 250px;
+    height: 312px;
 }
 
 .socialmedia-wrapper .ucd-lower-box{
@@ -1054,7 +1055,7 @@ background-color:white;
 }
 
 #company{
-    margin-left:-10px;
+    margin-left:-20px;
     width: 840px;
     border: 25px #004462 solid;
 }
@@ -1119,7 +1120,7 @@ top: -20px;
 font-size: 17px;
 line-height: 22px;
 margin-left: 100px;
-margin-top: -15px;
+margin-top: 75px;
 width: 380px;
 }
 
@@ -1183,7 +1184,7 @@ width: 380px;
 .goodNews h2{
     color: #0066a4;
     font-size: 62px;
-    left: -20px;
+    left: 90px;
     letter-spacing: 0.05em;
     width: 900px;margin-top:15%;
 }
@@ -1211,7 +1212,7 @@ width: 380px;
 .direction{
     width: 805px;
     top: 0%;
-    height:495px;
+    height:565px;
     margin-left:10px;
     background-color: white !important;
     min-height: auto;
@@ -1267,11 +1268,11 @@ line-height: 48px;
 
 .medical-savings h2{
 color: #8dc63f;
-font-size: 46px;
-left: 200px;
+font-size: 50px;
+left: 140px;
 position: absolute;
 text-transform: uppercase;
-top: -35px;
+top: -45px;
 width: 650px;
 }
 
@@ -1285,7 +1286,9 @@ width: 650px;
 }
 
 #tags{
-    width: 1120px;
+    margin-top: -40px;
+    margin-left: -40px;
+    width: 1150px;
 }
 
 .hospital-bg{
@@ -1313,7 +1316,7 @@ left: 2959px;
 position: absolute;
 top: 168%;
 width: 100%;
-margin-top: 115px;
+margin-top: 125px;
 }
 
 .footer-txt span{
@@ -1343,9 +1346,9 @@ margin-left: 60px;
 
 .blocquotes.engagement{
     font-size: 13px;
-left: 1465px;
+left: 1495px;
 position: absolute;
-top: 7%;
+top: 18%;
 width: 600px;
 }
 
@@ -1360,7 +1363,7 @@ width: 600px;
 }
 
 .phone-woman-img{
-    margin-left: -1325px;
+    margin-left: -1305px;
 }
 
 .going-beyond h2{
@@ -1380,7 +1383,7 @@ line-height:62px;
 .call-center{
     left: 45px;
 position: absolute;
-top: 230px;
+top: 260px;
 width: 210px;
 }
 
@@ -1400,6 +1403,7 @@ width: 450px;
 
 .content-com p{
     font-size: 18px;
+    margin-left: 20px;
 }
 
 .content-com .com h2{
@@ -1452,7 +1456,7 @@ width: 1000px;
 
 .middle-col-content-left{
     float: left;
-    width: 600px;
+    width: 500px;
     margin-left: 20px;
 }
 
@@ -1461,6 +1465,7 @@ width: 1000px;
 margin: 0;
 font-size: 17px;
 line-height: 22px;
+margin-top:-10px;
 }
 
 .middle-col{
@@ -1500,7 +1505,7 @@ background: none !important;
 
 .middle-col-content-right{
    padding: 0;
-    margin-top: -170px;
+    margin-top: 170px;
     margin-right: -95px;
     position: relative;
     color: #0066a4;
@@ -1667,7 +1672,7 @@ margin: 0;
 /* overflow: hidden; */
 padding: 0;
 position: absolute;
-top: 320px;
+top: 340px;
 width: 485px;
 z-index: 100;
 }
@@ -1713,12 +1718,21 @@ width: 190px;
     display:none !important;
 }
 
-.menu li div a{
-    margin-top: 19px;
+.menu li div a{    
+    font-size: 13px;
+    line-height: 13px;
+    text-decoration: none;
+    position: relative;
+    z-index: 999;
+    /*border: thin red solid;*/
+    height: 40px;
+    width: 70px;
+    margin: auto;
+    margin-top: 10px;
 }
 
 .nav-execsummary{
-    margin-top: 5px !important;
+    margin-top: -3px !important;
 }
 
 .bquo1{
@@ -1735,7 +1749,13 @@ width: 190px;
 }
 
 .leader-txt{
-    left: 1070px;
+    left: 1072px;
+margin-left: -310px;
+top: 150px;
+}
+
+.leader-txt span{
+    color: #0066a4;
 }
 
 .miss-headings h2[title="NW-clients"]{
@@ -1751,7 +1771,7 @@ width: 190px;
 }
 
 .hide-DMD h3{
-   background: url(../img/accorian-bg2.gif) no-repeat left -38px;
+   /*background: url(../img/accorian-bg2.gif) no-repeat left -38px;*/
 padding-left: 30px;
 height: 30px;
 padding-top: 4px;
@@ -1775,7 +1795,8 @@ background: url(../img/accorian-bg2.gif) no-repeat left 6px !important;
 .socialmedia-wrapper .col .social-descript{
     margin-left: 25px;
 width: 350px;
-line-height: 16px;
+font-size: 16px;
+line-height: 22px;
 backgorund-color:white;
 }
 
@@ -1784,8 +1805,9 @@ backgorund-color:white;
     width:100%;
     height: 100%;
     /*border: thin red solid;*/
-    background: url(../img/logo-bg-lg.png) no-repeat center center; 
+    /*background: url(../img/logo-bg-lg.png) no-repeat center center; */
     background-size: 100%;
+    display: none;
 }
 
 #community{
@@ -1863,8 +1885,8 @@ margin-top: 40px;
 font-size: 9px;
 line-height: 9px;
 color: #636466;
-width: 200px;
-margin-top: -15px;
+width: 500px;
+margin-top: -5px;
 }
 
 .direction .plus-minus{
@@ -1926,7 +1948,7 @@ position: relative;
 opacity: 1;
 font-size: 9px;
 width: 150px;
-margin-left: 570px;
+margin-left: 110px;
 margin-top: -135px;
 /* border: thin red solid; */
 line-height: 8px;
@@ -1952,11 +1974,13 @@ line-height: 8px;
 }
 
 .uc-img{
-    width: 600px;
+    margin-left: 750px;
+width: 500px;
+margin-top: 150px;
 }
 
 .blocquotes blockquote strong{
-    color: #8dc63f;
+    color: #0066a4;
 }
 
 .goodNews .footer .share span{
@@ -2001,12 +2025,20 @@ line-height: 8px;
     background-repeat: no-repeat;
     background-position: center 20px;
     text-align: center;
-    display: none;
+    /*display: none;*/
+}
+
+.innovative-smile span{
+    color: #0066a4;
 }
 
 .share-box .social-ico{
     margin-right:3px;
     margin-top: 6px;
+}
+
+.content-com .share-box{
+    margin-left: 40px;
 }
 
 .comm-app-links .share-box{
@@ -2018,4 +2050,62 @@ line-height: 8px;
 .socialmedia-box a, .socialmedia-box a:hover{
     color: #0066a4;
 }
+
+.blocquotes .engagement{
+    font-size: 13px;
+    left: 1500px;
+    position: absolute;
+    top: 17%;
+    width: 600px;
+}
+
+#company .accordion .column p strong{
+    color: #0066a4;
+}
+
+h2 img{
+        width: auto !important;
+        display:block;
+    }
+
+    .citation .six{
+        /*border: thin red solid;*/
+        color: #666;
+        display: inline-block;
+        margin-top: -25px;
+        margin-left: 250px;
+        position: absolute;
+        width: 150px;
+    }
+
+    .nav2 .menu hr{
+        width: 88px;
+        margin-left: -10px;
+        color: #0066a4;
+        background-color: #0066a4;
+        border-color #0066a4;
+    }
+    .nav-lookback hr{
+
+    }
+
+    .nav2 .menu{
+        width: 720px;
+    }
+
+    .menu li:nth-child(4) div{
+        width: 70px;
+    }
+
+
+    .menu li div a{
+        opacity: 0;
+    }
+    .menu li div a:hover{
+        opacity: 1;
+    }
+
+    .show-nav{
+        opacity:1 !important;
+    }
 

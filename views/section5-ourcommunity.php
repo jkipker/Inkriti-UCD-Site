@@ -9,7 +9,7 @@
 
         <div class="mediaWrap">
                     <div class="going-beyond">
-          <h2 class="animated">Going Above<span class="indent_one">And Beyond Is</span><span class="indent_two">Standard Procedure</span></h2>
+          <h2 class="animated"><img src="img/titles/9-above-beyond.png"/></h2>
           <ul class="green-list">
             <li>Both our Government and Commercial Call Centers have earned Benchmark Portal Certification as Centers for Excellence</li>
             <li>Our Commercial Call Center also earned 1<sup>st</sup> place in the medium-size Call Center Category in Benchmark Portal’s Top 100 Call Center Competition.</li>
@@ -25,11 +25,8 @@
             they can make more informed decisions about their
             benefits and their health.</p>
           <div class="com">
-            <h2>.com</h2>
-            <p>At <strong>UnitedConcordia.com</strong>, enhanced search
-              and navigation features were designed to help
-              memebers find exactly what they need with
-              just a few simple clicks.</p>
+            <h2><img src="img/titles/10-com.png"/></h2>
+            <p>At <strong>UnitedConcordia.com</strong>, enhanced search and navigation features help members find exactly what they need with just a few simple clicks.</p>
             <a class="doc" href="https://www.unitedconcordia.com" target="_blank"><img src="img/btn6-concordia.jpg" alt=""> </a>
 
             <div class="share-box">
@@ -44,7 +41,7 @@
           </div>
         </div>
         <div class="app">
-          <h2>App</h2>
+          <h2><img src="img/titles/11-app.png"/></h2>
           <div>
             <p>When members are away from their
               computer, innovative mobile tools like
@@ -82,8 +79,8 @@
           <i>Chief Marketing Officer, Philadelphia Zoo</i></span> </div>
         <div class="ponyies"> <img src="img/Page-1-Image-11.png" alt=""> </div>
         <div class="kids-app">
-          <h2>Kid's App</h2>
-          <p>For kids, our free <strong>Chomper Chums® app</strong> is an engaging tool that makes
+          <h2><img src="img/titles/12-kidsapp.png"/></h2>
+          <p>For kids, our free <strong>Chomper Chums<sup>®</sup> app</strong> is an engaging tool that makes
             oral health fun by teaching the importance of proper brushing, flossing
             and rinsing, as well as the many benefits of good nutrition. Recognized
             throughout the industry, this app was recently honored with a prestigious
@@ -107,8 +104,9 @@
       </div><!--social media wrapper-->
       <div class="socialmedia-wrapper">
         <div class="col">
-          <h1>Social Media</h1>
-          <p class="social-descript">In 2013, we engaged consumers through a Facebook program designed to educate them about the connection between oral and overall wellness, while supporting three charities connected to United Concordia’s mission — National Diabetes Association, March of Dimes and Arthritis Foundation. Consumers can also find us on Twitter, YouTube, and LinkedIn.</p>
+          <h1><img src="img/titles/13-social-media.png"/></h1>
+          <p class="social-descript">In 2013, we engaged consumers through
+a Facebook program designed to educate them about the connection between oral and overall wellness, while supporting three charities connected to United Concordia’s mission — National Diabetes Association, March of Dimes and Arthritis Foundation. Consumers can also find us on Twitter, YouTube, and LinkedIn.</p>
           <!--social links-->
           <ul class="social-links">
 
@@ -136,8 +134,12 @@
             <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
           <div class="socialmedia-box-row ucd-end-row">
             <div class="socialmedia-box-rowleft">
-              <div class="socialmedia-box"> <a href="https://twitter.com/UnitedConcordia" target="_blank"><img src="img/thumb-ad.jpg" alt="ad" width="269" height="130"></a> <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon" style="margin-top:10px"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
-                <p>Picky kids may have a hard time getting enough calcium and other nutrients. These choices may help you please them: <a href="http://ow.ly/Cnn3W http://ow.ly/d/2Afl" style="color: #0066a4;">http://ow.ly/Cnn3W http://ow.ly/d/2Afl</a></p>
+              <div class="socialmedia-box"> 
+
+                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img src="img/thumb-ad.jpg" alt="ad" width="269" height="130"></a>  -->
+
+                <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon" style="margin-top:10px"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
+                <p style="margin-top:110px;">Picky kids may have a hard time getting enough calcium and other nutrients. These choices may help you please them: Picky kids may have a hard time getting enough calcium and other nutrients. These choices may help you please them: <a href="http://ow.ly/Cnn3W http://ow.ly/d/2Afl" style="color: #0066a4;">http://ow.ly/Cnn3W http://ow.ly/d/2Afl</a></p>
               </div>
               <div class="socialmedia-box ucd-lower-box">
                 <p>RT @BuffaloPrairieD: October is National #Dental #Hygiene Month! Are you making your dental health a priority? </p>

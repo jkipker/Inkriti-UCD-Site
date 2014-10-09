@@ -80,6 +80,11 @@ $(function() {
 
 
 	//NAVIGATION FUNCTIONS
+	$( ".nav-home" ).click(function() {	
+		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: 0}, 500);
+		showNav();
+	});
+
 	$( ".nav-lookback" ).click(function() {	
 		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: 905}, 500);
 		showNav();
@@ -373,6 +378,14 @@ $(function() {
 		{ offset: '90%', horizontal:true, triggerOnce: true 
 	});
 	
+
+
+/*2ND NAV */
+$( ".menu a" ).click(function() {
+// console.log('click')	
+	$('.show-nav').removeClass('show-nav');
+	$(this).addClass('show-nav');
+});
 
 
 

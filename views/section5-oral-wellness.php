@@ -1,7 +1,6 @@
 <div class="oral-wellness">
               <hgroup>
-                <h2 class="animated">Investing In<br>Oral Wellness Generates</h2>
-                <h2 class="smile animated">Returns That Will Make <br/>You Smile!</h2>
+                <h2 class="animated"><img src="img/titles/5-oral-wellness.png"/></h2>
               </hgroup>
 
               <div class="maxp-txt animated" data-2000="opacity:1">
@@ -13,15 +12,15 @@
               <div class="problem-per">
                 <div class="per-wrap animated" data-0="opacity:1;" data-2190="opacity:1;">
                     <h4>74<sup>%</sup></h4>
-                    <span>of Americans will have<br>periodontitis at some<br>point in their lives.<sup>4</sup></span>
+                    <span>of Americans will have<br>periodontitis at some<br>point in their lives.<sup>3</sup></span>
                     <div class="tooth">
                         <!-- <img data-2000="opacity:1;" data-2055="opacity:0;" src="img/tooth-fill-animation.gif" alt=""> -->
                         <img data-2000="opacity:0;" data-2055="opacity:0;" data-2060="opacity:1;" src="img/tooth-circle.png" alt="">
                     </div>
                 </div>
                 <img data-1950="top:20%; left:20px; opacity:0" data-2150="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
-                <p class="citation">4 http://statisticbrain.com/dental-hygine-statistics/Web April 24, 2012.
-                  <a href="#"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
+                <p class="citation">3 http://statisticbrain.com/dental-hygine-statistics/Web April 24, 2012.
+                  <a href="http://statisticbrain.com/dental-hygine-statistics/Web"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
 
@@ -44,13 +43,13 @@
 
                 <div class="per-wrap" data-0="opacity:1;" data-2290="opacity:1;">
                     <h4>50<sup>%</sup></h4>
-                    <span>of adults over 21<br>are affected by<br>chronic conditions<br>such as<br>heart disease,<br>stroke<br>and diabetes.<sup>5</sup></span>
+                    <span>of adults over 21<br>are affected by<br>chronic conditions<br>such as<br>heart disease,<br>stroke<br>and diabetes.<sup>4</sup></span>
                     <div class="people-figures animated">
                         <img src="img/diseased-people.png" alt="">
                     </div>
                 </div>
                 <img data-2300="top:20%; left:20px; opacity:0" data-2400="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
-                <p class="citation">5 CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009
+                <p class="citation">4 CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009
                   <a href="#"><img src="img/btn5-cdc.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
@@ -68,7 +67,7 @@
 
               <div class="oral-care">
                 <div class="oral-wrap">
-                  <h2>Oral Care Habits<br>And Regular Dental<br>Visits For At-Risk<br>Patients<span>Can Produce<br>Dramatic Health<br>Care Savings.</span></h2>
+                  <h2><img src="img/titles/6-care-habits.png"/></h2>
                 </div>
                 <div class="flaux-anim" data-2550="opacity[swing]:0" data-2600="opacity[swing]:1">
                    <div><img src="img/flaux-img.png" alt=""></div>
@@ -77,24 +76,24 @@
                 <div class="medical-savings">
                     <h2>Medical Cost Savings<sup>6</sup></h2>
                     <div class="medical-bg">
-                        <div id="human-figs" data-2300="opacity:0" data-2400="opacity:1;"><img src="img/people-figures.png" alt=""></div>
-                        <div id="tags"><img src="img/animated-hands.png" alt="">
-                            <div class="tag1">
-                                <h3><sup>$</sup>5681</h3>
+                        <!--div id="human-figs" data-2300="opacity:0" data-2400="opacity:0;"><img src="img/people-figures-new.png" alt=""></div-->
+                        <div id="tags"><img src="img/people-figures-new.png" alt="">
+                            <!--div class="tag1">
+                                <h3><sup>$</sup>5,681</h3>
                                 <span>per person<br>with strokes</span>
                             </div>
                             <div class="tag2">
-                                <h3><sup>$</sup>1080</h3>
+                                <h3><sup>$</sup>1,080</h3>
                                 <span>per person<br>with heart disease</span>
                             </div>
                             <div class="tag3">
-                                <h3><sup>$</sup>2840</h3>
+                                <h3><sup>$</sup>2,840</h3>
                                 <span>per person<br>with diabetes</span>
                             </div>
                             <div class="tag4">
-                                <h3><sup>$</sup>1477</h3>
-                                <span>per person<br>diabetic outpatient<br>drug costs<sup>7</sup></span>
-                            </div>
+                                <h3><sup>$</sup>1,477</h3>
+                                <span>per person<br>diabetic outpatient<br>drug costs<sup>6</sup></span>
+                            </div-->
                         </div>
                     </div>
                 </div>
@@ -116,7 +115,7 @@
                    <h2>Hospitalization Reductions<sup>6</sup></h2>
                 </div>
               </div>
-              <h2 class="footer-txt animated">Everyone Wins With Oral Wellness. <span>Healthier Mouths. Healthier Employees. Healthier Bottom Lines.</span>
-                <p class="citation">6 Savings after seven or more periodontal visits. <br/><br/>7 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</p>
+              <h2 class="footer-txt animated"><img src="img/titles/7-everyone-wins.png"/>
+                <p class="citation">5 Savings after seven or more periodontal visits. <br/><br/><span class="six">6 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</span></p>
               </h2>
             </div><!-- /oral wellness -->

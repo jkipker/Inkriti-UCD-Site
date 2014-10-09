@@ -33,18 +33,19 @@
                 <nav id="navbar" class="bottom-nav" data-30="opacity:0" data-0="opacity:1">
                   <img class="nav-logo-btm" src="img/logo-btm-nav.png"/>
                    <ul class="menu">
-                <li><div><a class="nav-lookback" href="#" data-target="lookBack">A Look Back</a></div></li>
-                <li><div><a class="nav-execsummary" href="#" data-target="exeSummary">Executive<br>Summary</a></div></li>
-                <li><div><a class="nav-ourmission" href="#" data-target="ourMission">Our Mission</a> </div>
+                <li><div><a class="nav-home" href="#" data-target="lookBack">Home <hr/></a></div></li>
+                <li><div><a class="nav-lookback" href="#" data-target="lookBack">A Look Back <hr/></a></div></li>
+                <li><div><a class="nav-execsummary" href="#" data-target="exeSummary">Executive<br>Summary <hr/></a></div></li>
+                <li><div><a class="nav-ourmission" href="#" data-target="ourMission">Our Mission <hr/></a> </div>
                   <ul class="subNav">
                     <li><a class="nav-ourmission" href="#" data-target="tab1">Mission</a></li>
                     <li><a class="nav-direction" href="#" data-target="tab2">Direction</a></li>
                     <li><a class="nav-program" href="#" data-target="tab3">Program</a></li>
                   </ul>
                 </li>
-                <li><div><a class="nav-ourcommunity" href="#" data-target="ourCommunity">Community</a></div></li>
-                <li><div><a class="nav-financials" href="#" data-target="financials">Financials</a></div></li>
-                <li><div><a class="nav-company" href="#" data-target="ourCompany">Company</a></div></li>
+                <li><div><a class="nav-ourcommunity" href="#" data-target="ourCommunity">Community <hr/></a></div></li>
+                <li><div><a class="nav-financials" href="#" data-target="financials">Financials <hr/></a></div></li>
+                <li><div><a class="nav-company" href="#" data-target="ourCompany">Company <hr/></a></div></li>
                    </ul>
                    
                 </nav>
