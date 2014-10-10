@@ -30,7 +30,7 @@
     <!--secondary nav-->
 
             <div id="home" class="nav2">
-                <nav id="navbar" class="bottom-nav" data-30="opacity:0" data-0="opacity:1">
+                <nav id="navbar" class="bottom-nav">
                   <img class="nav-logo-btm" src="img/logo-btm-nav.png"/>
                    <ul class="menu">
                 <li><div><a class="nav-home" href="#" data-target="lookBack">Home <hr/></a></div></li>

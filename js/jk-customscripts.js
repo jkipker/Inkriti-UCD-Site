@@ -46,6 +46,14 @@ $(function() {
 			event.preventDefault();
 		}); 
 
+	window.onscroll = function (event) {
+		// console.log("scroll = " + window.screenX);
+
+		// var p = $( ".stage" );
+	 //    var position = p.position();
+	 //    console.log("myPosLeft = "+position.left + " top = "+ position.top);
+	}
+
 
 
 	//NEXT AND PREVIOUS BUTTON FUNCTION
@@ -53,8 +61,8 @@ $(function() {
 	// var position = p.position();
 	// console.log("myPosLeft = "+position.left + " top = "+ position.top);
 	$( ".next" ).click(function() {		
-		var distance = myWidth/2;
-		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: "+="+distance}, 500);
+		var distance = myWidth/1.75;
+		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: "+="+distance, easing: 'easeIn'}, 900);
 
 		//SHOW BOTTOM NAVIGATION
 		if($(window).scrollLeft() <= 0) {
@@ -63,8 +71,8 @@ $(function() {
 	});
 
 	$( ".prev" ).click(function() {
-		var distance = myWidth/2;
-		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: "-="+distance}, 500);
+		var distance = myWidth/1.75;
+		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: "-="+distance, easing: 'easeIn'}, 900);
 		
 		//HIDE BOTTOM NAVIGATION
 		if($(window).scrollLeft() <= distance) {
@@ -118,7 +126,7 @@ $(function() {
 
 	$( ".nav-financials" ).click(function() {
 		$("html:not(:animated), body:not(:animated)").animate({scrollLeft: 19550}, 500);	
-		$('.financials').ScrollTo();
+		// $('.financials').ScrollTo();
 		showNav();
 	});
 
@@ -130,7 +138,7 @@ $(function() {
 
 	// showNav();
 	function showNav(){
-		$( ".nav2 .bottom-nav" ).show();
+		// $( ".nav2 .bottom-nav" ).show();
 	}
 
 
@@ -214,8 +222,8 @@ $(function() {
 		{ offset: '70%', horizontal:true, triggerOnce: true 
 	});
 
-	$('.people-figures').waypoint(function() {
-		$('.people-figures').addClass('fadeInDown'); },
+	$('.per-wrap2').waypoint(function() {
+		$('.per-wrap2').addClass('fadeInDown'); },
 		{ offset: '70%', horizontal:true, triggerOnce: true 
 	});
 
@@ -382,7 +390,7 @@ $(function() {
 
 /*2ND NAV */
 $( ".menu a" ).click(function() {
-// console.log('click')	
+    console.log('click')	
 	$('.show-nav').removeClass('show-nav');
 	$(this).addClass('show-nav');
 });

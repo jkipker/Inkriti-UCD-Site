@@ -7,13 +7,13 @@
                 <div class="summary-txt">
                    <h2 class="animated"><img src="img/titles/4-exec-summary.png"/></h2>
                    <div class="left-summary-txt">
-                    <p><strong>A lot can change during the course of a year.</strong> In 2013, we channeled our energy on becoming a consumer-centric company focused on the important connection between oral and overall health. By focusing on data-driven decisions, accountability and result inclusiveness and innovation, <strong>we are working to establish United Concordia as a leading, non-traditional dental wellness company.</strong> Based on new results from the research gathered and reported in our landmark study of 2012,<sup>2</sup> we started another chapter in our history—seeking new ways to share the message that a healthier mouth and a healthier body go hand-in-hand, and helping guide consumers to better overall wellness.</p>
+                    <p><strong>A lot can change during the course of a year.</strong> In 2013, we channeled our energy on becoming a consumer-centric company focused on the important connection between oral and overall health. By focusing on data-driven decisions, accountability and result inclusiveness and innovation, <strong>we are working to establish United Concordia as a leading, non-traditional dental wellness company.</strong> Based on new results from the research gathered and reported in our landmark study of 2012,<sup>1</sup> we started another chapter in our history—seeking new ways to share the message that a healthier mouth and a healthier body go hand-in-hand, and helping guide consumers to better overall wellness.</p>
 
                     <p>We’ve developed and implemented new ways to share information, created new products and services targeted more clearly to differing client needs and affordability, and worked to enhance our partnerships with our dentists—making major strides toward our important and exciting transformation.</p>
 
                     <p>Through enhanced interaction and coordination between dentists and doctors, <strong>we can lower costs, promote overall health and deliver real savings.</strong></p>
 
-                    <p class="citation">2 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of  Dental Research, March 23, 2012.</p>
+                    <!--p class="citation">2 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of  Dental Research, March 23, 2012.</p-->
                   </div>
 
                   <div class="right-summary-txt">

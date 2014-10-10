@@ -10,13 +10,8 @@
 
               <!-- dent-rate -->
               <div class="problem-per">
-                <div class="per-wrap animated" data-0="opacity:1;" data-2190="opacity:1;">
-                    <h4>74<sup>%</sup></h4>
-                    <span>of Americans will have<br>periodontitis at some<br>point in their lives.<sup>3</sup></span>
-                    <div class="tooth">
-                        <!-- <img data-2000="opacity:1;" data-2055="opacity:0;" src="img/tooth-fill-animation.gif" alt=""> -->
-                        <img data-2000="opacity:0;" data-2055="opacity:0;" data-2060="opacity:1;" src="img/tooth-circle.png" alt="">
-                    </div>
+                <div class="per-wrap animated">
+                    <img src="img/74-infograph.png"/>
                 </div>
                 <img data-1950="top:20%; left:20px; opacity:0" data-2150="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
                 <p class="citation">3 http://statisticbrain.com/dental-hygine-statistics/Web April 24, 2012.
@@ -41,12 +36,9 @@
               <!-- effected people-rate -->
               <div class="effected-per">
 
-                <div class="per-wrap" data-0="opacity:1;" data-2290="opacity:1;">
-                    <h4>50<sup>%</sup></h4>
-                    <span>of adults over 21<br>are affected by<br>chronic conditions<br>such as<br>heart disease,<br>stroke<br>and diabetes.<sup>4</sup></span>
-                    <div class="people-figures animated">
-                        <img src="img/diseased-people.png" alt="">
-                    </div>
+                <div class="per-wrap animated per-wrap2">
+                    <img src="img/50-infograph.png"/>
+                    
                 </div>
                 <img data-2300="top:20%; left:20px; opacity:0" data-2400="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
                 <p class="citation">4 CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009

@@ -24,12 +24,12 @@
                  <!-- Rachel Stone -->
                   <div class="blocquotes bquo2" data-3070="left:200px; opacity:0" data-3200="left:100px; opacity:1">
                     <blockquote>
-                    <span  data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeTop">&nbsp;</span>
+                    <span  data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeTop hallowOrangeTop2">&nbsp;</span>
                     With medical costs soaring and the general health<br>
 of American workers declining, the squeeze is on to<br>
 find creative solutions like United Concordia Dental’s<br>
 wellness product, <strong>Smile for Health®&ndash;Wellness</strong>
-                <span data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeBtm">&nbsp;</span>
+                <span data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeBtm hallowOrangeBtm2">&nbsp;</span>
                   </blockquote>
                   <span>&mdash; Rachel Stone<br> <i>Benefits Administrator, Bashas Inc.<br>
 Bashas is an Arizona-based, family-owned and operated grocery store<br>
