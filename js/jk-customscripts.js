@@ -4,6 +4,8 @@
 $(function() {
 	var myHeight = $(window).height();
 	var myWidth = $(window).width();
+	var stageWidth;
+	$("html:not(:animated), body:not(:animated)").animate({scrollLeft: 0}, 0);
 	setDimensions();
 
 	//SET WINDOW DIMENSIONS - WIDTH / HEIGHT
@@ -11,11 +13,6 @@ $(function() {
 		myHeight = $(window).height();
 		myWidth = $(window).width();
 		console.log(myHeight + " / " +myWidth);
-	};
-
-	// ON RESIZE, RESET DIMENSIONS
-	$(window).resize(function() {
-		setDimensions();
 
 		//SET SECTION HEIGHT TO STAGE HEIGHT
 		$('.stage section').height(myHeight);
@@ -23,19 +20,28 @@ $(function() {
 		$('#a-look-back').height(myHeight-45);
 		$('#mission').height(myHeight-45);
 		$('#community').height(myHeight-45);
-		$('#financials').height(myHeight-45);
 		$('#company').height(myHeight-45);
 		$('.exec-summary').height(myHeight-45);
 
+		$('#financials').height(myHeight-45);
+
+		//STAGE WIDTH
+		// 29.19230769230
+		stageWidth = Math.round(myHeight*37);
+		// console.log("stage width = "+ stageWidth);
+		// $('.stage').width(stageWidth);
+
+		//image divider width
+		$('.img-divider').width(Math.round(myHeight*0.35));
+
+	};
+
+	// ON RESIZE, RESET DIMENSIONS
+	$(window).resize(function() {
+		setDimensions();
 	});
 
-	$('.stage section').height(myHeight);
-	$('.img-divider').height(myHeight);
-	$('#a-look-back').height(myHeight-45);
-	$('#mission').height(myHeight-45);
-	$('#community').height(myHeight-45);
-	$('#company').height(myHeight-45);
-	$('.exec-summary').height(myHeight-45);	
+		
 
 	
 	// $('.stage .wrap').height(myHeight);
@@ -82,9 +88,101 @@ $(function() {
 
 	$('.home_wrapper').waypoint(function() {
 		$( ".nav2 .bottom-nav" ).toggle();
+		$( ".scroll-instruction" ).hide();
 	},
 		{ offset: '-50%', horizontal:true, triggerOnce: false
 	});
+
+
+
+
+	//Nav highlight & upper-tab functions
+	$('.protecting p').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-lookback').addClass('show-nav'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+
+	$('.summary-txt h2').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-execsummary').addClass('show-nav'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('.miss-headings h2').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-ourmission').addClass('show-nav'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('.blocquotes.engagement').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-ourmission').addClass('show-nav'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+
+	$('.going-beyond h2').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-ourcommunity').addClass('show-nav'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('.socialmedia-wrapper').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-ourcommunity').addClass('show-nav'); },
+		{ offset: '20%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('.middle-col h1').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-financials').addClass('show-nav'); },
+		{ offset: '30%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('#company .right-column h1').waypoint(function() {
+		$('.show-nav').removeClass('show-nav');
+		$('.nav-company').addClass('show-nav'); },
+		{ offset: '80%', horizontal:true, triggerOnce: false 
+	});
+
+
+	//FIXED MISSION TABS
+	$('.bquo1').waypoint(function() {
+	    $('.fix-tab').removeClass('fix-tab');
+		$('.tab1').addClass('fix-tab'); },
+		{ offset: '60%', horizontal:true, triggerOnce: false 
+	});
+
+	$('.direction').waypoint(function() {
+	    $('.fix-tab').removeClass('fix-tab');
+		$('.tab2').addClass('fix-tab'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+	
+	$('.uc-wellness hgroup').waypoint(function() {
+	    $('.fix-tab').removeClass('fix-tab');
+		$('.tab3').addClass('fix-tab'); },
+		{ offset: '50%', horizontal:true, triggerOnce: false 
+	});
+
+	//remove fixed tab
+	
+	$('.phone-woman-img').waypoint(function() {
+	    $('.fix-tab').removeClass('fix-tab');
+	},
+		{ offset: '75%', horizontal:true, triggerOnce: false 
+	});
+
+	$('.new-sum-img').waypoint(function() {
+	    $('.fix-tab').removeClass('fix-tab');
+	},
+		{ offset: '-30%', horizontal:true, triggerOnce: false 
+	});
+	
+
+
+
+
 
 
 	//NAVIGATION FUNCTIONS
@@ -144,6 +242,8 @@ $(function() {
 
 	//WAYPOINTS
 	$('.wrap p').addClass('animated');
+	// $('.wrap a').addClass('animated');
+	// $('.wrap .citation').addClass('animated');
 	$('.ponyies').addClass('animated');
 
 	//SECTION 1 
@@ -301,12 +401,16 @@ $(function() {
 	});
 
 	$('.study-material p').waypoint(function() {
-		$('.study-material p').addClass('fadeInLeft'); },
+		$('.study-material p').addClass('fadeInLeft');
+		$('.studyDocs a').addClass('fadeIn'); 
+	},
 		{ offset: '90%', horizontal:true, triggerOnce: true 
 	});
 
 	$('.excellence p').waypoint(function() {
-		$('.excellence p').addClass('fadeInLeft'); },
+		$('.excellence p').addClass('fadeInLeft'); 
+		$('.excellence-pdf-box a').addClass('fadeInLeft');
+	},
 		{ offset: '90%', horizontal:true, triggerOnce: true 
 	});
 

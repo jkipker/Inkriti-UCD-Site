@@ -21,23 +21,23 @@
                 <div class="study-material" data-100="left:500px;opacity:0;" data-230="left:732px;opacity:1;">
                     <h2 class="animated"><img src="img/titles/2-study.png"/></h2>
                         <p><strong>In 2012, we presented our landmark study to a
-    scientific audience and started on our corporate
-    wellness journey</strong>. In this study,<sup>1</sup> United Concordia
-    partnered with Highmark Inc. and respected
-    researcher Marjorie Jeffcoat, D.M.D., professor and
-    dean emeritus at the University of Pennsylvania School of Dental Medicine, to
-    examine an initial database of more than 1.7 million patients who had both
-    medical and dental insurance during a three-year period. The results of this
-    landmark study showed a <strong>critical connection between the health of the
-    mouth and the overall health of the body, and the significant medical cost
-    savings that can be achieved</strong> when patients with certain chronic conditions,
-    such as diabetes, receive ongoing treatment and maintenance for gum disease.
-    We believe the results underscore the critical need for an integrated approach
-    to wellness through better coordination between dental and medical providers.</p>
+                            scientific audience and started on our corporate
+                            wellness journey</strong>. In this study,<sup>1</sup> United Concordia
+                            partnered with Highmark Inc. and respected
+                            researcher Marjorie Jeffcoat, D.M.D., professor and
+                            dean emeritus at the University of Pennsylvania School of Dental Medicine, to
+                            examine an initial database of more than 1.7 million patients who had both
+                            medical and dental insurance during a three-year period. The results of this
+                            landmark study showed a <strong>critical connection between the health of the
+                            mouth and the overall health of the body, and the significant medical cost
+                            savings that can be achieved</strong> when patients with certain chronic conditions,
+                            such as diabetes, receive ongoing treatment and maintenance for gum disease.
+                            We believe the results underscore the critical need for an integrated approach
+                            to wellness through better coordination between dental and medical providers.</p>
 
-    <p class="citation">1 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations 
-and Medical Costs in Diabetics, Abstract, American Association of 
-Dental Research, March 23, 2012.</p>
+                        <p class="citation">1 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations 
+                    and Medical Costs in Diabetics, Abstract, American Association of 
+                    Dental Research, March 23, 2012.</p>
             <div class="studyDocs">
                 <a href="pdf/United-Concordia-peer-review-study.pdf" target="_blank"><img src="img/btn1-studydoc.jpg" alt=""></a>
                 <!--div class="share">

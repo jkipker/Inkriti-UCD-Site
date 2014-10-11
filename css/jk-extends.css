@@ -14,27 +14,24 @@ h1, h2{
 	/*background-image: url('../img/updated/new-plate.jpg');*/
 	background-repeat: no-repeat;
     overflow: hidden;
-    width: 23450px;
+    /*width: 23450px;*/
+    width: 22765px;
     /*width: 22811px !important;*/
     min-height: 640px !important;
+    margin-left:65px;
 }
 
 .stage section{
-	/*border: thin red solid;*/
 	position: relative;
-	/*width: auto;*/
 	min-height: 640px !important;
+    height:700px;
 	display: inline-block;
-    margin-left: -10px;
-    /*top: -10px;*/
-    /*border: thin red solid;*/
+    margin-left: -5px;
     overflow:hidden;
 }
 
 /*SECTION WIDTHS*/
-.sec1{
-    width: 900px !important;
-}
+.sec1{ width: 900px !important; }
 
 .lookBack{
     width: 2380px !important;
@@ -42,28 +39,25 @@ h1, h2{
 }
 
 .exeSummary{
-    width: 1330px !important;
+    width: 1531px !important;
 }
 
 .ourMission{
-    width: 11425px !important;
+    width: 10500px !important;
 }
 
 .ourCommunity{
-    width: 4107px !important;
+    width: 4407px !important;
 }
 
 .financials{
-    width: 1855px !important;
+    width: 2055px !important;
+    margin-left: -190px !important;
 }
 
 .ourCompany{
-    width: 910px !important;
+    width: 1180px !important;
 }
-
-
-
-
 
 .lookBack, .exeSummary, .ourMission, .ourCommunity, .financials, .ourCompany{
 	float:none;
@@ -116,7 +110,7 @@ h1, h2{
 
 .home_wrapper{
 	display: block;
-    margin: 20% auto 0 80px;
+    margin: 20% auto 0 60px;
     padding: 60px;
     text-align: center;
     width: 62%;
@@ -128,7 +122,7 @@ h1, h2{
 }
 
 .dentist{
-	bottom:16px;
+	bottom:26px;
 	width: 450px;
 }
 
@@ -266,8 +260,8 @@ h1, h2{
 }
 
 .nav2 .bottom-nav, .nav2{
-	bottom: 15px;
-    left: 280px;
+	bottom: 22px;
+    left: 290px;
     position: fixed;
     display: none;
     z-index: 5000;
@@ -329,7 +323,7 @@ height:95%;
 
 .exec-summary{
 	width: 1370px;
-    margin-left:-90px;
+    margin-left:110px;
 }
 
 .singnatures{
@@ -526,7 +520,7 @@ margin-left: 30px;
 
 .direction{
 	background-color: transparent;
-    left: 2490px;
+    left: 22970px;
     min-height: 510px;
     padding: 20px 50px;
     position: absolute;
@@ -546,30 +540,34 @@ div{
 }
 
 .img-divider{
-    display: inline-block;
-    min-height: 640px !important;
-    position: relative;
+    display: block;
+    /*min-height: 640px !important;*/
+    position: absolute;
     z-index: 100;
     height: 100%;
+    left: 0;
+    top: 0;
     /*max-width: 280px;*/
 }
 
 .img-divider img{
     height: 100%;
+    width:auto;
+    max-width: none;
 }
 
 .new-exec-img{
-    margin-left:-185px;
+    left: 3165px;
 }
 
 .new-sum-img{
-    margin-left:-30px;
+    left: 4820px;
 }
 
 .new-jeff-img{
     float: left;
     left: 3080px;
-    margin-top: -20px;
+    margin-top: -45px;
     position: relative;
 }
 
@@ -637,7 +635,7 @@ div{
     left: 515px;
     position: absolute;
     top: 265px;
-    z-index: 230;
+    z-index: 250;
 }
 
 .problem-per{
@@ -688,11 +686,11 @@ div{
 }
 
 .flaux-anim{
-    bottom: 10px;
-left: 205px;
-position: relative;
-width: 305px;
-z-index: 10;
+    bottom: 70px;
+    left: 185px;
+    position: relative;
+    width: 305px;
+    z-index: 10;
 }
 
 .medical-savings{
@@ -723,6 +721,7 @@ z-index: 10;
     width: 100%;
     margin-top: 110px;
 }
+
 
 .footer-txt span{
     color: #8dc63f;
@@ -782,6 +781,7 @@ audio, canvas, progress, video{
     font-size: 42px;
     margin-bottom: 0;
     margin-top: 80px;
+    margin-left:-5px;
 }
 
 .leader-txt{
@@ -808,16 +808,14 @@ audio, canvas, progress, video{
     bottom:40px;
 }
 
-.phone-woman-img{
-    margin-left: -1300px;
-}
 
 .financial-img{
-    margin-left:-230px;
+    left: 19520px;
     /*max-width: 230px;*/
 }
 
 .company-img{
+    left:21600px;
 
 }
 
@@ -828,6 +826,7 @@ audio, canvas, progress, video{
 #mission .wrap{
     display: block;
     background-color:transparent;
+    margin-left: 195px !important
 }
 
 .wrap{
@@ -874,7 +873,7 @@ audio, canvas, progress, video{
 }
 
 .app{
-    left: 1275px;
+    left: 1245px;
     top: 3%;
 }
 
@@ -908,20 +907,21 @@ audio, canvas, progress, video{
 }
 
 .ponyies{
-    left: 2317px;
-margin-top: 80px;
-position: relative;
-width: 370px;
-float: none;
+    left: 2300px;
+    margin-top: 60px;
+    position: relative;
+    width: 370px;
+    float: none;
 }
 
 .socialmedia-wrapper{
-    left: -240px;
-position: relative;
-width: 1000px;
-border: 8px #8dc63f solid;
-height: 86%;
-background-color:white;
+    left: -290px;
+    position: relative;
+    width: 1000px;
+    border: 8px #8dc63f solid;
+    height: 86%;
+    background-color:white;
+    min-height: 575px !important;
 }
 
 .socialmedia-wrapper h1{
@@ -1047,11 +1047,7 @@ background-color:white;
 #financials{
     margin-left: -10px;
     width: 1705px !important;
-    margin-left: -10px;
-}
-
-.company-img{
-    margin-left: -10px;
+    padding-left: 125px;
 }
 
 #company{
@@ -1073,7 +1069,7 @@ position: absolute;
 top: 86%;
 width: 350px;
 margin-top: -40px;
-/*z-index: 500;*/
+z-index: 50;
 }
 .medical-savings h2 sup{
     font-size: 24px;
@@ -1089,7 +1085,7 @@ top: -20px;
 }
 
 .phone-woman-img{
-    /*margin-left: 10px;*/
+    left: 15250px;
 }
 
 
@@ -1199,6 +1195,8 @@ width: 380px;
     ine-height: 22px;
     font-size: 18px;
     width: 580px;
+    margin-top: 30px;
+    margin-left: -15px;
 }
 
 .goodNews .content-box{
@@ -1216,7 +1214,6 @@ width: 380px;
     margin-left:10px;
     background-color: white !important;
     min-height: auto;
-
 }
 
 .oral-wellness hgroup{
@@ -1242,10 +1239,10 @@ top: 29%;
 }
 
 #arrow3{
-    left: 300px;
+    left: 315px;
 position: absolute;
-top: 122px;
-z-index: 75;
+top: 110px;
+z-index: 1;
 }
 
 .oral-wellness hgroup .smile{
@@ -1255,10 +1252,10 @@ z-index: 75;
 
 .oral-wrap h2:first-child{
     width: 400px;
-color: #0066a4;
-font-size: 42px;
-margin-top: 40px;
-line-height: 48px;
+    color: #0066a4;
+    font-size: 42px;
+    margin-top: 40px;
+    line-height: 48px;
 }
 
 .oral-wrap h2 span{
@@ -1267,13 +1264,13 @@ line-height: 48px;
 
 
 .medical-savings h2{
-color: #8dc63f;
-font-size: 50px;
-left: 140px;
-position: absolute;
-text-transform: uppercase;
-top: -45px;
-width: 650px;
+    color: #8dc63f;
+    font-size: 50px;
+    left: 140px;
+    position: absolute;
+    text-transform: uppercase;
+    top: -45px;
+    width: 650px;
 }
 
 .medical-savings{
@@ -1297,8 +1294,8 @@ width: 650px;
 
 .heart-arrow{
     left: 365px;
-top: -60px;
-width: 260px;
+    top: -60px;
+    width: 260px;
 }
 
 .needle-arrow{
@@ -1309,14 +1306,18 @@ width: 260px;
 
 .oral-wellness h2.footer-txt{
     color: ##0066a4;
-display: table;
-float: left;
-font-size: 40px;
-left: 2959px;
-position: absolute;
-top: 168%;
-width: 100%;
-margin-top: 125px;
+    display: table;
+    float: left;
+    font-size: 40px;
+    left: 2959px;
+    position: absolute;
+    top: 168%;
+    width: 100%;
+    margin-top: 125px;
+}
+
+.oral-wellness h2.footer-txt img{
+    margin-left: -30px;
 }
 
 .footer-txt span{
@@ -1325,31 +1326,32 @@ margin-top: 125px;
 
 .hospital-reductions h2{
     color: #f15d5e;
-font-size: 46px;
-left: 30px;
-position: absolute;
-text-transform: uppercase;
-top: 365px;
-width: 1000px;
+    font-size: 46px;
+    left: 30px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 365px;
+    width: 1000px;
 }
 
 .video-quote .blocquotes{
-    left: 200px;
+    left: 215px;
+    top: 385px;
 }
 
 .uc-wellness hgroup{
     display: block;
-margin-top: 20px;
-margin-left: 60px;
+    margin-top: 20px;
+    margin-left: 60px;
 }
 
 
 .blocquotes.engagement{
     font-size: 13px;
-left: 1495px;
-position: absolute;
-top: 18%;
-width: 600px;
+    left: 1495px;
+    position: absolute;
+    top: 18%;
+    width: 600px;
 }
 
 .innovative-smile{
@@ -1362,14 +1364,10 @@ width: 600px;
     left: 1270px;
 }
 
-.phone-woman-img{
-    margin-left: -1305px;
-}
-
 .going-beyond h2{
     font-size: 62px;
-color: #0066a4;
-line-height:62px;
+    color: #0066a4;
+    line-height:62px;
 }
 
 .indent_two{
@@ -1382,18 +1380,18 @@ line-height:62px;
 
 .call-center{
     left: 45px;
-position: absolute;
-top: 260px;
-width: 210px;
+    position: absolute;
+    top: 260px;
+    width: 210px;
 }
 
 .content-com{
     display: block;
-float: left;
-left: 745px;
-position: absolute;
-top: 14%;
-width: 450px;
+    float: left;
+    left: 745px;
+    position: absolute;
+    top: 14%;
+    width: 450px;
 }
 
 .content-com .com{
@@ -1413,22 +1411,22 @@ width: 450px;
 
 .content-com .com p{
     margin-top: 0px;
-margin-left: 40px;
+    margin-left: 40px;
 }
 
 .app p{
     display: block;
-float: left;
-line-height: 22px;
-margin-left: 30px;
-font-size: 17px;
-width: 350px;
+    float: left;
+    line-height: 22px;
+    margin-left: 30px;
+    font-size: 17px;
+    width: 350px;
 }
 
 .app .app-second-p{
     width: 620px;
-margin-left: 80px;
-margin-top:50px;
+    margin-left: 80px;
+    margin-top:50px;
 }
 
 .blocquotes.amyShearer{
@@ -1437,7 +1435,7 @@ margin-top:50px;
 
 .kids-app{
     left: 2050px;
-top: 35%;
+    top: 35%;
 }
 
 .middle-col h1{
@@ -1448,10 +1446,10 @@ top: 35%;
 
 .middle-col-content h2{
     font-size: 38px;
-color: #636366;
-margin: 0;
-margin-left: 10px;
-width: 1000px;
+    color: #636366;
+    margin: 0;
+    margin-left: 10px;
+    width: 1000px;
 }
 
 .middle-col-content-left{
@@ -1462,18 +1460,18 @@ width: 1000px;
 
 .middle-col-content-left p, .middle-col-content-right p{
     color: #444;
-margin: 0;
-font-size: 17px;
-line-height: 22px;
-margin-top:-10px;
+    margin: 0;
+    font-size: 17px;
+    line-height: 22px;
+    margin-top:-10px;
 }
 
 .middle-col{
     float: left;
-width: 920px;
-padding: 0 0 0 35px;
-background: url(../img/symbol.png) no-repeat 598px 30px;
-background: none !important;
+    width: 920px;
+    padding: 0 0 0 35px;
+    background: url(../img/symbol.png) no-repeat 598px 30px;
+    background: none !important;
 }
 
 .financialSummary{
@@ -1483,14 +1481,15 @@ background: none !important;
 }
 
 #financials{
-    width: 1855px !important;
+    width: 2000px !important;
     background-color: white !important;
     border: 25px #666 solid;
-    margin-left:-20px;
+    /*margin-left:-20px;*/
 }
 
 #financials .wrap{
     background-color: transparent;
+    padding-left: 120px;
 }
 
 .financialSummary h1{
@@ -1504,19 +1503,19 @@ background: none !important;
 }
 
 .middle-col-content-right{
-   padding: 0;
+    padding: 0;
     margin-top: 170px;
-    margin-right: -95px;
+    margin-right: -65px;
     position: relative;
     color: #0066a4;
 }
 
 .middle-col-content-right h3{
    color: #0066a4;
-font-size: 38px;
-width: 400px;
-/* text-align: left; */
-margin-left: -30px;
+    font-size: 38px;
+    width: 400px;
+    /* text-align: left; */
+    margin-left: -30px;
 }
 
 
@@ -1531,32 +1530,32 @@ blockquote strong{
 }
 
 .hallowBlueTop{
-width: 97px;
-height: 94px;
-background: url(../img/scene1-quotes.png) no-repeat 0 0;
-left: -40px;
-position: absolute;
-top: 10px;
+    width: 97px;
+    height: 94px;
+    background: url(../img/scene1-quotes.png) no-repeat 0 0;
+    left: -40px;
+    position: absolute;
+    top: 10px;
 }
 
 #globe{
-width: 650px;
-height: 650px;
-background: url("../img/globe2.png") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
-border-radius: 50%;
- box-shadow: none;
-/* -webkit-animation-name: rotate; */
-/* -webkit-animation-duration: 4s; */
-/* -webkit-animation-iteration-count: infinite; */
--webkit-animation-timing-function: none;
-animation-duration: 4s;
-animation-iteration-count: infinite;
-animation-timing-function: linear;
-/* margin: 85px 0 0 100px; */
-/* opacity: 0.5; */
+    width: 650px;
+    height: 650px;
+    background: url("../img/globe2.png") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+    border-radius: 50%;
+     box-shadow: none;
+    /* -webkit-animation-name: rotate; */
+    /* -webkit-animation-duration: 4s; */
+    /* -webkit-animation-iteration-count: infinite; */
+    -webkit-animation-timing-function: none;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    /* margin: 85px 0 0 100px; */
+    /* opacity: 0.5; */
 
-margin-top: 0px;
-margin-left: -110px;
+    margin-top: 0px;
+    margin-left: -110px;
 }
 
 .maxp-txt h4{
@@ -1564,15 +1563,16 @@ margin-left: -110px;
 }
 
 .per-wrap{
-    background-color: #ffffff;
-border: 18px solid #f99d29;
-border-radius: 100%;
-height: 330px;
-position: relative;
-width: 330px;
-z-index: 225;
-margin-left: 10px;
-margin-top: 30px;
+    background-color: transparent;
+    border: 18px solid #f99d29;
+    border-radius: 100%;
+    height: 330px;
+    position: relative;
+    width: 345px;
+    z-index: 225;
+    margin-left: 10px;
+    margin-top: 30px;
+    border: none;
 }
 
 .per-wrap h4{
@@ -1587,8 +1587,8 @@ margin-top: 30px;
 
 .per-wrap span{
     font-weight: bold;
-/*color: #f99d29;*/
-margin-left: -20px;
+    /*color: #f99d29;*/
+    margin-left: -20px;
 }
 
 .chronic-conditions span, .chronic-conditions .icons, .chronic-conditions .tooth-anim{
@@ -1607,25 +1607,25 @@ margin-left: -20px;
 
 .effected-per .per-wrap h4{
     color: #8dc63f;
-font-size: 110px;
-left: 78px;
-font-weight: bold;
-margin-bottom: 0;
-margin-top: 29px;
-position: absolute;
+    font-size: 110px;
+    left: 78px;
+    font-weight: bold;
+    margin-bottom: 0;
+    margin-top: 29px;
+    position: absolute;
 }
 
 
 .effected-per .per-wrap span{
     /*color: #8dc63f;*/
-display: block;
-font-size: 22px;
-left: -5px;
-line-height: 22px;
-position: absolute;
-text-align: center;
-top: 43%;
-width: 379px;
+    display: block;
+    font-size: 22px;
+    left: -5px;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 43%;
+    width: 379px;
 }
 
 .socialmedia-box p, .socialmedia-wrapper .col p, .ourCompany p, .hide-DMD p{
@@ -1634,20 +1634,15 @@ width: 379px;
 
 .gum-disease p{
     border-bottom: 14px solid #fff;
-color: #ffffff !important;
-font-size: 20px;
-margin: 50px 7px 0 30px;
-padding-bottom: 20px;
-font-weight: bold;
-opacity: 1 !important;
+    color: #ffffff !important;
+    font-size: 20px;
+    margin: 50px 7px 0 30px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    opacity: 1 !important;
 }
 
-.oral-wrap{
-
-}
-.stroke-txt, .heart-txt, .needle-txt{
-    display: none;
-}
+.stroke-txt, .heart-txt, .needle-txt{ display: none; }
 
 .hospital-reductions h2{
     font-family: arial !important;
@@ -1656,55 +1651,54 @@ opacity: 1 !important;
 
 .bg3 div{
     display: inline-block;
-float: left;
-left: 175px;
-position: absolute;
-top: 26px;
-width: 1500px;
-display:none;
+    float: left;
+    left: 175px;
+    position: absolute;
+    top: 26px;
+    width: 1500px;
+    display:none;
 }
 
 .arrow-animation{
     float: right;
-height: auto;
-left: 245px;
-margin: 0;
-/* overflow: hidden; */
-padding: 0;
-position: absolute;
-top: 340px;
-width: 485px;
-z-index: 100;
+    height: auto;
+    left: 190px;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 290px;
+    width: 535px;
+    z-index: 100;
 }
 
 .new-signatures{
     width: 510px;
-display: inline-block;
-margin-top: 3%;
-position: absolute;
-display: none;
+    display: inline-block;
+    margin-top: 3%;
+    position: absolute;
+    display: none;
 }
 
 #company .right-column{
     float: left;
-padding: 0 40px 0 0;
-width: 795px;
-margin-left: 50px;
-margin-top: 20px;
+    padding: 0 40px 0 0;
+    width: 795px;
+    margin-left: 50px;
+    margin-top: 20px;
 }
 
 .tooth{
     width: 160px;
 }
 
-.nav-logo-btm{
-position: absolute;
-z-index: 9999;
-margin-bottom: -15px;
-margin-left: -195px;
-margin-top: 26px;
-width: 190px;
-}
+    .nav-logo-btm{
+        position: absolute;
+        z-index: 9999;
+        margin-bottom: -15px;
+        margin-left: -205px;
+        margin-top: 26px;
+        width: 190px;
+    }
 
 .wrap p, .direction .blocquotes blockquote, .direction .blocquotes span, .hide-DMD h3, .socialmedia-box p, .youtubbe-video p{
     color: #666 !important;
@@ -1750,8 +1744,8 @@ width: 190px;
 
 .leader-txt{
     left: 1072px;
-margin-left: -310px;
-top: 150px;
+    margin-left: -310px;
+    top: 150px;
 }
 
 .leader-txt span{
@@ -1772,10 +1766,10 @@ top: 150px;
 
 .hide-DMD h3{
    /*background: url(../img/accorian-bg2.gif) no-repeat left -38px;*/
-padding-left: 30px;
-height: 30px;
-padding-top: 4px;
-margin-top: 5px;
+    padding-left: 30px;
+    height: 30px;
+    padding-top: 4px;
+    margin-top: 5px;
 }
 
 .dmd-plus{
@@ -1794,33 +1788,33 @@ background: url(../img/accorian-bg2.gif) no-repeat left 6px !important;
 
 .socialmedia-wrapper .col .social-descript{
     margin-left: 25px;
-width: 350px;
-font-size: 16px;
-line-height: 22px;
-backgorund-color:white;
+    width: 350px;
+    font-size: 16px;
+    line-height: 22px;
+    backgorund-color:white;
 }
 
 .logo-bg{
     position: fixed;
     width:100%;
     height: 100%;
-    /*border: thin red solid;*/
-    /*background: url(../img/logo-bg-lg.png) no-repeat center center; */
     background-size: 100%;
     display: none;
 }
 
 #community{
     margin-left: -20px;
-position: relative;
-border: 25px #8DC63F solid;
-background-color: transparent;
-height: 95%;
+    position: relative;
+    border: 25px #8DC63F solid;
+    background-color: transparent;
+    height: 95%;
+    padding-left: 200px;
 }
 
 #community .wrap{
     background-color: transparent;
     margin-top: 0px !important;
+    width: 4200px;
 }
 
 .excellence-pdf-box{
@@ -1829,8 +1823,8 @@ height: 95%;
 
 .logo-exec-sum{
     margin: auto;
-display: block;
-margin-top: 50px;
+    display: block;
+    margin-top: 50px;
 }
 
 .goodNews .footer .share{
@@ -1838,27 +1832,24 @@ margin-top: 50px;
     margin-left:-200px;
 }
 
-
 .gum-wrap-arrow{
-
-/* position: absolute; */
-margin-left: 2280px;
-/* width: 180px; */
-/* height: 180px; */
-z-index: 5000;
-margin-top: -100px;
+    /* position: absolute; */
+    margin-left: 2280px;
+    /* width: 180px; */
+    /* height: 180px; */
+    z-index: 5000;
+    margin-top: -100px;
 }
 
 .video-wrap{
     width: 500px;
-margin-left: 180px;
-margin-top: 40px;
+    margin-left: 190px;
+    margin-top: 50px;
 }
 
 .wrap, #a-look-back .wrap, #a-look-back, .summary-txt, #mission .wrap, #mission, #community, .socialmedia-wrapper, #financials, #company, .exec-summary .wrap, .exec-summary{
     /*background-color: transparent !important;*/
 }
-
 
 .comm-app-links{
   margin-left: 32px;  
@@ -1882,17 +1873,17 @@ margin-top: 40px;
 
 .goodNews span{
     display: block;
-font-size: 9px;
-line-height: 9px;
-color: #636466;
-width: 500px;
-margin-top: -5px;
+    font-size: 9px;
+    line-height: 9px;
+    color: #636466;
+    width: 500px;
+    margin-top: -5px;
 }
 
 .direction .plus-minus{
     top: 580px;
-position: absolute;
-margin-left: 5px;
+    position: absolute;
+    margin-left: 5px;
 }
 
 
@@ -1906,52 +1897,50 @@ margin-left: 5px;
 
 .financialSummary .plus-minus{
     position: absolute;
-margin-top: 465px;
-margin-left: 30px;
+    margin-top: 465px;
+    margin-left: 30px;
 }
 
 .ourCompany .plus-minus{
     position: absolute;
-top: 595px;
-margin-left: 10px;}
+    top: 595px;
+    margin-left: 10px;
+}
 
 .tag1 h3 sup, .tag2 h3 sup, .tag3 h3 sup, .tag4 h3 sup{
     font-size: 38px;
 }
-.tag4 h3 sup{
-    top: -9px;
-}
+.tag4 h3 sup{ top: -9px; }
 
 .problem-per .citation{
     z-index: 500;
-position: relative;
-opacity: 1;
-font-size: 9px;
-width: 150px;
-margin-left: 100px;
-margin-top: 25px;
+    position: relative;
+    opacity: 1;
+    font-size: 9px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 25px;
 }
 
 .effected-per .citation{
     z-index: 500;
-position: relative;
-opacity: 1;
-font-size: 9px;
-width: 140px;
-margin-left: 100px;
-margin-top: 25px;
+    position: relative;
+    opacity: 1;
+    font-size: 9px;
+    width: 140px;
+    margin-left: 100px;
+    margin-top: 25px;
 }
 
 .footer-txt .citation{
-      z-index: 500;
-position: relative;
-opacity: 1;
-font-size: 9px;
-width: 150px;
-margin-left: 110px;
-margin-top: -135px;
-/* border: thin red solid; */
-line-height: 8px;
+    z-index: 500;
+    position: relative;
+    opacity: 1;
+    font-size: 9px;
+    width: 150px;
+    margin-left: 110px;
+    margin-top: -135px;
+    line-height: 8px;
 }
 
 .hospital-reductions h2 .citation{
@@ -1975,8 +1964,8 @@ line-height: 8px;
 
 .uc-img{
     margin-left: 750px;
-width: 500px;
-margin-top: 150px;
+    width: 500px;
+    margin-top: 170px;
 }
 
 .blocquotes blockquote strong{
@@ -1999,6 +1988,7 @@ margin-top: 150px;
 
 #company{
     background-color: white;
+    padding-left: 278px;
 }
 
 #company .wrap{
@@ -2021,10 +2011,11 @@ margin-top: 150px;
 .share-box{
     width: 75px;
     height: 60px;
-    background-image: url("../img/social-divbg.png");
+    /*background-image: url("../img/social-divbg.png");*/
     background-repeat: no-repeat;
     background-position: center 20px;
     text-align: center;
+    margin-left: 10px;
     /*display: none;*/
 }
 
@@ -2038,13 +2029,13 @@ margin-top: 150px;
 }
 
 .content-com .share-box{
-    margin-left: 40px;
+    margin-left: 20px;
 }
 
 .comm-app-links .share-box{
     top: 0;
-    margin-top: -54px;
-    margin-left: 240px;
+    /*margin-top: -54px;*/
+    margin-left: -20px !important;
 }
 
 .socialmedia-box a, .socialmedia-box a:hover{
@@ -2059,53 +2050,162 @@ margin-top: 150px;
     width: 600px;
 }
 
-#company .accordion .column p strong{
-    color: #0066a4;
-}
+#company .accordion .column p strong{ color: #0066a4; }
 
 h2 img{
-        width: auto !important;
-        display:block;
-    }
+    width: auto !important;
+    display:block;
+}
 
-    .citation .six{
-        /*border: thin red solid;*/
-        color: #666;
-        display: inline-block;
-        margin-top: -25px;
-        margin-left: 250px;
-        position: absolute;
-        width: 150px;
-    }
+.citation .six{
+    color: #666;
+    display: inline-block;
+    margin-top: -25px;
+    margin-left: 250px;
+    position: absolute;
+    width: 150px;
+}
 
-    .nav2 .menu hr{
-        width: 88px;
-        margin-left: -10px;
-        color: #0066a4;
-        background-color: #0066a4;
-        border-color #0066a4;
-    }
-    .nav-lookback hr{
+.nav2 .menu hr{
+    width: 88px;
+    margin-left: -10px;
+    color: #0066a4;
+    background-color: #0066a4;
+    border-color #0066a4;
+}
 
-    }
+.nav2 .menu{ width: 720px; }
 
-    .nav2 .menu{
-        width: 720px;
-    }
+.menu li:nth-child(4) div{ width: 70px; }
 
-    .menu li:nth-child(4) div{
-        width: 70px;
-    }
+.nav2 .menu li div a{ opacity: 0; }
+.menu li div a:hover{ opacity: 1; }
+
+.show-nav{ opacity:1 !important; }
+
+.arrows{
+    display:none;
+}
+
+.hospital-reductions h2 sup{
+    font-size: 22px;
+    top: -20px;
+    display: inline-block;
+    position: relative;
+}
+
+.nav2 .menu li ul.subNav{
+    padding: 5px;
+    position: absolute;
+    bottom: 6px;
+    width: 120px;
+    background: rgba(249, 157, 41, .5);
+    width: 90px;
+    margin-left: -3px;
+}
+
+.hallowOrangeTop2{ margin-top:-20px; }
+
+.hallowOrangeBtm2{
+    top: 90px;
+    margin-left: 20px;
+    left: 420px;
+}
+
+.app h2{
+    margin-bottom: -20px;
+}
+
+.kids-app h2{
+    margin-bottom: -10px;
+}
+
+.home_wrapper h1{
+    margin-left: 45px;
+}
+
+.socialmedia-wrapper .col{
+    width: 1160px;
+    position: relative;
+    height: 95%;
+    margin-top: 15px;w
+    display: block;
+    padding: 0;
+    margin-left: -25px;
+}
+
+.socialmedia-box{
+    display: inline-block;
+    height: auto;
+    width: 200px;
+    float: left;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 290px;
+}
+
+.socialmedia-wrapper h1, .socialmedia-wrapper .col .social-descript{
+    /*width: 350px; display: inline-block;*/
+}
+
+.socialmedia-wrapper{
+    vertical-align:top;
+    width: 1100px;
+}
+
+.social-descript-box{
+    /*border: thin red solid;*/
+    display: inline-block;
+    float:left;
+    margin-right: -10px;
+}
 
 
-    .menu li div a{
-        opacity: 0;
-    }
-    .menu li div a:hover{
-        opacity: 1;
-    }
+.twitter-share-button{
+    margin-left: 18px
+}
 
-    .show-nav{
-        opacity:1 !important;
-    }
+.nav2 .twitter-share-button{
+    position: absolute;
+    left: 680px;
+    top: 25px;
+}
+
+.nav2 .fb-like, .nav2 .fb-share-button{
+    position: absolute;
+    left: 760px;
+    top: 25px;
+
+}
+
+.scroll-instruction{
+    position: absolute;
+    color: #ccc;
+    font-size: 12px;
+    font-style: italic;
+    flofat: right;
+    right: 168px;
+    margin-top: 50px;
+}
+
+.fix-tab{
+    /*border: thin red solid;*/
+    position: fixed;
+    left: 100px;
+}
+
+
+.fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
+    /* Now you can apply css here */
+    bottom:0!important;
+    border: thin red solid;
+}
+
+
+
+
+
+
+
 

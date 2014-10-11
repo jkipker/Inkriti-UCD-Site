@@ -19,7 +19,7 @@
                        <!-- Your browser does not appear to support a browser. Please download the video below. -->
                   <!-- </video> -->
 
-                  <iframe width="520" height="295" src="//www.youtube.com/embed/P7WQdKUJASc" frameborder="0" allowfullscreen></iframe>
+                  <iframe width="480" height="270" src="//www.youtube.com/embed/P7WQdKUJASc" frameborder="0" allowfullscreen></iframe>
                 </div>
                  <!-- Rachel Stone -->
                   <div class="blocquotes bquo2" data-3070="left:200px; opacity:0" data-3200="left:100px; opacity:1">

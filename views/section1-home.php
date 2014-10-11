@@ -23,6 +23,7 @@
           			<li><div><a class="nav-company" href="#">Company</a></div></li>
                    </ul>
                 </nav>
+                <div class="scroll-instruction">(use your mouse wheel to scroll)</div>
               </div>
             </div>
     </section>
@@ -47,6 +48,15 @@
                 <li><div><a class="nav-financials" href="#" data-target="financials">Financials <hr/></a></div></li>
                 <li><div><a class="nav-company" href="#" data-target="ourCompany">Company <hr/></a></div></li>
                    </ul>
-                   
+                  <!-- <div class="fb-share-button" data-href="http://justinkipker.com/inkriti/ucd/" data-width="40"></div> -->
+                  <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a>
+
+                  <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+
+
+
+                <a href="https://twitter.com/share" class="twitter-share-button" data-text="The Good News Continues from United Concordia" data-count="none">Tweet</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                 </nav>
+                
             </div>

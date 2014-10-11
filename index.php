@@ -5,11 +5,17 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>United Concordia Dental</title>
+  <title>United Concordia Dental Report</title>
+  <meta name="description" content="Year-End Annual Report for United Concordia Dental" />
+  <meta property="og:title" content="United Concordia Dental Report" />
+  <meta property="og:description" content="Year-End Annual Report for United Concordia Dental" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="http://justinkipker.com/inkriti/ucd/" />
+  <meta property="og:image" content="http://justinkipker.com/inkriti/ucd/img/logo.png" />
 
   <meta name="viewport" content="width=device-width, user-scalable=no">
 
-   <!--GOOGLE FONT-->
+  <!--GOOGLE FONT-->
   <link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
@@ -24,6 +30,14 @@
 </head>
 
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=582191465151643&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 	<div class="stage">
 		<div class="arrows">
@@ -64,13 +78,7 @@
 	<script src="js/vendor/jquery.min.js"></script>
 	<script src="js/waypoints.min.js"></script>
 	<script src='js/jquery.mousewheel.js'></script>
-	<!--script src="js/vendor/jquery-scrollto.js"></script-->
 	<script src="js/jk-customscripts.js"></script>
-	<!--script src="js/jquery.typeout.min.js"></script-->
-
-    <!--script src="js/jquery.jInvertScroll.js"></script-->
-    <!--script src="js/jquery.viewportchecker.js"></script-->
-    <!--script src="js/skrollr.min.js"></script-->
    	<script src="js/main.js"></script>
 
 </body>

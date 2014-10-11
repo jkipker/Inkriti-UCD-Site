@@ -1,3 +1,47 @@
+<?php
+//twitter snippets for tweets
+session_start();
+error_reporting(1);
+require_once("library/twitteroauth-master/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
+$twitteruser = "UnitedConcordia";
+$notweets =22;
+$consumerkey = "KxGg42KccAHCtuNqSOsnTgWPe";
+$consumersecret = "cfFmUoEXU3Y1JbKdhuvAF88P3CMcOqKAljwqpkotng0cy91nHj";
+$accesstoken = "2459385752-myx7Aszc4x4btu1Ikzp9UxkwELYzuTzrHgEgXDg";
+$accesstokensecret = "TDS5Hjc6ENNUYvRigQTfhrxmEOyNWpBdteLo5v31lOjiS";
+
+function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
+  $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
+  return $connection;
+}
+
+$connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
+$tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".$twitteruser."&count=".$notweets."&exclude_replies=true");
+
+
+
+//Facebook snippets for posts
+function fetchUrl($url){
+
+ $ch = curl_init();
+ curl_setopt($ch, CURLOPT_URL, $url);
+ curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+ curl_setopt($ch, CURLOPT_TIMEOUT, 20);
+ // You may need to add the line below
+ curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
+
+ $feedData = curl_exec($ch);
+ curl_close($ch); 
+
+ return $feedData;
+
+}
+
+
+$json_object = fetchUrl("https://graph.facebook.com/v2.1/252175674875211/feed?key=value&access_token=979366645412371|31336bf1baa8a42462325e4ab572debd");
+$arraydata = json_decode($json_object);
+$arrayfeeds= $arraydata->data;
+?>
  <!-- Community -->
     <section class="ourCommunity">
     <div id="community">
@@ -32,9 +76,11 @@
             <div class="share-box">
               <div><img src="img/social-share.png"/></div>
               <div>
-                <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a>
-                <a href="https://twitter.com/UnitedConcordia"><img class="social-ico" src="img/social-tweet.png"/></a>
-                <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a>
+                <!-- <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
+                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
             </div>
 
@@ -56,9 +102,11 @@
             <div class="share-box">
               <div><img src="img/social-share.png"/></div>
               <div>
-                <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a>
-                <a href="https://twitter.com/UnitedConcordia"><img class="social-ico" src="img/social-tweet.png"/></a>
-                <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a>
+                <!-- <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
+                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
             </div>
           </div>
@@ -93,9 +141,11 @@
               <div class="share-box" style="margin: 0">
               <div><img src="img/social-share.png"/></div>
               <div>
-                <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a>
-                <a href="https://twitter.com/UnitedConcordia"><img class="social-ico" src="img/social-tweet.png"/></a>
-                <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a>
+               <!--  <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
+                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
+                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
             </div>
             </div>
@@ -104,63 +154,29 @@
       </div><!--social media wrapper-->
       <div class="socialmedia-wrapper">
         <div class="col">
+          <div class="social-descript-box">
           <h1><img src="img/titles/13-social-media.png"/></h1>
           <p class="social-descript">In 2013, we engaged consumers through
 a Facebook program designed to educate them about the connection between oral and overall wellness, while supporting three charities connected to United Concordia’s mission — National Diabetes Association, March of Dimes and Arthritis Foundation. Consumers can also find us on Twitter, YouTube, and LinkedIn.</p>
+
           <!--social links-->
           <ul class="social-links">
 
             <li><a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank"><img src="img/facebook-icon.png" width="35" height="35" alt="facebook"></a></li>
             <li><a href="https://twitter.com/UnitedConcordia" target="_blank"><img src="img/twitter-icon.png"  width="35" height="35" alt="twitter"></a></li>
             <li><a href="https://www.youtube.com/user/UCCIDental" target="_blank"><img src="img/youtube-icon.png"  width="35" height="35" alt="youtube"></a></li>
-            <li><a href="#" target="_blank"><img src="img/linkdin-icon.png"  width="35" height="35" alt="linkedin"></a></li>
+            <li><a href="https://www.linkedin.com/company/united-concordia" target="_blank"><img src="img/linkdin-icon.png"  width="35" height="35" alt="linkedin"></a></li>
           </ul>
-          <div class="socialmedia-box">
-            <p>#Myth: You'll know when you have cavities. #Fact: By the time you do, your cavity got worse. Schedule dental checkups to find cavities fast!</p>
-            <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-          <div class="socialmedia-box-row socialmedia-box-row-1">
+        </div>
+
+<!-- Start Twitter code Integration -->
+       <?php foreach ($tweets as $row) : ?>
             <div class="socialmedia-box">
-              <p>Test your knowledge! RT @NilesILDentists: Germs Quiz: What Lives In Your Mouth? http://ow.ly/CrDy2  http://fb.me/8L1eiPKMB </p>
-              <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-            <div class="socialmedia-box right">
-              <p>Why eat #apples? They're great for your oral wellness! Apples stimulate saliva, helping to keep your mouth healthier. http://ow.ly/Cnnlx </p>
-              <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-          </div>
-        </div>
-        <!--col right-->
-        <div class="col colright">
-          <div class="socialmedia-box">
-            <p>Just another reason to brush &amp; floss regularly! RT @doctor_michaels: Could Poor Oral Health Cause Depression? http://bit.ly/1ns9DzA </p>
-            <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-          <div class="socialmedia-box-row ucd-end-row">
-            <div class="socialmedia-box-rowleft">
-              <div class="socialmedia-box"> 
-
-                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img src="img/thumb-ad.jpg" alt="ad" width="269" height="130"></a>  -->
-
-                <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon" style="margin-top:10px"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
-                <p style="margin-top:110px;">Picky kids may have a hard time getting enough calcium and other nutrients. These choices may help you please them: Picky kids may have a hard time getting enough calcium and other nutrients. These choices may help you please them: <a href="http://ow.ly/Cnn3W http://ow.ly/d/2Afl" style="color: #0066a4;">http://ow.ly/Cnn3W http://ow.ly/d/2Afl</a></p>
-              </div>
-              <div class="socialmedia-box ucd-lower-box">
-                <p>RT @BuffaloPrairieD: October is National #Dental #Hygiene Month! Are you making your dental health a priority? </p>
-                <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="facebook" width="24" height="24"></a> <br>
-                <br>
-              </div>
-            </div>
-            <div class="socialmedia-box-rowright">
-              <div class="socialmedia-box-row ">
-                <div class="socialmedia-box">
-                  <p>Just another reason to brush &amp; floss regularly! RT @doctor_michaels: Could Poor Oral Health Cause Depression? http://bit.ly/1ns9DzA </p>
-                  <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-                <div class="socialmedia-box">
-                  <p>RT @CookBockDDS: Oral health begins with clean teeth. Keeping the area where your teeth meet your gums clean can prevent gum disease. </p>
-                  <a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-              </div>
-              <div class="youtubbe-video"> 
-                <p>All children deserve to grow up healthy and safe. This Child Health Day, we invite all of you to commit to teaching your children and grandchildren about the benefits of good health. That includes good nutrition, exercise, and yes: brushing their teeth! <a href="#">http://ow.ly/CkBmO</a><a href="https://twitter.com/UnitedConcordia" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="twitter" width="24" height="24"></a></p> </div>
-            </div>
-          </div>
-        </div>
+            <p> <?php echo $row->text; ?></p>
+            <a href="https://twitter.com/UnitedConcordia/status/<?php echo $row->id ?>" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
+       <?php endforeach; ?>
+<!-- End Twitter code Integration -->
+    </div><!-- end column-->
       </div><!-- /wrap -->
     </div>
     </div><!-- end of community-->

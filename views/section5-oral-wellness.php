@@ -15,7 +15,7 @@
                 </div>
                 <img data-1950="top:20%; left:20px; opacity:0" data-2150="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
                 <p class="citation">3 http://statisticbrain.com/dental-hygine-statistics/Web April 24, 2012.
-                  <a href="http://statisticbrain.com/dental-hygine-statistics/Web"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
+                  <a href="http://statisticbrain.com/dental-hygine-statistics/Web" target="_blank"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
 
@@ -42,7 +42,7 @@
                 </div>
                 <img data-2300="top:20%; left:20px; opacity:0" data-2400="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
                 <p class="citation">4 CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009
-                  <a href="#"><img src="img/btn5-cdc.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
+                  <a href="https://www.unitedconcordia.com/dental-insurance/dental/conditions/ucwellness-oral-health-study/results-ucwellness-oral-health-study/" target="_blank"><img src="img/btn5-cdc.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
 
