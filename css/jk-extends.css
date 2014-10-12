@@ -805,7 +805,7 @@ audio, canvas, progress, video{
 }
 
 .fillOrangeBtm{
-    bottom:40px;
+    bottom:30px;
 }
 
 
@@ -2011,12 +2011,11 @@ line-height: 8px;
 .share-box{
     width: 75px;
     height: 60px;
-    /*background-image: url("../img/social-divbg.png");*/
     background-repeat: no-repeat;
     background-position: center 20px;
     text-align: center;
     margin-left: 10px;
-    /*display: none;*/
+    margin-top:8px;
 }
 
 .innovative-smile span{
@@ -2034,7 +2033,6 @@ line-height: 8px;
 
 .comm-app-links .share-box{
     top: 0;
-    /*margin-top: -54px;*/
     margin-left: -20px !important;
 }
 
@@ -2163,7 +2161,8 @@ h2 img{
 
 
 .twitter-share-button{
-    margin-left: 18px
+    margin-left: 18px;
+    margin-top:6px;
 }
 
 .nav2 .twitter-share-button{

@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!-- <!DOCTYPE HTML> -->
 
 <html>
 
@@ -14,6 +14,9 @@
   <meta property="og:image" content="http://justinkipker.com/inkriti/ucd/img/logo.png" />
 
   <meta name="viewport" content="width=device-width, user-scalable=no">
+  <!-- <meta http-equiv="x-ua-compatible" content="IE=edge"-->
+  <meta http-equiv=X-UA-Compatible content="IE=Quirks">
+
 
   <!--GOOGLE FONT-->
   <link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
@@ -23,10 +26,20 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/jk-extends.css">
 
+
+
   <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!--[if IE 9]>
+<style>
+   .animated{
+    opacity: 1 !important;
+}
+</style>
+<![endif]-->
 </head>
 
 <body>
@@ -35,7 +48,7 @@
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=582191465151643&version=v2.0";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=193061830719117&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 

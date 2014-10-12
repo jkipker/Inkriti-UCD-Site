@@ -48,8 +48,8 @@
                 <li><div><a class="nav-financials" href="#" data-target="financials">Financials <hr/></a></div></li>
                 <li><div><a class="nav-company" href="#" data-target="ourCompany">Company <hr/></a></div></li>
                    </ul>
-                  <!-- <div class="fb-share-button" data-href="http://justinkipker.com/inkriti/ucd/" data-width="40"></div> -->
-                  <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a>
+                  <!-- <div class="fb-share-button" data-href="http://justinkipker.com/inkriti/ucd/" data-width="100"></div> -->
+                   <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a>
 
                   <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
 
