@@ -1,0 +1,126 @@
+.animated{
+    opacity: 1 !important;
+}
+
+div{
+	/*border: thin red solid;*/
+}
+
+.menu .nav-div-lookback{ border-bottom:6px solid #76bde9; }
+.menu .nav-div-execsummary{ border-bottom:6px solid #0066a4; }
+.menu .nav-div-mission{ border-bottom:6px solid #f99d29; width: 110px; }
+.menu .nav-div-ourcommunity{ border-bottom:6px solid #8dc63f; }
+.menu .nav-div-financials{ border-bottom:6px solid #636466; }
+.menu .nav-div-company{ border-bottom:6px solid #004563; }
+
+.nav2 .menu .nav-div-home{ border-bottom:6px solid #004563; }
+.nav2 .menu .nav-div-lookback{ border-bottom:6px solid #999; }
+.nav2 .menu .nav-div-execsummary{ border-bottom:6px solid #76bde9; }
+.nav2 .menu .nav-div-mission{ border-bottom:6px solid #0066a4; width: 70px; }
+.nav2 .menu .nav-div-ourcommunity{ border-bottom:6px solid #f99d29; width: 70px; }
+.nav2 .menu .nav-div-financials{ border-bottom:6px solid #8dc63f; width: 70px; }
+.nav2 .menu .nav-div-company{ border-bottom:6px solid #636466; }
+
+.nav2 .menu{
+	width:740px;
+}
+
+.nav2 .twitter-share-button{
+	margin-top: 0px;
+}
+
+.halloWhiteTop{
+	left: -55px;
+	top:-5px;
+	height: 94px;
+	position: absolute;
+	background-image: url("../img/fill-org-topleft.png") !important;
+	background-attachment: scroll !important;
+	background-position-x: 0px !important;
+	background-position-y: 0px !important;
+	background-color: transparent !important;
+	
+
+}
+
+.hallowWhiteBtm{
+	width: 59px ;
+	height: 52px;
+	right: 20px ;
+	position:absolute;
+	background-image: url("../img/fill-org-btmright.png") !important;
+	background-attachment: scroll !important;
+	background-repeat: no-repeat !important;
+	background-position-x: 0px !important;
+	background-position-y: 0px !important;
+	background-color: transparent !important;
+}
+
+.menu li ul.subNav a{
+	color: #ffffff !important;
+}
+
+.menu li ul.subNav{
+	background-color: #f99d29;
+	color: #ffffff;
+	padding-bottom:15px;
+}
+
+.menu li ul.subNav li{
+	border-bottom: 	1px solid #ffffff;
+}
+
+
+.maxp-txt{
+	/*background: url("../img/us-map.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+	background-image: url("../img/us-map.png");
+	background-repeat: no-repeat;
+}
+
+.chronic-wrap{
+	/*background: url("../img/chronic-condition-bg.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+	background-image: url("../img/chronic-condition-bg420.png");
+	background-repeat: no-repeat;
+}
+
+.gum-disease{
+	/*background: url("../img/chronic-condition-bg.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+	background-image: url("../img/gum-disease-bg.png");
+	background-repeat: no-repeat;
+	background-color: transparent;
+	width: 420px;
+	height: 340px;
+	left:2050px;
+	top: 60%;
+}
+
+.human{
+/*background: url("../img/human-figure.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+background-image: url("../img/human-figure.png");
+background-repeat: no-repeat;
+right: 15px;
+}
+
+.medical-bg{
+		/*background: url("../img/medical-cost_savings.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+		background-image: url("../img/medical-cost_savings.png");
+		background-repat: no-repeat;
+}
+
+.hospital-bg{
+	/*background: url("../img/medical-cost_savings.png") no-repeat scroll 0 0 / cover rgba(0, 0, 0, 0);*/
+	background: url("../img/medical-cost_savings.png");
+	background-repeat: no-repeat;
+}
+
+.gun-wrap-arrow{
+	margin-left: 2300px;
+}
+
+
+
+
+
+
+
+

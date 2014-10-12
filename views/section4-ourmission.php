@@ -82,7 +82,7 @@ National Association of Dental Plans</i></span>
             <div class="direction">
                <!-- Dr.Marjorie -->
               <div class="blocquotes" data-1650="left:-76px;" data-1700="left:65px;">
-                <blockquote><span  data-1650="transform:scale(0); opacity:0" data-1700="transform:scale(1); opacity:1" class="halloWhiteTop">&nbsp;</span>
+                <blockquote><span  data-1650="transform:scale(0); opacity:0" data-1700="transform:scale(1); opacity:1" class="fillOrangeTop">&nbsp;</span>
                                     I’m pleased that the <i>American Journal of Preventive
                     Medicine</i> has decided to publish the study I’ve conducted
                     with United Concordia Dental and Highmark Inc. This
@@ -91,7 +91,7 @@ National Association of Dental Plans</i></span>
                     chronic condition or who are pregnant receive treatment
                     for their gum disease. Having the study peer-reviewed
                     speaks to the importance of the findings and the
-                    credibility of our work.<span data-1700="transform:scale(0); opacity:0" data-1750="transform:scale(1); opacity:1" class="halloWhiteBtm">&nbsp;</span>
+                    credibility of our work.<span data-1700="transform:scale(0); opacity:0" data-1750="transform:scale(1); opacity:1" class="fillOrangeBtm">&nbsp;</span>
               </blockquote>
               <span>&mdash;Dr. Marjorie Jeffcoat, D.M.D.<br> <i>Professor and Dean Emeritus<br>University of Pennsylvania School of Dental Medicine</i></span>
               </div>

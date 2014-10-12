@@ -17,6 +17,15 @@
   <!-- <meta http-equiv="x-ua-compatible" content="IE=edge"-->
   <meta http-equiv=X-UA-Compatible content="IE=Quirks">
 
+  <!--[if IE 8]>
+  	<meta http-equiv="X-UA-Compatible" content="IE=8">
+  <![endif]-->
+  <!--[if lt IE 9]>
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
+  <![endif]-->
+
+
+
 
   <!--GOOGLE FONT-->
   <link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
@@ -34,12 +43,12 @@
     <![endif]-->
 
     <!--[if IE 9]>
-<style>
-   .animated{
-    opacity: 1 !important;
-}
-</style>
-<![endif]-->
+        	<link rel="stylesheet" type="text/css" href="css/jk-ie8.css">	
+	<![endif]-->
+	<!--[if IE 8]>
+        	<link rel="stylesheet" type="text/css" href="css/jk-ie8.css">	
+
+	<![endif]-->
 </head>
 
 <body>
