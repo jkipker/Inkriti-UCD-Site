@@ -10,8 +10,8 @@
   <meta property="og:title" content="United Concordia Dental Report" />
   <meta property="og:description" content="Year-End Annual Report for United Concordia Dental" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="http://justinkipker.com/inkriti/ucd/" />
-  <meta property="og:image" content="http://justinkipker.com/inkriti/ucd/img/logo.png" />
+  <meta property="og:url" content="https://www.unitedConcordia.com/ourdentalstory" />
+  <meta property="og:image" content="https://www.unitedconcordia.com/v2/images/uc-header.png" />
 
   <meta name="viewport" content="width=device-width, user-scalable=no">
   <!-- <meta http-equiv="x-ua-compatible" content="IE=edge"-->
