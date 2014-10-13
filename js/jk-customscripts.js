@@ -150,7 +150,7 @@ $(function() {
 	$('.bquo1').waypoint(function() {
 	    $('.fix-tab').removeClass('fix-tab');
 		$('.tab1').addClass('fix-tab'); },
-		{ offset: '60%', horizontal:true, triggerOnce: false 
+		{ offset: '10%', horizontal:true, triggerOnce: false 
 	});
 
 	$('.direction').waypoint(function() {
@@ -173,10 +173,11 @@ $(function() {
 		{ offset: '75%', horizontal:true, triggerOnce: false 
 	});
 
-	$('.miss-headings h2').waypoint(function() {
+	$('.bquo1').waypoint(function() {
 	    $('.fix-tab').removeClass('fix-tab');
-	},
-		{ offset: '0%', horizontal:true, triggerOnce: false 
+	    $('.tab1').removeClass('fix-tab');
+	},	
+		{ offset: '50%', horizontal:true, triggerOnce: false 
 	});
 	
 
