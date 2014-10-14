@@ -11,12 +11,9 @@ h1, h2{
 
 .stage{
 	height: 100%;
-	/*background-image: url('../img/updated/new-plate.jpg');*/
 	background-repeat: no-repeat;
     overflow: hidden;
-    /*width: 23450px;*/
     width: 22765px;
-    /*width: 22811px !important;*/
     min-height: 640px !important;
     margin-left:65px;
 }
@@ -1695,9 +1692,10 @@ blockquote strong{
         position: absolute;
         z-index: 9999;
         margin-bottom: -15px;
-        margin-left: -205px;
+        left: -205px;
         margin-top: 26px;
         width: 190px;
+        display: block;
     }
 
 .wrap p, .direction .blocquotes blockquote, .direction .blocquotes span, .hide-DMD h3, .socialmedia-box p, .youtubbe-video p{
@@ -2110,17 +2108,11 @@ h2 img{
     left: 420px;
 }
 
-.app h2{
-    margin-bottom: -20px;
-}
+.app h2{  margin-bottom: -20px; }
 
-.kids-app h2{
-    margin-bottom: -10px;
-}
+.kids-app h2{ margin-bottom: -10px; }
 
-.home_wrapper h1{
-    margin-left: 45px;
-}
+.home_wrapper h1{  margin-left: 45px;} 
 
 .socialmedia-wrapper .col{
     width: 1160px;
@@ -2143,17 +2135,12 @@ h2 img{
     width: 290px;
 }
 
-.socialmedia-wrapper h1, .socialmedia-wrapper .col .social-descript{
-    /*width: 350px; display: inline-block;*/
-}
-
 .socialmedia-wrapper{
     vertical-align:top;
     width: 1100px;
 }
 
 .social-descript-box{
-    /*border: thin red solid;*/
     display: inline-block;
     float:left;
     margin-right: -10px;
@@ -2174,8 +2161,13 @@ h2 img{
 .nav2 .fb-like, .nav2 .fb-share-button{
     position: absolute;
     left: 760px;
-    top: 25px;
-
+    top: 29px;
+    z-index: 500;
+    margin: 0;
+    width: 60px;
+    height: 30px;
+    overflow: visible;
+    display: inline-block;
 }
 
 .scroll-instruction{
@@ -2183,31 +2175,26 @@ h2 img{
     color: #ccc;
     font-size: 12px;
     font-style: italic;
-    flofat: right;
+    float: right;
     right: 168px;
     margin-top: 50px;
 }
 
 .fix-tab{
-    /*border: thin red solid;*/
     position: fixed;
     left: 100px;
 }
 
 
 .fb-like.fb_edge_widget_with_comment.fb_iframe_widget span iframe {
-    /* Now you can apply css here */
     bottom:0!important;
-    border: thin red solid;
 }
-
-
 
 .direction .fillOrangeTop{
     left: -45px;
-position: absolute;
-top: -25px;
-background-size: 90%;
+    position: absolute;
+    top: -25px;
+    background-size: 90%;
 }
 
 

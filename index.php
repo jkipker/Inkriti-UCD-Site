@@ -1,6 +1,6 @@
-<!-- <!DOCTYPE HTML> -->
+<!DOCTYPE HTML>
 
-<html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
 
 <head>
   <meta charset="utf-8">
@@ -14,8 +14,8 @@
   <meta property="og:image" content="https://www.unitedconcordia.com/v2/images/uc-header.png" />
 
   <meta name="viewport" content="width=device-width, user-scalable=no">
-  <!-- <meta http-equiv="x-ua-compatible" content="IE=edge"-->
-  <meta http-equiv=X-UA-Compatible content="IE=Quirks">
+  <meta http-equiv="x-ua-compatible" content="IE=edge">
+  
 
   <!--[if IE 8]>
   	<meta http-equiv="X-UA-Compatible" content="IE=8">
@@ -52,14 +52,15 @@
 </head>
 
 <body>
-<div id="fb-root"></div>
+	<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=193061830719117&version=v2.0";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=582191465151643&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
 
 	<div class="stage">
 		<div class="arrows">

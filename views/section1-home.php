@@ -48,10 +48,11 @@
                 <li><div class="nav-div-financials"><a class="nav-financials" href="#" data-target="financials">Financials <hr/></a></div></li>
                 <li><div class="nav-div-company"><a class="nav-company" href="#" data-target="ourCompany">Company <hr/></a></div></li>
                    </ul>
-                  <!-- <div class="fb-share-button" data-href="http://justinkipker.com/inkriti/ucd/" data-width="100"></div> -->
-                   <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a>
+                <!--  <div class="fb-share-button" data-href="https://www.unitedConcordia.com/ourdentalstory"  data-width="60"></div> -->
+                  <!-- <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a> -->
+                  <fb:share-button class="fb-share-button" href="https://www.unitedConcordia.com/ourdentalstory" width="60"></fb:share-button>
 
-                  <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+                 
 
                 <a href="https://twitter.com/share" class="twitter-share-button" data-text="The Good News Continues from United Concordia" data-count="none">Tweet</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
