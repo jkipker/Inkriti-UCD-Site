@@ -37,7 +37,7 @@
               <li><span>Investments</span><strong>360,529</strong></li>
               <li><span>Receivables</span><strong>152,390</strong></li>
               <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab bold">$704,443</strong></li>
+              <li class="result-tab"><span>Total Assets</span><strong class="total-tab bold"><i>$704,443</i></strong></li>
             </ul>
           </div>
           <h2><span>Liabilities and Stockholders Equity <strong>$704,443</strong></span></h2>
@@ -48,7 +48,7 @@
               <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">114,813</strong></li>
               <li class="result-tab"><span>Total Liabilities</span><strong class="bold">266,274</strong></li>
               <li><span>Stockholder's Equity</span><strong>438,169</strong></li>
-              <li class="result-tab"><span>Total Liabilities Stockholder's Equity</span><strong class="total-tab bold">$704,443</strong></li>
+              <li class="result-tab"><span>Total Liabilities Stockholder's Equity</span><strong class="total-tab bold"><i>$704,443</i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
@@ -60,7 +60,7 @@
               <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">1,039,452</strong></li>
               <li><span>Income Before Taxes</span><strong>106,128</strong></li>
               <li class="result-tab"><span>Provision for Income Taxes</span><strong class="total-tab2">$37,441</strong></li>
-              <li class="result-tab"><span>Net Income</span><strong class="total-tab bold">$68,687</strong></li>
+              <li class="result-tab"><span>Net Income</span><strong class="total-tab bold"><i>$68,687</i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
@@ -73,7 +73,7 @@
               <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">(92,867)</strong></li>
               <li ><span>Net Increase in Cash and Cash Equivalents</span><strong>13,524</strong></li>
                <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">102,590</strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold">$116,114</strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold"><i>$116,114</i></strong></li>
             </ul>
           </div>
         </div>

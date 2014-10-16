@@ -785,7 +785,7 @@ audio, canvas, progress, video{
     left: 1030px;
     top: 38%;
     font-size: 17px;
-    width: 660px;
+    width: 640px;
 }
 
 .innovative-smile{
@@ -1700,6 +1700,7 @@ blockquote strong{
 
 .wrap p, .direction .blocquotes blockquote, .direction .blocquotes span, .hide-DMD h3, .socialmedia-box p, .youtubbe-video p{
     color: #666 !important;
+    font-family: MyriadPro-Regular, 'Myriad Pro Regular', MyriadPro, 'Myriad Pro', "Trebuchet MS", Arial, sans-serif !important;
 }
 
 .gum-disease p{
@@ -2154,15 +2155,14 @@ h2 img{
 
 .nav2 .twitter-share-button{
     position: absolute;
-    left: 725px;
-
-    bottom: 12px;
+    left: 730px;
+    bottom: 10px;
 }
 
 .nav2 .fb-like, .nav2 .fb-share-button{
     position: absolute;
-    left: 810px;
-    bottom: 4px;
+    left: 818px;
+    bottom: 3px;
     margin: 0;
     width: 60px;
     height: 30px;
@@ -2310,7 +2310,7 @@ h2 img{
 
 .ponyies{
     left: 990px;
-    margin-top: -260px;
+    margin-top: -290px;
 }
 
 .financial-img{
@@ -2324,7 +2324,7 @@ h2 img{
 
 .nav-logo-btm{
     width: 311px;
-    left: -255px;
+    left: -265px;
 }
 
 .nav2 .menu{
@@ -2339,8 +2339,14 @@ h2 img{
 
 .total-tab{
     border-top: none;
-    border-bottom: 1px black solid;
+    /*border-bottom: 1px black solid;*/
     margin-bottom: 2px;
+    text-decoration: underline;
+}
+
+.total-tab i{
+    font-style: normal !important;
+    border-bottom: 1px black solid;
 }
 
 .total-tab2{
@@ -2359,6 +2365,8 @@ h2 img{
 #mission .content{
     top: 240px;
 }
+
+
 
 
 
