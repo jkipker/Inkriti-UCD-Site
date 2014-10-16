@@ -28,7 +28,7 @@
                     With medical costs soaring and the general health<br>
 of American workers declining, the squeeze is on to<br>
 find creative solutions like United Concordia Dental’s<br>
-wellness product, <strong>Smile for Health<sup>®</sup>&ndash;Wellness</strong>
+wellness product, <strong>Smile for Health<sup>®</sup> &ndash;Wellness</strong>
                 <span data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeBtm hallowOrangeBtm2">&nbsp;</span>
                   </blockquote>
                   <span>&mdash; Rachel Stone<br> <i>Benefits Administrator, Bashas Inc.<br>
@@ -48,7 +48,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
                   <p>A recent network sharing agreement between United Concordia Dental, Dental Network of America (DNoA) and DenteMax further solidifies our position as one of the nation’s largest networks with more than 102,900 unique dentists and over 283,100 access points. And as our network continues to grow, so does our ability to provide high-quality, accessible care to our members and clients, while helping our producers, participating dentists and partners realize additional business opportunities.</p>
 
               <p>
-                Our innovative <span><strong>Smile For Health<sup>&reg;</sup> –Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, and who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
+                Our innovative <span><strong>Smile For Health<sup>&reg;</sup>–Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, and who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
               </p>
 </div>
                </div>
