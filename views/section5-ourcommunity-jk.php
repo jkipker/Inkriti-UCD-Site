@@ -75,7 +75,7 @@
             promote <strong>overall health and wellness among children</strong> while creating the next generation of wildlife stewards. It
             is great when a partnership really impacts all aspects of
             children’s lives.<span data-3900="transform:scale(0); opacity:0" data-4100="transform:scale(1); opacity:1" class="halloGreenBtm">&nbsp;</span></blockquote>
-          <span>&mdash;Amy Shearer<br>
+          <span>&mdash; Amy Shearer<br>
           <i>Chief Marketing Officer, Philadelphia Zoo</i></span> </div>
         <div class="ponyies"> <img src="img/Page-1-Image-11.png" alt=""> </div>
         <div class="kids-app">

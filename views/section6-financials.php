@@ -37,7 +37,7 @@
               <li><span>Investments</span><strong>360,529</strong></li>
               <li><span>Receivables</span><strong>152,390</strong></li>
               <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab">$704,443</strong></li>
+              <li class="result-tab"><span>Total Assets</span><strong class="total-tab bold">$704,443</strong></li>
             </ul>
           </div>
           <h2><span>Liabilities and Stockholders Equity <strong>$704,443</strong></span></h2>
@@ -45,10 +45,10 @@
             <ul>
               <li><span>Claims Outstanding</span><strong>$109,412</strong></li>
               <li><span>Unearned Subscription Income</span><strong>42,049</strong></li>
-              <li><span>Other Payables and Accrued Expenses</span><strong>114,813</strong></li>
-              <li><span><strong>Total Liabilities</strong></span><strong>266,274</strong></li>
+              <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">114,813</strong></li>
+              <li class="result-tab"><span>Total Liabilities</span><strong class="bold">266,274</strong></li>
               <li><span>Stockholder's Equity</span><strong>438,169</strong></li>
-              <li class="result-tab"><span><strong>Total Liabilities Stockholder's Equity</strong></span><strong class="total-tab">$704,443</strong></li>
+              <li class="result-tab"><span>Total Liabilities Stockholder's Equity</span><strong class="total-tab bold">$704,443</strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
@@ -56,24 +56,24 @@
           <div class="content">
             <ul>
               <li><span>Dental Care Expenses</span><strong>$806,984</strong></li>
-              <li><span>Administrative and Other Expenses</span><strong>232,468</strong></li>
-              <li><span>Total Expenses</span><strong>1,039,452</strong></li>
+              <li><span>Administrative and Other Expenses</span><strong class="total-tab2">232,468</strong></li>
+              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">1,039,452</strong></li>
               <li><span>Income Before Taxes</span><strong>106,128</strong></li>
-              <li class="result-tab"><span>Provision for Income Taxes</span><strong class="total-tab">$37,441</strong></li>
-              <li class="result-tab"><span>Net Income</span><strong class="total-tab">$68,687</strong></li>
+              <li class="result-tab"><span>Provision for Income Taxes</span><strong class="total-tab2">$37,441</strong></li>
+              <li class="result-tab"><span>Net Income</span><strong class="total-tab bold">$68,687</strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
           <h2><span>Net Income<strong>$68,687</strong></span></h2>
           <div class="content">
             <ul>
-              <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong>$38,629</strong></li>
-              <li><span>Net Cash Provided by Operating Activities</span><strong>107,316</strong></li>
-              <li><span>Net Cash Used in Investing Activities</span><strong>(925)</strong></li>
-              <li><span>Net Cash Used in Financing Activities</span><strong>92,867</strong></li>
-              <li class="result-tab"><span>Net Increase in Cash and Cash Equivalents</span><strong class="total-tab">13,524</strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab">102,590</strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab">$116,114</strong></li>
+              <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">$38,629</strong></li>
+              <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">107,316</strong></li>
+              <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">(925)</strong></li>
+              <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">(92,867)</strong></li>
+              <li ><span>Net Increase in Cash and Cash Equivalents</span><strong>13,524</strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">102,590</strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold">$116,114</strong></li>
             </ul>
           </div>
         </div>

@@ -31,7 +31,7 @@
             <h2><span>Board of Directors</span></h2>
             <div class="content">
               <div class="column">
-                <p><strong>Nanette P. DeTurk</strong>Executive Vice President, Chief Administrative and Financial Officer and Treasurer<br/>Highmark Inc.</p>
+                <p><strong>Nanette P. DeTurk</strong>Chief Administrative and<br/> Financial Officer and Treasurer<br/>Highmark Inc.</p>
                 <p><strong>David L. Holmberg</strong>Chairman of the Board of Directors and <br/>Chief Executive Officer<br/>Highmark Inc.</p>
                 <p><strong>Kelly S. Lieblein</strong>Regional Vice President, Sales<br/>Highmark Inc.</p>
               </div>

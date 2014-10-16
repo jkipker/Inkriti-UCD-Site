@@ -7,22 +7,28 @@
                 <div class="summary-txt">
                    <h2 class="animated"><img src="img/titles/4-exec-summary.png"/></h2>
                    <div class="left-summary-txt">
-                    <p><strong>A lot can change during the course of a year.</strong> In 2013, we channeled our energy on becoming a consumer-centric company focused on the important connection between oral and overall health. By focusing on data-driven decisions, accountability and result inclusiveness and innovation, <strong>we are working to establish United Concordia as a leading, non-traditional dental wellness company.</strong> Based on new results from the research gathered and reported in our landmark study of 2012,<sup>1</sup> we started another chapter in our history—seeking new ways to share the message that a healthier mouth and a healthier body go hand-in-hand, and helping guide consumers to better overall wellness.</p>
+                    <p>As we look back at the past year, it will always stand out as a year that further changed who we are as a company. It’s not something hastily done or easily accomplished, but it’s something each and every one of us at United Concordia Dental believes is truly necessary for ourselves, our industry and our members- continuing our exciting transformation into a non-traditional dental wellness company that creates products, partnerships and technologies essential to connecting consumers to a healthier life through a healthier mouth.</p>
 
-                    <p>We’ve developed and implemented new ways to share information, created new products and services targeted more clearly to differing client needs and affordability, and worked to enhance our partnerships with our dentists—making major strides toward our important and exciting transformation.</p>
+                    <p>In 2013, United Concordia Dental had another strong financial year, ensuring the resources we need to move forward, impact lives and help members improve their oral and overall health like never before.</p>
 
-                    <p>Through enhanced interaction and coordination between dentists and doctors, <strong>we can lower costs, promote overall health and deliver real savings.</strong></p>
 
-                    <!--p class="citation">2 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of  Dental Research, March 23, 2012.</p-->
+                    <p>We continued to build our nationwide network of dentists-one of the nation’s largest-and our distribution channels; added to our range of cost- effective and responsive plans and programs; enhanced our website; and created simpler ways for members to engage with us. We also developed strategic health partnerships, created an award-winning mobile app and strengthened our position as an industry leader.</p>
+
+                    <p>By taking a deeper dive into the research from our landmark 2012 study,
+                    we built on our earlier findings, clearly illustrating the important connection between oral and overall wellness. Our study further demonstrates that significant cost savings are possible when individuals with gum disease receive and maintain treatment.
+                    </p>
                   </div>
 
                   <div class="right-summary-txt">
-                    <p>By engaging with consumers through targeted communication, education and treatment, we’re helping them see us as partners in their journey to overall wellness.</p>
-                    <p>
-United Concordia Dental created a lot of momentum in 2013— generating more than 600,000 new members in our first year focused on oral health and overall wellness. This is only the beginning of a mission that will carry us far into the future, as we continue to build awareness, provide education and do all we can to ensure that people everywhere understand the important connection between oral health and overall wellness.</p><p>
-We’re excited about the challenges of the years ahead. As we heighten our commitment to taking our company and industry to the next level, we are solidifying our strategic move from dental insurer to a non-traditional dental wellness company unlike any other.
-                                        <img class="logo-exec-sum" src="img/logo-exec-sum.png"/>
-                                      </p>
+                    <p> This insight continues to drive and inspire us as we develop new ways to share this important story and ensure consumers become more active in their own oral health care.</p>
+
+                    <p>In fact, the connection between oral health and overall health was the focus of an invitation-only event sponsored by the Harvard School of Dental Medicine called “Put Your Money Where Your Mouth Is: The Economic Imperative of Oral Health.”This event, held October 2014, featured a panel of experts moderated by Marjorie Jeffcoat, D.M.D., professor and dean emeritus, University of Pennsylvania School of Dental Medicine, where
+                    data from United Concordia Dental’s study was presented as compelling evidence on the costly impact of poor oral health on overall wellness.</p>
+
+
+                    <p>As we work closely with employers, producers, dentists and our partners, we are delivering products and services that help meet the ever-changing needs of consumers. With a focus on improving the oral health and well- being of the members we serve and as a recognized leader in the industry, there’s great responsibility in change; but, the importance of that change cannot be ignored. It is our mission and duty to meet the challenges before us for the health and well-being of those we serve, while helping reduce costs as good stewards of their dollars.</p>
+
+                    <p>For all of us at United Concordia, it was an exciting year and we look forward to continuing this momentum as we build toward the future, transforming into a non-traditional dental wellness company in all we do.</p>
                 </div>
                    
                 </div>

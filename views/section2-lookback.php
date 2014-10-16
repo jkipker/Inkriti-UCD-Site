@@ -14,23 +14,23 @@
                 </div>
 
                 <div class="dental-integration animated" data-0="left:800px;opacity:0;" data-180="left:468px;opacity:1;">
-                    <blockquote><span data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueTop">&nbsp;</span><strong>Dental-medical integration</strong> means that oral health is viewed&mdash;and acknowledged&mdash;as part of the<br> overall health equation.<span  data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueBtm">&nbsp;</span></blockquote>
-                    <span>&mdash;James Bramson, D.D.S.<br> <i>Chief Dental Officer, United Concordia Dental</i></span>
+                    <blockquote><span data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueTop">&nbsp;</span><strong>Dental-medical integration</strong> means that oral health is viewed&mdash; and acknowledged&mdash; as part of the<br> overall health equation.<span  data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueBtm">&nbsp;</span></blockquote>
+                    <span>&mdash; James Bramson, D.D.S.<br> <i>Chief Dental Officer, United Concordia Dental</i></span>
                 </div>
 
                 <div class="study-material" data-100="left:500px;opacity:0;" data-230="left:732px;opacity:1;">
                     <h2 class="animated"><img src="img/titles/2-study.png"/></h2>
-                        <p><strong>In 2012, we presented our landmark study to a
+                        <p>In 2012, we presented our landmark study to a
                             scientific audience and started on our corporate
-                            wellness journey</strong>. In this study,<sup>1</sup> United Concordia
+                            wellness journey. In this study,<sup>1</sup> United Concordia
                             partnered with Highmark Inc. and respected
                             researcher Marjorie Jeffcoat, D.M.D., professor and
                             dean emeritus at the University of Pennsylvania School of Dental Medicine, to
                             examine an initial database of more than 1.7 million patients who had both
                             medical and dental insurance during a three-year period. The results of this
-                            landmark study showed a <strong>critical connection between the health of the
+                            landmark study showed a critical connection between the health of the
                             mouth and the overall health of the body, and the significant medical cost
-                            savings that can be achieved</strong> when patients with certain chronic conditions,
+                            savings that can be achieved when patients with certain chronic conditions,
                             such as diabetes, receive ongoing treatment and maintenance for gum disease.
                             We believe the results underscore the critical need for an integrated approach
                             to wellness through better coordination between dental and medical providers.</p>
@@ -39,7 +39,7 @@
                     and Medical Costs in Diabetics, Abstract, American Association of 
                     Dental Research, March 23, 2012.</p>
             <div class="studyDocs">
-                <a href="pdf/United-Concordia-peer-review-study.pdf" target="_blank"><img src="img/btn1-studydoc.jpg" alt=""></a>
+                <!-- <a href="pdf/United-Concordia-peer-review-study.pdf" target="_blank"><img src="img/btn1-studydoc.jpg" alt=""></a> -->
                 <!--div class="share">
                     <span>Share</span>
                     <img src="img/share-icons.png" width="100" height="37" alt="">
@@ -50,7 +50,7 @@
             <div class="excellence">
                 <div class="inner-left">
                     <h2><img src="img/titles/3-excellence.png"/></h2>
-                    <p>As a testament to our ongoing commitment to provide quality care for our members, <strong>we have been recognized with URAC’s Health Network Accreditation, the equivalent of the medical industry’s National Committee on Quality Assurance (NCQA) accreditation.</strong> This significant milestone is a great example of the trust we’ve earned as a company in every aspect of our operations, including network management, provider credentialing, utilization management, quality management and improvement, and consumer protection.</p>
+                    <p>As a testament to our ongoing commitment to provide quality care for our members, we have been recognized with URAC’s Health Network Accreditation, the equivalent of the medical industry’s National Committee on Quality Assurance (NCQA) accreditation. This significant milestone is a great example of the trust we’ve earned as a company in every aspect of our operations, including network management, provider credentialing, utilization management, quality management and improvement, and consumer protection.</p>
                     <div class="excellence-pdf-box">
                         <a href=" http://unitedconcordia.mediaroom.com/2013-04-11-United-Concordia-Receives-URAC-Health-Network-Accreditation" target="_blank"><img src="img/btn2-uracpress.jpg" alt=""></a>
                         <!--div class="share-content">

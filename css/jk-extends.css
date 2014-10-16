@@ -13,7 +13,7 @@ h1, h2{
 	height: 100%;
 	background-repeat: no-repeat;
     overflow: hidden;
-    width: 22765px;
+    width: 22275px;
     min-height: 640px !important;
     margin-left:65px;
 }
@@ -44,7 +44,7 @@ h1, h2{
 }
 
 .ourCommunity{
-    width: 4407px !important;
+    width: 3920px !important;
 }
 
 .financials{
@@ -1150,7 +1150,7 @@ width: 380px;
 }
 
 .summary-txt{
-    margin-top:-20px;
+    margin-top:-30px;
     top: 0;
 }
 
@@ -2118,7 +2118,7 @@ h2 img{
     width: 1160px;
     position: relative;
     height: 95%;
-    margin-top: 15px;w
+    margin-top: 30px;w
     display: block;
     padding: 0;
     margin-left: -25px;
@@ -2148,26 +2148,26 @@ h2 img{
 
 
 .twitter-share-button{
-    margin-left: 18px;
+    margin-left: 20px;
     margin-top:6px;
 }
 
 .nav2 .twitter-share-button{
     position: absolute;
-    left: 680px;
-    top: 25px;
+    left: 725px;
+
+    bottom: 12px;
 }
 
 .nav2 .fb-like, .nav2 .fb-share-button{
     position: absolute;
-    left: 760px;
-    top: 29px;
-    z-index: 500;
+    left: 810px;
+    bottom: 4px;
     margin: 0;
     width: 60px;
     height: 30px;
-    overflow: visible;
-    display: inline-block;
+    margin: 0
+    padding: 0;
 }
 
 .scroll-instruction{
@@ -2195,6 +2195,169 @@ h2 img{
     position: absolute;
     top: -25px;
     background-size: 90%;
+}
+
+
+.blocquotes span, .dental-integration span{
+    font-size: 18px !important;
+}
+
+.right-summary-txt{
+    font-size: 15px;
+    margin-left: 50px;
+    margin-top: -10px;
+    width: 550px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.left-summary-txt{
+    margin-left: 105px;
+    width: 550px;
+}
+
+.summary-txt{
+    margin-left: -30px;
+}
+
+.goodNews p{
+    margin-left: 0px;
+}
+
+.blocquotes span i {
+    font-size: 10px;
+    margin-top: 6px;
+    display: block;
+    line-height: 14px;
+}
+
+.problem-per .citation{
+    margin-top:59px;
+}
+
+.problem-per .citation{
+    width: 170px;
+}
+
+.footer-txt .citation{
+    line-height: 9px;
+    margin-top: -145px;
+}
+
+
+.content-com{
+    display: block;
+    float: left;
+    left: 755px;
+    position: absolute;
+    top: 300px;
+    width: 680px;
+}
+
+.app{
+    top: 0px;
+    left: 825px;
+}
+
+.comm-app-links .share-box{
+    top: -56px;
+    margin-left: 225px !important;
+    display: block;
+    position: relative;
+}
+
+.comm-app-links{
+    margin-left: 856px;
+    width: 233px;
+    margin-top: 230px;
+}
+
+.blocquotes.amyShearer{
+    left: 1330px;
+}
+
+.kids-app{
+    left: 1550px;
+}
+
+.ponyies{
+    left: 1900px;
+    margin-top:2%;
+}
+
+.socialmedia-wrapper{
+    left:-730px;
+    width: 950px;
+    height: 70%;
+    background-color: white;
+    min-height: 450px !important;
+}
+
+.socialmedia-wrapper .col{
+    width: 400px;
+    /*border: thin red solid;*/
+    display: inline-block;
+}
+
+.socialmedia-wrapper .col2{
+    width: 596px;
+}
+
+.socialmedia-box{
+    width: 200px;
+    height: 100px;
+}
+
+.ponyies{
+    left: 990px;
+    margin-top: -260px;
+}
+
+.financial-img{
+    left: 18970px;
+}
+
+.company-img {
+    left: 21145px;
+}
+
+
+.nav-logo-btm{
+    width: 311px;
+    left: -255px;
+}
+
+.nav2 .menu{
+    margin-left: 60px;
+}
+
+.footer-txt .citation2{
+    margin-left: 355px;
+    margin-top: -80px;
+
+}
+
+.total-tab{
+    border-top: none;
+    border-bottom: 1px black solid;
+    margin-bottom: 2px;
+}
+
+.total-tab2{
+    border-top: none;
+    border-bottom: 1px black solid;
+}
+
+.financialSummary ul li strong{
+    font-weight: normal;
+}
+
+.financialSummary ul li .bold, .result-tab{
+    font-weight: bold !important;
+}
+
+#mission .content{
+    top: 240px;
 }
 
 

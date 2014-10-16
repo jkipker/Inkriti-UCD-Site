@@ -12,11 +12,11 @@
           			<li><div class="nav-div-lookback"><a class="nav-lookback" style="width:80px;" href="#">A Look Back</a></div></li>
           			<li><div class="nav-div-execsummary"><a class="nav-execsummary" href="#">Executive<br>Summary</a></div></li>
           			<li><div class="nav-div-mission"><a class="nav-ourmission" href="#">Our Mission</a> </div>
-          				<ul class="subNav">
+          			<!-- 	<ul class="subNav">
           					<li><a class="nav-ourmission" href="#">Mission</a></li>
           					<li><a class="nav-direction" href="#">Direction</a></li>
           					<li><a class="nav-program" href="#">Program</a></li>
-          				</ul>
+          				</ul> -->
           			</li>
           			<li><div class="nav-div-ourcommunity"><a class="nav-ourcommunity" href="#">Community</a></div></li>
           			<li><div class="nav-div-financials"><a class="nav-financials" href="#">Financials</a></div></li>
@@ -38,11 +38,11 @@
                 <li><div class="nav-div-lookback"><a class="nav-lookback" href="#" data-target="lookBack" style="width:80px;">A Look Back <hr/></a></div></li>
                 <li><div class="nav-div-execsummary"><a class="nav-execsummary" href="#" data-target="exeSummary">Executive<br>Summary <hr/></a></div></li>
                 <li><div class="nav-div-mission"><a class="nav-ourmission" href="#" data-target="ourMission">Our Mission <hr/></a> </div>
-                  <ul class="subNav">
+                  <!-- <ul class="subNav">
                     <li><a class="nav-ourmission" href="#" data-target="tab1">Mission</a></li>
                     <li><a class="nav-direction" href="#" data-target="tab2">Direction</a></li>
                     <li><a class="nav-program" href="#" data-target="tab3">Program</a></li>
-                  </ul>
+                  </ul> -->
                 </li>
                 <li><div class="nav-div-ourcommunity"><a class="nav-ourcommunity" href="#" data-target="ourCommunity">Community <hr/></a></div></li>
                 <li><div class="nav-div-financials"><a class="nav-financials" href="#" data-target="financials">Financials <hr/></a></div></li>

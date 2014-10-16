@@ -34,7 +34,7 @@ oral health on systemic health. This research is helping to
 dentistry is perceived by the medical community.
 <span data-1325="transform:scale(0); opacity:0" data-1400="transform:scale(1); opacity:1" class="hallowOrangeBtm">&nbsp;</span>
           </blockquote>
-          <span>&mdash;Dr. Craig Abramowitz<br> <i>North East Dental Management, nedentalmanagement.com</i></span>
+          <span>&mdash; Dr. Craig Abramowitz<br> <i>North East Dental Management, nedentalmanagement.com</i></span>
           </div>
 
           <div class="content">
@@ -56,7 +56,7 @@ dentistry is perceived by the medical community.
             medical conditions such as heart disease, diabetes, preterm birth, kidney disease and dementia can be improved by maintaining good oral health.
 <span  data-1350="transform:scale(0); opacity:0" data-1410="transform:scale(1); opacity:1" class="fillOrangeBtm">&nbsp;</span>
           </blockquote>
-          <span>&mdash; Evelyn F. Ireland, CAE<br> <i>Executive Director<br>
+          <span>&mdash;  Evelyn F. Ireland, CAE<br> <i>Executive Director<br>
 National Association of Dental Plans</i></span>
           </div>
 
@@ -93,7 +93,7 @@ National Association of Dental Plans</i></span>
                     speaks to the importance of the findings and the
                     credibility of our work.<span data-1700="transform:scale(0); opacity:0" data-1750="transform:scale(1); opacity:1" class="fillOrangeBtm">&nbsp;</span>
               </blockquote>
-              <span>&mdash;Dr. Marjorie Jeffcoat, D.M.D.<br> <i>Professor and Dean Emeritus<br>University of Pennsylvania School of Dental Medicine</i></span>
+              <span>&mdash; Dr. Marjorie Jeffcoat, D.M.D.<br> <i>Professor and Dean Emeritus<br>University of Pennsylvania School of Dental Medicine</i></span>
               </div>
 
               <div class="hide-DMD">

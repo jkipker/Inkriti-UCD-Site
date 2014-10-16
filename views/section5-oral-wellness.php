@@ -14,8 +14,8 @@
                     <img src="img/74-infograph.png"/>
                 </div>
                 <img data-1950="top:20%; left:20px; opacity:0" data-2150="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
-                <p class="citation">3 http://statisticbrain.com/dental-hygine-statistics/Web April 24, 2012.
-                  <a href="http://statisticbrain.com/dental-hygine-statistics/Web" target="_blank"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
+                <p class="citation">3 http://www.statisticbrain.com/dental-hygine-statistics/ April 24, 2012.
+                  <a href="http://www.statisticbrain.com/dental-hygine-statistics/" target="_blank"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
 
@@ -66,7 +66,7 @@
                    <div class="animThread infinite"><img src="img/flaux-liner.png"  alt=""></div>
                 </div>
                 <div class="medical-savings">
-                    <h2>Medical Cost Savings<sup>6</sup></h2>
+                    <h2>Medical Cost Savings<sup>5</sup></h2>
                     <div class="medical-bg">
                         <!--div id="human-figs" data-2300="opacity:0" data-2400="opacity:0;"><img src="img/people-figures-new.png" alt=""></div-->
                         <div id="tags"><img src="img/people-figures-new.png" alt="">
@@ -104,10 +104,14 @@
                             </div>
                         </div>
                     </div>
-                   <h2>Hospitalization Reductions<sup>6</sup></h2>
+                   <h2>Hospitalization Reductions<sup>5</sup></h2>
                 </div>
               </div>
               <h2 class="footer-txt animated"><img src="img/titles/7-everyone-wins.png"/>
-                <p class="citation">5 Savings after seven or more periodontal visits. <br/><br/><span class="six">6 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</span></p>
+                <p class="citation">5 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</p>
+
+                 <p class="citation citation2">6 Savings after seven or more periodontal visits.</p>
+
+
               </h2>
             </div><!-- /oral wellness -->

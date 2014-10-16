@@ -4,7 +4,7 @@ session_start();
 error_reporting(1);
 require_once("library/twitteroauth-master/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 $twitteruser = "UnitedConcordia";
-$notweets =22;
+$notweets =8;
 $consumerkey = "KxGg42KccAHCtuNqSOsnTgWPe";
 $consumersecret = "cfFmUoEXU3Y1JbKdhuvAF88P3CMcOqKAljwqpkotng0cy91nHj";
 $accesstoken = "2459385752-myx7Aszc4x4btu1Ikzp9UxkwELYzuTzrHgEgXDg";
@@ -17,8 +17,6 @@ function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oa
 
 $connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
 $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".$twitteruser."&count=".$notweets."&exclude_replies=true");
-
-
 
 
 ?>
@@ -43,26 +41,10 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
         </div>
         <div class="img"><img src="img/calling-clipart.png" class="call-center"></div>
         <div class="content-com">
-          <p><strong>In order for us to truly impact members</strong> and be
-            effective in reaching them with our message of dental
-            wellness, we need to improve access to information so
-            they can make more informed decisions about their
-            benefits and their health.</p>
-          <div class="com">
-            <h2><img src="img/titles/10-com.png"/></h2>
-            <p>At <strong>UnitedConcordia.com</strong>, enhanced search and navigation features help members find exactly what they need with just a few simple clicks.</p>
-            <a class="doc" href="https://www.unitedconcordia.com" target="_blank"><img src="img/btn6-concordia.jpg" alt=""> </a>
+          <p>In order for us to truly impact members and be effective in reaching them with our message of dental wellness, we need to improve access to information so they can make more informed decisions about their benefits and their health.</p>
 
-            <div class="share-box">
-              <div><img src="img/social-share.png"/></div>
-              <div>
-                <!-- <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
-                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
-                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-                <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
-              </div>
-            </div>
+            <p>Today’s on-the-go members can engage with us from their laptops, smartphones, and tablets through a collection of user-friendly tools designed to keep them connected with everything healthy. For members who prefer a more personalized experience, a simple phone call connects them with a resourceful member of our United Concordia Dental team.</p>
+          
 
           </div>
         </div>
@@ -75,26 +57,23 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
               dental wellness answers and put coverage
               information at their fingertips.</p>
           </div>
+        </div>
+
+
           <div class="comm-app-links">
             <a href="http://itunes.apple.com/us/app/united-concordia-dental-mobile/id522392221?mt=8" target="_blank"><img src="img/btn6-itunesapp.jpg" width="230" alt=""></a>
-            <a href="http://play.google.com/store/apps/details?id=com.ucci.dmw&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn7-androidapp.jpg" width="230" alt=""></a>
+            <a href="http://play.google.com/store/apps/details?id=com.ucci.dmw&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn7-androidapp.jpg" width="230" alt=""></a>  
 
             <div class="share-box">
               <div><img src="img/social-share.png"/></div>
-              <div>
-                <!-- <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
-                <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
+              <div>               
                 <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                 <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
-            </div>
-          </div>
-          <p class="app-second-p"><strong>Today’s on-the-go members can engage with us from their laptops, smartphones,
-            and tablets</strong> through a collection of user-friendly tools designed to keep them
-            connected with everything healthy. For members who prefer a more personalized
-            experience, a simple phone call connects them with a resourceful member of our
-            United Concordia team.</p>
+            
+          
+          
         </div>
 
         <!-- amy shearer -->
@@ -103,7 +82,7 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
             promote <strong>overall health and wellness among children</strong> while creating the next generation of wildlife stewards. It
             is great when a partnership really impacts all aspects of
             children’s lives.<span data-3900="transform:scale(0); opacity:0" data-4100="transform:scale(1); opacity:1" class="halloGreenBtm">&nbsp;</span></blockquote>
-          <span>&mdash;Amy Shearer<br>
+          <span>&mdash; Amy Shearer<br>
           <i>Chief Marketing Officer, Philadelphia Zoo</i></span> </div>
         <div class="ponyies"> <img src="img/Page-1-Image-11.png" alt=""> </div>
         <div class="kids-app">
@@ -148,6 +127,9 @@ a Facebook program designed to educate them about the connection between oral an
             <li><a href="https://www.linkedin.com/company/united-concordia" target="_blank"><img src="img/linkdin-icon.png"  width="35" height="35" alt="linkedin"></a></li>
           </ul>
         </div>
+      </div>
+
+      <div class="col col2">
 
 <!-- Start Twitter code Integration -->
        <?php foreach ($tweets as $row) : ?>
