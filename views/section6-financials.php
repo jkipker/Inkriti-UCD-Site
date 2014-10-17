@@ -30,9 +30,10 @@
       <div class="heading"><strong>2013 Consolidated Balance Sheet</strong><span>(As of December 31, $ in Thousands)</span></div>
       <div class="financialSummary-details">
         <div class="accordion">
-          <h2><span>Assets<strong>$704,443</strong></span></h2>
+          <h2><span>Assets</span></h2>
           <div class="content">
             <ul>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$704,443</strong></li>
               <li><span>Cash and Cash Equivalents</span><strong>$116,114</strong></li>
               <li><span>Investments</span><strong>360,529</strong></li>
               <li><span>Receivables</span><strong>152,390</strong></li>
@@ -40,9 +41,10 @@
               <li class="result-tab"><span>Total Assets</span><strong class="total-tab bold"><i>$704,443</i></strong></li>
             </ul>
           </div>
-          <h2><span>Liabilities and Stockholders Equity <strong>$704,443</strong></span></h2>
+          <h2><span>Liabilities and Stockholders Equity</span></h2>
           <div class="content">
             <ul>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$704,443</strong></li>
               <li><span>Claims Outstanding</span><strong>$109,412</strong></li>
               <li><span>Unearned Subscription Income</span><strong>42,049</strong></li>
               <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">114,813</strong></li>
@@ -52,9 +54,10 @@
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
-          <h2><span>Revenue <strong>$1,145,580</strong></span></h2>
+          <h2><span>Revenue</span></h2>
           <div class="content">
             <ul>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$1,145,580</strong></li>
               <li><span>Dental Care Expenses</span><strong>$806,984</strong></li>
               <li><span>Administrative and Other Expenses</span><strong class="total-tab2">232,468</strong></li>
               <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">1,039,452</strong></li>
@@ -64,9 +67,10 @@
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
-          <h2><span>Net Income<strong>$68,687</strong></span></h2>
+          <h2><span>Net Income<strong></strong></span></h2>
           <div class="content">
             <ul>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$68,687</strong></li>
               <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">$38,629</strong></li>
               <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">107,316</strong></li>
               <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">(925)</strong></li>

@@ -18,8 +18,7 @@
                        <!-- Fallback Text -->
                        <!-- Your browser does not appear to support a browser. Please download the video below. -->
                   <!-- </video> -->
-
-                  <iframe width="480" height="270" src="//www.youtube.com/embed/P7WQdKUJASc" frameborder="0" allowfullscreen></iframe>
+                  <iframe width="480" height="270" src="//www.youtube.com/embed/mhviT58mF8M" frameborder="0" allowfullscreen></iframe>
                 </div>
                  <!-- Rachel Stone -->
                   <div class="blocquotes bquo2" data-3070="left:200px; opacity:0" data-3200="left:100px; opacity:1">
@@ -28,7 +27,7 @@
                     With medical costs soaring and the general health<br>
 of American workers declining, the squeeze is on to<br>
 find creative solutions like United Concordia Dental’s<br>
-wellness product, <strong>Smile for Health<sup>®</sup> &ndash;Wellness</strong>
+wellness product, <strong>Smile for Health<sup>®</sup>&ndash;Wellness</strong>
                 <span data-3200="transform:scale(0); opacity:0" data-3350="transform:scale(1); opacity:1" class="hallowOrangeBtm hallowOrangeBtm2">&nbsp;</span>
                   </blockquote>
                   <span>&mdash; Rachel Stone<br> <i>Benefits Administrator, Bashas Inc.<br>
@@ -48,7 +47,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
                   <p>A recent network sharing agreement between United Concordia Dental, Dental Network of America (DNoA) and DenteMax further solidifies our position as one of the nation’s largest networks with more than 102,900 unique dentists and over 283,100 access points. And as our network continues to grow, so does our ability to provide high-quality, accessible care to our members and clients, while helping our producers, participating dentists and partners realize additional business opportunities.</p>
 
               <p>
-                Our innovative <span><strong>Smile For Health<sup>&reg;</sup>–Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, and who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
+                Our innovative <span><strong>Smile For Health<sup>&reg;</sup>–Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, or who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
               </p>
 </div>
                </div>
@@ -57,7 +56,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
                   <div class="blocquotes engagement animated"  data-3200="left[cubic]:1200px; opacity[cubic]:0" data-3400="left[cubic]:1500px;opacity[cubic]:1">
                     <blockquote>
                     <span data-3400="transform:scale(0); opacity:0" data-3450="transform:scale(1); opacity:1" class="fillOrangeTop">&nbsp;</span>
-                    To further differentiate United Concordia as a dental
+                    To further differentiate United Concordia Dental as a dental
                     wellness company, <strong>we are investing in client and member
                     engagement</strong> through the addition of wellness coaches to
                     our sales team. These coaches will meet face-to-face with
@@ -65,8 +64,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
                     help them make the most of what this product has to offer.
                     <span data-3400="transform:scale(0); opacity:0" data-3450="transform:scale(1); opacity:1" class="fillOrangeBtm">&nbsp;</span>
                   </blockquote>
-                  <span>&mdash;  Laurie Laspina<br> <i>Division Vice President, Western Region, Sales,<br>
-for United Concordia Dental</i></span>
+                  <span>&mdash;  Laurie Laspina<br> <i>Division Vice President, Western Region, Sales,<br/> United Concordia Dental</i></span>
                   </div>
 
             </div><!-- /program Section -->

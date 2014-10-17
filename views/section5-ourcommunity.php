@@ -33,8 +33,8 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
                     <div class="going-beyond">
           <h2 class="animated"><img src="img/titles/9-above-beyond.png"/></h2>
           <ul class="green-list">
-            <li>Both our Government and Commercial Call Centers have earned Benchmark Portal Certification as Centers for Excellence</li>
-            <li>Our Commercial Call Center also earned 1<sup>st</sup> place in the medium-size Call Center Category in Benchmark Portal’s Top 100 Call Center Competition.</li>
+            <li>Both our Government and Commercial Call Centers have earned BenchmarkPortal Certification as Centers for Excellence</li>
+            <li>Our Commercial Call Center also earned 1<sup>st</sup> place in the medium-size Call Center Category in BenchmarkPortal’s Top 100 Call Center Competition.</li>
             <li>Most member calls are answered within 30 seconds, with a first-call resolution of more than 97%.</li>
             <li>Nearly 100% of all claims are processed in 30 days, with 70% processed electronically and 98% paid in 30 days.</li>
           </ul>
@@ -43,7 +43,7 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
         <div class="content-com">
           <p>In order for us to truly impact members and be effective in reaching them with our message of dental wellness, we need to improve access to information so they can make more informed decisions about their benefits and their health.</p>
 
-            <p>Today’s on-the-go members can engage with us from their laptops, smartphones, and tablets through a collection of user-friendly tools designed to keep them connected with everything healthy. For members who prefer a more personalized experience, a simple phone call connects them with a resourceful member of our United Concordia Dental team.</p>
+            <p>Today’s on-the-go members can engage with us from their laptops, smartphones and tablets through a collection of user-friendly tools designed to keep them connected with everything healthy. For members who prefer a more personalized experience, a simple phone call connects them with a resourceful member of our United Concordia Dental team.</p>
           
 
           </div>
