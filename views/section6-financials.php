@@ -37,8 +37,8 @@
               <li><span>Cash and Cash Equivalents</span><strong> &nbsp; &nbsp; $116,114 &nbsp; &nbsp; </strong></li>
               <li><span>Investments</span><strong> &nbsp; &nbsp; 360,529 &nbsp; &nbsp; </strong></li>
               <li><span>Receivables</span><strong> &nbsp; &nbsp; 152,390 &nbsp; &nbsp; </strong></li>
-              <li><span>Other Assets</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; 75,410 &nbsp; &nbsp; </strong></li>
-              <li class="result-tab" style="border: none;"><span>Total Assets</span><strong class="total-tab bold"><i>&nbsp; &nbsp; $704,443 &nbsp; &nbsp;</i></strong></li>
+              <li><span>Other Assets</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;75,410 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab" style="border: none;"><span>Total Assets</span><strong class="total-tab bold"><i>&nbsp; &nbsp; &nbsp; $704,443 &nbsp; &nbsp;</i></strong></li>
             </ul>
           </div>
           <h2><span>Liabilities and Stockholders Equity</span></h2>
@@ -47,10 +47,10 @@
               <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $704,443 &nbsp;</strong></li>
               <li><span>Claims Outstanding</span><strong> &nbsp; &nbsp; $109,412 &nbsp; &nbsp; </strong></li>
               <li><span>Unearned Subscription Income</span><strong> &nbsp; &nbsp; 42,049 &nbsp; &nbsp; </strong></li>
-              <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 114,813 &nbsp; &nbsp; </strong></li>
+              <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp; 114,813 &nbsp; &nbsp; </strong></li>
               <li class="result-tab"><span>Total Liabilities</span><strong class="bold"> &nbsp; &nbsp; 266,274 &nbsp; &nbsp; </strong></li>
-              <li><span>Stockholder's Equity</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 438,169 &nbsp; &nbsp; </strong></li>
-              <li class="result-tab" style="border: none;"><span>Total Liabilities and Stockholder's Equity</span><strong class="total-tab bold" ><i> &nbsp; &nbsp; $704,443 &nbsp; &nbsp; </i></strong></li>
+              <li><span>Stockholder's Equity</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp; 438,169 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab" style="border: none;"><span>Total Liabilities and Stockholder's Equity</span><strong class="total-tab bold" ><i> &nbsp; &nbsp; &nbsp;$704,443 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
@@ -59,11 +59,11 @@
             <ul>
               <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $1,145,580 &nbsp; </strong></li>
               <li><span>Dental Care Expenses</span><strong> &nbsp; &nbsp; $806,984 &nbsp; &nbsp; </strong></li>
-              <li><span>Administrative and Other Expenses</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 232,468 &nbsp; &nbsp; </strong></li>
-              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold"> &nbsp; &nbsp; &nbsp; 1,039,452 &nbsp; &nbsp; </strong></li>
+              <li><span>Administrative and Other Expenses</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp;232,468 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1,039,452 &nbsp; &nbsp; </strong></li>
               <li><span>Income Before Taxes</span><strong> &nbsp; &nbsp; 106,128 &nbsp; &nbsp; </strong></li>
               <li><span>Provision for Income Taxes</span><strong> &nbsp; &nbsp; $37,441 &nbsp; &nbsp; </strong></li>
-              <li class="result-tab" style="border: none;"><span>Net Income</span><strong class="total-tab bold"><i> &nbsp; &nbsp; $68,687 &nbsp; &nbsp; </i></strong></li>
+              <li class="result-tab" style="border: none;"><span>Net Income</span><strong class="total-tab bold"><i> &nbsp; &nbsp; &nbsp; $68,687 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
@@ -74,10 +74,10 @@
               <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; $38,629 &nbsp; &nbsp; </strong></li>
               <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">&nbsp; &nbsp; 107,316 &nbsp; &nbsp; </strong></li>
               <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">&nbsp; &nbsp; (925) &nbsp; &nbsp; </strong></li>
-              <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">&nbsp; &nbsp; &nbsp; (92,867) &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">&nbsp; &nbsp; &nbsp;(92,867) &nbsp; &nbsp; </strong></li>
               <li ><span>Net Increase in Cash and Cash Equivalents</span><strong>&nbsp; &nbsp; 13,524 &nbsp; &nbsp; </strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">&nbsp; &nbsp; 102,590 &nbsp; &nbsp; </strong></li>
-               <li class="result-tab" style="border: none;"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold"><i>&nbsp; &nbsp; $116,114 &nbsp; &nbsp; </i></strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">&nbsp; &nbsp; &nbsp; &nbsp;102,590 &nbsp; &nbsp; </strong></li>
+               <li class="result-tab" style="border: none;"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold"><i>&nbsp; &nbsp; &nbsp;$116,114 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
         </div>
