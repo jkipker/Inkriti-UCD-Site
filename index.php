@@ -29,6 +29,7 @@
 
   <!--GOOGLE FONT-->
   <link href='http://fonts.googleapis.com/css?family=Belleza' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
   <link rel="stylesheet" type="text/css" href="css/normalize.css">
   <link rel="stylesheet" type="text/css" href="css/animate.css">
@@ -73,7 +74,7 @@
 		<?php include 'views/section2-lookback.php';?>
 
 		<!-- IMAGE IN BETWEEN SECTIONS -->
-	    <div class="img-divider new-exec-img"><img src="img/dentist-checkup.jpg" alt=""></div>
+	  <div class="img-divider new-exec-img"><img src="img/dentist-checkup.jpg" alt=""></div>
 		<!-- END IMAGE BETWEEN SECTIONS -->
 
 		<?php include 'views/section3-exec-summary.php';?>

@@ -38,7 +38,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
 
                <div class="uc-wellness">
                   <hgroup>
-                    <h2><img src="img/titles/8-smile-for-health.png"/></h2>
+                    <h2><img src="img/smile-2.png"/></h2>
                   </hgroup>
                   <div class="uc-img"><img src="img/uc-wellness.png" alt=""></div>
                   <div class="leader-txt"><p>As a leader in the industry, we’re recognized for our focus on helping members cover the expenses of preventive dental care, restoration and dental emergencies. Through input from our members and dentists, we’re constantly working to add to the range of cost- effective and responsive plans and programs available from United Concordia Dental.</p>
@@ -47,7 +47,7 @@ chain with more than 130 stores in neighborhoods across the state</i></span>
                   <p>A recent network sharing agreement between United Concordia Dental, Dental Network of America (DNoA) and DenteMax further solidifies our position as one of the nation’s largest networks with more than 102,900 unique dentists and over 283,100 access points. And as our network continues to grow, so does our ability to provide high-quality, accessible care to our members and clients, while helping our producers, participating dentists and partners realize additional business opportunities.</p>
 
               <p>
-                Our innovative <span><strong>Smile For Health<sup>&reg;</sup>–Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, or who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
+                Our innovative <span><strong>Smile for Health<sup>®</sup>&ndash;Wellness</strong></span> product has been specifically developed to help members with certain chronic conditions like heart disease, stroke and diabetes, or who are pregnant, lead a healthier life through better oral care. Through involved employer groups, 600,000 members now receive enhanced benefits to treat their gum disease, helping decrease health care costs across the board.
               </p>
 </div>
                </div>

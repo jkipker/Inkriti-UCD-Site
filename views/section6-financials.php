@@ -20,7 +20,7 @@
         </div>
         <div class="middle-col-content-right">
           <h3><img src="img/titles/15-positive-nums.png"/> </h3>
-          <p class="pos-num-p">2013 saw solid growth from our strategic health partnerships — more than 600,000 contracts enrolled — bringing total membership to more than 7.5 million.</p>
+          <p class="pos-num-p">2013 saw solid growth from our strategic health partnerships—more than 600,000 contracts enrolled—bringing total membership to more than 7.5 million.</p>
         </div>
       </div>
     </div>
@@ -33,51 +33,51 @@
           <h2><span>Assets</span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$704,443</strong></li>
-              <li><span>Cash and Cash Equivalents</span><strong>$116,114</strong></li>
-              <li><span>Investments</span><strong>360,529</strong></li>
-              <li><span>Receivables</span><strong>152,390</strong></li>
-              <li><span>Other Assets</span><strong>75,410</strong></li>
-              <li class="result-tab"><span>Total Assets</span><strong class="total-tab bold"><i>$704,443</i></strong></li>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $704,443 &nbsp;</strong></li>
+              <li><span>Cash and Cash Equivalents</span><strong> &nbsp; &nbsp; $116,114 &nbsp; &nbsp; </strong></li>
+              <li><span>Investments</span><strong> &nbsp; &nbsp; 360,529 &nbsp; &nbsp; </strong></li>
+              <li><span>Receivables</span><strong> &nbsp; &nbsp; 152,390 &nbsp; &nbsp; </strong></li>
+              <li><span>Other Assets</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; 75,410 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab" style="border: none;"><span>Total Assets</span><strong class="total-tab bold"><i>&nbsp; &nbsp; $704,443 &nbsp; &nbsp;</i></strong></li>
             </ul>
           </div>
           <h2><span>Liabilities and Stockholders Equity</span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$704,443</strong></li>
-              <li><span>Claims Outstanding</span><strong>$109,412</strong></li>
-              <li><span>Unearned Subscription Income</span><strong>42,049</strong></li>
-              <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">114,813</strong></li>
-              <li class="result-tab"><span>Total Liabilities</span><strong class="bold">266,274</strong></li>
-              <li><span>Stockholder's Equity</span><strong>438,169</strong></li>
-              <li class="result-tab"><span>Total Liabilities Stockholder's Equity</span><strong class="total-tab bold"><i>$704,443</i></strong></li>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $704,443 &nbsp;</strong></li>
+              <li><span>Claims Outstanding</span><strong> &nbsp; &nbsp; $109,412 &nbsp; &nbsp; </strong></li>
+              <li><span>Unearned Subscription Income</span><strong> &nbsp; &nbsp; 42,049 &nbsp; &nbsp; </strong></li>
+              <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 114,813 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Total Liabilities</span><strong class="bold"> &nbsp; &nbsp; 266,274 &nbsp; &nbsp; </strong></li>
+              <li><span>Stockholder's Equity</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 438,169 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab" style="border: none;"><span>Total Liabilities and Stockholder's Equity</span><strong class="total-tab bold" ><i> &nbsp; &nbsp; $704,443 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Operations</strong><span>(As of December 31, $ in Thousands)</span></div>
           <h2><span>Revenue</span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$1,145,580</strong></li>
-              <li><span>Dental Care Expenses</span><strong>$806,984</strong></li>
-              <li><span>Administrative and Other Expenses</span><strong class="total-tab2">232,468</strong></li>
-              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">1,039,452</strong></li>
-              <li><span>Income Before Taxes</span><strong>106,128</strong></li>
-              <li class="result-tab"><span>Provision for Income Taxes</span><strong class="total-tab2">$37,441</strong></li>
-              <li class="result-tab"><span>Net Income</span><strong class="total-tab bold"><i>$68,687</i></strong></li>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $1,145,580 &nbsp; </strong></li>
+              <li><span>Dental Care Expenses</span><strong> &nbsp; &nbsp; $806,984 &nbsp; &nbsp; </strong></li>
+              <li><span>Administrative and Other Expenses</span><strong class="total-tab2"> &nbsp; &nbsp; &nbsp; 232,468 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold"> &nbsp; &nbsp; &nbsp; 1,039,452 &nbsp; &nbsp; </strong></li>
+              <li><span>Income Before Taxes</span><strong> &nbsp; &nbsp; 106,128 &nbsp; &nbsp; </strong></li>
+              <li><span>Provision for Income Taxes</span><strong> &nbsp; &nbsp; $37,441 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab" style="border: none;"><span>Net Income</span><strong class="total-tab bold"><i> &nbsp; &nbsp; $68,687 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
           <div class="heading"><strong>2013 Consolidated Statement of Cash Flows</strong><span>(For the Year Ended December 31, $ in Thousands)</span></div>
           <h2><span>Net Income<strong></strong></span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>$68,687</strong></li>
-              <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">$38,629</strong></li>
-              <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">107,316</strong></li>
-              <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">(925)</strong></li>
-              <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">(92,867)</strong></li>
-              <li ><span>Net Increase in Cash and Cash Equivalents</span><strong>13,524</strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">102,590</strong></li>
-               <li class="result-tab"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold"><i>$116,114</i></strong></li>
+              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>&nbsp; &nbsp; $68,687 &nbsp; </strong></li>
+              <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; $38,629 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">&nbsp; &nbsp; 107,316 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">&nbsp; &nbsp; (925) &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Net Cash Used in Financing Activities</span><strong class="bold total-tab2">&nbsp; &nbsp; &nbsp; (92,867) &nbsp; &nbsp; </strong></li>
+              <li ><span>Net Increase in Cash and Cash Equivalents</span><strong>&nbsp; &nbsp; 13,524 &nbsp; &nbsp; </strong></li>
+               <li class="result-tab"><span>Cash and Cash Equivalents at Beginning of Year</span><strong class="total-tab2 bold">&nbsp; &nbsp; 102,590 &nbsp; &nbsp; </strong></li>
+               <li class="result-tab" style="border: none;"><span>Cash and Cash Equivalents at End of Year</span><strong class="total-tab bold"><i>&nbsp; &nbsp; $116,114 &nbsp; &nbsp; </i></strong></li>
             </ul>
           </div>
         </div>

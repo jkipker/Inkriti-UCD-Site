@@ -14,8 +14,8 @@
                     <img src="img/74-infograph.png"/>
                 </div>
                 <img data-1950="top:20%; left:20px; opacity:0" data-2150="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
-                <p class="citation">3 http://www.statisticbrain.com/dental-hygine-statistics/ April 24, 2012.
-                  <a href="http://www.statisticbrain.com/dental-hygine-statistics/" target="_blank"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
+                <p class="citation"><sup>3</sup> http://www.statisticbrain.com/dental-hygine-statistics/ April 24, 2012.
+                  <a href="http://www.statisticbrain.com/dental-hygiene-statistics/" target="_blank"><img src="img/btn4-stats.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
 
@@ -41,7 +41,7 @@
                     
                 </div>
                 <img data-2300="top:20%; left:20px; opacity:0" data-2400="top[cubic]:27%; left[cubic]:310px; opacity:1" src="img/anim-down-arrow.png" id="arrow2" alt="">
-                <p class="citation">4 CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009
+                <p class="citation"><sup>4</sup> CDC. National Center for Chronic Disease Prevention and Health Promotion. “ The Power of Prevention: Chronic Disease... the Public Health Challenge of the 21st Century.” 2009
                   <a href="https://www.unitedconcordia.com/dental-insurance/dental/conditions/ucwellness-oral-health-study/results-ucwellness-oral-health-study/" target="_blank"><img src="img/btn5-cdc.jpg" style="width: 230px; max-width: 230px; margin-top:8px;"width="200"/></a>
                 </p>
               </div><!-- /per -->
@@ -108,9 +108,9 @@
                 </div>
               </div>
               <h2 class="footer-txt animated"><img src="img/titles/7-everyone-wins.png"/>
-                <p class="citation">5 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</p>
+                <p class="citation"><sup>5</sup> Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations and Medical Costs in Diabetics, Abstract, American Association of Dental Research, March 21, 2014. Savings applicable to employers only, not consumers.</p>
 
-                 <p class="citation citation2">6 Savings after seven or more periodontal visits.</p>
+                 <p class="citation citation2"><sup>6</sup> Savings after seven or more periodontal visits.</p>
 
 
               </h2>

@@ -35,7 +35,7 @@
                             We believe the results underscore the critical need for an integrated approach
                             to wellness through better coordination between dental and medical providers.</p>
 
-                        <p class="citation">1 Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations 
+                        <p class="citation"><sup>1</sup> Jeffcoat, M., et. al., Periodontal Therapy Reduces Hospitalizations 
                     and Medical Costs in Diabetics, Abstract, American Association of 
                     Dental Research, March 23, 2012.</p>
             <div class="studyDocs">

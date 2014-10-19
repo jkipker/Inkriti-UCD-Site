@@ -43,7 +43,7 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
         <div class="content-com">
           <p>In order for us to truly impact members and be effective in reaching them with our message of dental wellness, we need to improve access to information so they can make more informed decisions about their benefits and their health.</p>
 
-            <p>Today’s on-the-go members can engage with us from their laptops, smartphones and tablets through a collection of user-friendly tools designed to keep them connected with everything healthy. For members who prefer a more personalized experience, a simple phone call connects them with a resourceful member of our United Concordia Dental team.</p>
+            <p>Today’s on&ndash;the&ndash;go members can engage with us from their laptops, smartphones and tablets through a collection of user-friendly tools designed to keep them connected with everything healthy. For members who prefer a more personalized experience, a simple phone call connects them with a resourceful member of our United Concordia Dental team.</p>
           
 
           </div>
@@ -65,10 +65,10 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
             <a href="http://play.google.com/store/apps/details?id=com.ucci.dmw&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn7-androidapp.jpg" width="230" alt=""></a>  
 
             <div class="share-box">
-              <div><img src="img/social-share.png"/></div>
+              <!-- <div><img src="img/social-share.png"/></div> -->
               <div>               
-                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <!-- <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a> -->
+                <!--script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script-->
                 <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
             
@@ -98,12 +98,12 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
               <a href="http://play.google.com/store/apps/details?id=com.ucci.dtt&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn8-kids-android.jpg" width="230" alt=""></a>
 
               <div class="share-box" style="margin: 0">
-              <div><img src="img/social-share.png"/></div>
+              <!-- <div><img src="img/social-share.png"/></div> -->
               <div>
                <!--  <a href="https://www.facebook.com/UnitedConcordiaDental"><img class="social-ico" src="img/social-fb.png"/></a> -->
                 <!-- <a href="https://twitter.com/UnitedConcordia" target="_blank"><img class="social-ico" src="img/social-tweet.png"/></a> -->
-                <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                <!-- <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a> -->
+<!--script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script-->
                 <!-- <a href="https://www.youtube.com/user/UCCIDental"><img class="social-ico" style="margin-right: 0;" src="img/social-youtube.png"/></a> -->
               </div>
             </div>
@@ -116,7 +116,7 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
           <div class="social-descript-box">
           <h1><img src="img/titles/13-social-media.png"/></h1>
           <p class="social-descript">In 2013, we engaged consumers through
-a Facebook program designed to educate them about the connection between oral and overall wellness, while supporting three charities connected to United Concordia’s mission — National Diabetes Association, March of Dimes and Arthritis Foundation. Consumers can also find us on Twitter, YouTube, and LinkedIn.</p>
+a Facebook program designed to educate them about the connection between oral and overall wellness, while supporting three charities connected to United Concordia’s mission&ndash;National Diabetes Association, March of Dimes and Arthritis Foundation. Consumers can also find us on Twitter, YouTube, and LinkedIn.</p>
 
           <!--social links-->
           <ul class="social-links">

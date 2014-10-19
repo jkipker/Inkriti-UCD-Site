@@ -12,7 +12,7 @@
                     <p>In 2013, United Concordia Dental had another strong financial year, ensuring the resources we need to move forward, impact lives and help members improve their oral and overall health like never before.</p>
 
 
-                    <p>We continued to build our nationwide network of dentists&mdash;one of the nation’s largest&mdash;and our distribution channels; added to our range of cost- effective and responsive plans and programs; enhanced our website; and created simpler ways for members to engage with us. We also developed strategic health partnerships, created an award-winning mobile app and strengthened our position as an industry leader.</p>
+                    <p>We continued to build our nationwide network of dentists&mdash;one of the nation’s largest&mdash;and our distribution channels; added to our range of cost&ndash;effective and responsive plans and programs; enhanced our website; and created simpler ways for members to engage with us. We also developed strategic health partnerships, created an award-winning mobile app and strengthened our position as an industry leader.</p>
 
                     <p>By taking a deeper dive into the research from our landmark 2012 study,
                     we built on our earlier findings, clearly illustrating the important connection between oral and overall wellness. Our study further demonstrates that significant cost savings are possible when individuals with gum disease receive and maintain treatment.
