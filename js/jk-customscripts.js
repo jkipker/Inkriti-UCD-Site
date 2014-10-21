@@ -10,11 +10,16 @@ $(function() {
 
 	//SET WINDOW DIMENSIONS - WIDTH / HEIGHT
 	function setDimensions(){
+
 		myHeight = $(window).height();
 		myWidth = $(window).width();
 
 		//SET SECTION HEIGHT TO STAGE HEIGHT
+		if(myHeight <=590){ 
+			myHeight = 590; 
+		}
 		$('.stage section').height(myHeight);
+
 		$('.img-divider').height(myHeight);
 		$('#a-look-back').height(myHeight-45);
 		$('#mission').height(myHeight-45);
@@ -23,7 +28,7 @@ $(function() {
 		$('.exec-summary').height(myHeight-45);
 		$('#financials').height(myHeight-45);
 
-		stageWidth = Math.round(myHeight*37);
+		// stageWidth = Math.round(myHeight*37);
 
 		$('.img-divider').width(Math.round(myHeight*0.35));
 

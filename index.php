@@ -13,7 +13,8 @@
   <meta property="og:url" content="https://www.unitedConcordia.com/ourdentalstory" />
   <meta property="og:image" content="https://www.unitedconcordia.com/v2/images/uc-header.png" />
 
-  <meta name="viewport" content="width=device-width, user-scalable=no">
+  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=.5">
+  
   <meta http-equiv="x-ua-compatible" content="IE=edge">
   
 

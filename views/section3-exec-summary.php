@@ -28,7 +28,7 @@
 
                     <p>As we work closely with employers, producers, dentists and our partners, we are delivering products and services that help meet the ever-changing needs of consumers. With a focus on improving the oral health and well-being of the members we serve and as a recognized leader in the industry, there’s great responsibility in change; but, the importance of that change cannot be ignored. It is our mission and duty to meet the challenges before us for the health and well-being of those we serve, while helping reduce costs as good stewards of their dollars.</p>
 
-                    <p>For all of us at United Concordia, it was an exciting year and we look forward to continuing this momentum as we build toward the future, transforming into a non-traditional dental wellness company in all we do.</p>
+                    <p>For all of us at United Concordia Dental, it was an exciting year and we look forward to continuing this momentum as we build toward the future, transforming into a non-traditional dental wellness company in all we do.</p>
                 </div>
                    
                 </div>

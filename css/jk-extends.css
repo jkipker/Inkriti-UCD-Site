@@ -708,7 +708,7 @@ div{
 
 .oral-wellness h2.footer-txt{
     color: #0066a4;
-    display: table;
+    display: block;
     float: left;
     font-size: 39px;
     left: 2910px;
@@ -1302,7 +1302,7 @@ z-index: 1;
 }
 
 .oral-wellness h2.footer-txt{
-    display: table;
+    display: block;
 float: left;
 font-size: 40px;
 left: 2959px;

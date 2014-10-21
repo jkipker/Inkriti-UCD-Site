@@ -33,7 +33,6 @@
           <h2><span>Assets</span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $704,443 &nbsp;</strong></li>
               <li><span>Cash and Cash Equivalents</span><strong> &nbsp; &nbsp; $116,114 &nbsp; &nbsp; </strong></li>
               <li><span>Investments</span><strong> &nbsp; &nbsp; 360,529 &nbsp; &nbsp; </strong></li>
               <li><span>Receivables</span><strong> &nbsp; &nbsp; 152,390 &nbsp; &nbsp; </strong></li>
@@ -44,7 +43,7 @@
           <h2><span>Liabilities and Stockholders Equity</span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $704,443 &nbsp;</strong></li>
+          
               <li><span>Claims Outstanding</span><strong> &nbsp; &nbsp; $109,412 &nbsp; &nbsp; </strong></li>
               <li><span>Unearned Subscription Income</span><strong> &nbsp; &nbsp; 42,049 &nbsp; &nbsp; </strong></li>
               <li><span>Other Payables and Accrued Expenses</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp; 114,813 &nbsp; &nbsp; </strong></li>
