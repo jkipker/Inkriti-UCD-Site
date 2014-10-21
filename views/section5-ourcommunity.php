@@ -93,9 +93,9 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
             throughout the industry, this app was recently honored with a prestigious
             Techburger Award.</p>
             <div class="comm-app-links">
-              <a href="http://itunes.apple.com/us/app/chomper-chums/id579421399?mt=8" target="_blank">
+              <a href="http://itunes.apple.com/us/app/idental/id522392221?mt=8" target="_blank">
                 <img src="img/btn8-kids-itunes.jpg" width="230" alt=""></a>
-              <a href="http://play.google.com/store/apps/details?id=com.ucci.dtt&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn8-kids-android.jpg" width="230" alt=""></a>
+              <a href="https://play.google.com/store/apps/details?id=com.ucci.dmw" target="_blank"><img style="margin-top:2px;" src="img/btn8-kids-android.jpg" width="230" alt=""></a>
 
               <div class="share-box" style="margin: 0">
               <!-- <div><img src="img/social-share.png"/></div> -->
