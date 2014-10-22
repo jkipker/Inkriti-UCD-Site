@@ -4,7 +4,7 @@ session_start();
 error_reporting(1);
 require_once("library/twitteroauth-master/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 $twitteruser = "UnitedConcordia";
-$notweets =8;
+$notweets =4;
 $consumerkey = "KxGg42KccAHCtuNqSOsnTgWPe";
 $consumersecret = "cfFmUoEXU3Y1JbKdhuvAF88P3CMcOqKAljwqpkotng0cy91nHj";
 $accesstoken = "2459385752-myx7Aszc4x4btu1Ikzp9UxkwELYzuTzrHgEgXDg";
@@ -17,6 +17,28 @@ function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oa
 
 $connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
 $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".$twitteruser."&count=".$notweets."&exclude_replies=true");
+
+
+function fetchUrl($url){
+
+ $ch = curl_init();
+ curl_setopt($ch, CURLOPT_URL, $url);
+ curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+ curl_setopt($ch, CURLOPT_TIMEOUT, 20);
+ // You may need to add the line below
+ curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
+
+ $feedData = curl_exec($ch);
+ curl_close($ch); 
+
+ return $feedData;
+
+}
+
+
+$json_object = fetchUrl("https://graph.facebook.com/v2.1/252175674875211/feed?key=value&access_token=979366645412371|31336bf1baa8a42462325e4ab572debd");
+$arraydata = json_decode($json_object);
+$arrayfeeds= $arraydata->data;
 
 
 ?>
@@ -95,7 +117,7 @@ $tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.j
             <div class="comm-app-links">
               <a href="http://itunes.apple.com/us/app/idental/id522392221?mt=8" target="_blank">
                 <img src="img/btn8-kids-itunes.jpg" width="230" alt=""></a>
-              <a href="https://play.google.com/store/apps/details?id=com.ucci.dmw" target="_blank"><img style="margin-top:2px;" src="img/btn8-kids-android.jpg" width="230" alt=""></a>
+              <a href="http://play.google.com/store/apps/details?id=com.ucci.dtt&hl=en" target="_blank"><img style="margin-top:2px;" src="img/btn8-kids-android.jpg" width="230" alt=""></a>
 
               <div class="share-box" style="margin: 0">
               <!-- <div><img src="img/social-share.png"/></div> -->
@@ -130,13 +152,34 @@ a Facebook program designed to educate them about the connection between oral an
       </div>
 
       <div class="col col2">
+<div class="facebook-column">
+  <?php foreach ($arrayfeeds as $row)  :?>
+    <div class="socialmedia-box">
+              <p class="fb-img"><img src="<?php echo $row->picture ?>"/>
+              <p> <?php echo $row->message ?><br/>
+                  <a href="<?php echo $row->link ?>">View Post</a>
+              </p>
+              <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
+            </div>
+  <?php endforeach; ?>
+</div>
 
+<div class="twitter-column">
 <!-- Start Twitter code Integration -->
        <?php foreach ($tweets as $row) : ?>
             <div class="socialmedia-box">
             <p> <?php echo $row->text; ?></p>
             <a href="https://twitter.com/UnitedConcordia/status/<?php echo $row->id ?>" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
        <?php endforeach; ?>
+</div>
+
+
+
+
+
+
+
+
 <!-- End Twitter code Integration -->
     </div><!-- end column-->
       </div><!-- /wrap -->

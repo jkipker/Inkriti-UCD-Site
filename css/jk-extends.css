@@ -2123,7 +2123,7 @@ h2 img{
     width: 1160px;
     position: relative;
     height: 95%;
-    margin-top: 30px;w
+    margin-top: 20px;w
     display: block;
     padding: 0;
     margin-left: -25px;
@@ -2291,8 +2291,8 @@ h2 img{
 
 .socialmedia-wrapper{
     left:-730px;
-    width: 950px;
-    height: 70%;
+    width: 965px;
+    height: 540px;
     background-color: white;
     min-height: 450px !important;
 }
@@ -2304,12 +2304,12 @@ h2 img{
 }
 
 .socialmedia-wrapper .col2{
-    width: 596px;
+    width: 600px;
 }
 
 .socialmedia-box{
     width: 200px;
-    height: 100px;
+    height: 93px;
 }
 
 .ponyies{
@@ -2401,9 +2401,27 @@ h2 img{
     top: 0.08em;
 }
 
-sup {
-    /*font-size: 150%;*/
-    /*top: 0.08em;*/
+.facebook-column{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    width: 310px;
+    height: 505px;
+    overflow: hidden;  
+}
+
+.facebook-column .socialmedia-box, .facebook-column .socialmedia-box p{
+     max-width: 230px;
+     width: 230px;
+     height: auto;
+}
+
+.twitter-column{
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    width: 280px;
+    overflow: hidden;
 }
 
 
