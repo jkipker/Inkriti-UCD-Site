@@ -14,7 +14,7 @@
                 </div>
 
                 <div class="dental-integration animated" data-0="left:800px;opacity:0;" data-180="left:468px;opacity:1;">
-                    <blockquote><span data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueTop">&nbsp;</span><strong>Dental-medical integration</strong> means that oral health is viewed&mdash;and acknowledged&mdash;as part of the<br> overall health equation.<span  data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueBtm">&nbsp;</span></blockquote>
+                    <blockquote><span data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueTop">&nbsp;</span><strong>Dental-medical integration</strong> means that oral <br/>health is viewed&mdash;and acknowledged&mdash;as part of the <br/>overall health equation.<span  data-170="transform:scale(0); opacity:0" data-220="transform:scale(1); opacity:1" class="hallowBlueBtm">&nbsp;</span></blockquote>
                     <span>&mdash; James Bramson, D.D.S.<br> <i>Chief Dental Officer, United Concordia Dental</i></span>
                 </div>
 
