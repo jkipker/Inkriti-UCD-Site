@@ -157,7 +157,7 @@ a Facebook program designed to educate them about the connection between oral an
     <div class="socialmedia-box">
               <p class="fb-img"><img src="<?php echo $row->picture ?>"/>
               <p> <?php echo $row->message ?><br/>
-                  <a href="<?php echo $row->link ?>">View Post</a>
+                  <a href="<?php echo $row->link ?>" target="_blank">View Post</a>
               </p>
               <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
             </div>

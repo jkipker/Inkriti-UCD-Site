@@ -59,7 +59,7 @@
               <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong> &nbsp; &nbsp; $1,145,580 &nbsp; </strong></li>
               <li><span>Dental Care Expenses</span><strong> &nbsp; &nbsp; $806,984 &nbsp; &nbsp; </strong></li>
               <li><span>Administrative and Other Expenses</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; &nbsp;232,468 &nbsp; &nbsp; </strong></li>
-              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1,039,452 &nbsp; &nbsp; </strong></li>
+              <li class="result-tab"><span>Total Expenses</span><strong "total-tab2 bold" style="font-weight: bold;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1,039,452 &nbsp; &nbsp; </strong></li>
               <li><span>Income Before Taxes</span><strong> &nbsp; &nbsp; 106,128 &nbsp; &nbsp; </strong></li>
               <li><span>Provision for Income Taxes</span><strong> &nbsp; &nbsp; $37,441 &nbsp; &nbsp; </strong></li>
               <li class="result-tab" style="border: none;"><span>Net Income</span><strong class="total-tab bold"><i> &nbsp; &nbsp; &nbsp; $68,687 &nbsp; &nbsp; </i></strong></li>
@@ -69,7 +69,7 @@
           <h2><span>Net Income<strong></strong></span></h2>
           <div class="content">
             <ul>
-              <li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>&nbsp; &nbsp; $68,687 &nbsp; </strong></li>
+              <!--li style="font-size: 19px; padding-bottom: 3px;"><span> </span><strong>&nbsp; &nbsp; $68,687 &nbsp; </strong></li-->
               <li><span>Adjustments to Reconcile Net Income to Cash Flows Provided by Operating Activities</span><strong class="total-tab2">&nbsp; &nbsp; &nbsp; $38,629 &nbsp; &nbsp; </strong></li>
               <li class="result-tab"><span>Net Cash Provided by Operating Activities</span><strong class="bold">&nbsp; &nbsp; 107,316 &nbsp; &nbsp; </strong></li>
               <li class="result-tab"><span>Net Cash Used in Investing Activities</span><strong class="bold">&nbsp; &nbsp; (925) &nbsp; &nbsp; </strong></li>
