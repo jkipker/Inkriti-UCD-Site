@@ -154,10 +154,6 @@ a Facebook program designed to educate them about the connection between oral an
       <div class="col col2">
         <div class="facebook-column">
           <?php foreach ($arrayfeeds as $row)  :?>
-		   <?php
-		      $fromfeed = $row->from;
-		      if($fromfeed->id == 252175674875211){
-			?>
             <div class="socialmedia-box">
                       <p class="fb-img"><img src="<?php echo $row->picture ?>"/>
                       <p> <?php echo $row->message ?><br/>
@@ -165,7 +161,6 @@ a Facebook program designed to educate them about the connection between oral an
                       </p>
                       <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
                     </div>
-					<?php } ?>
           <?php endforeach; ?>
         </div>
 
