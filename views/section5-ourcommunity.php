@@ -4,7 +4,7 @@ session_start();
 error_reporting(1);
 require_once("library/twitteroauth-master/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
 $twitteruser = "UnitedConcordia";
-$notweets =4;
+$notweets =5;
 $consumerkey = "KxGg42KccAHCtuNqSOsnTgWPe";
 $consumersecret = "cfFmUoEXU3Y1JbKdhuvAF88P3CMcOqKAljwqpkotng0cy91nHj";
 $accesstoken = "2459385752-myx7Aszc4x4btu1Ikzp9UxkwELYzuTzrHgEgXDg";
@@ -154,10 +154,10 @@ a Facebook program designed to educate them about the connection between oral an
       <div class="col col2">
         <div class="facebook-column">
           <?php foreach ($arrayfeeds as $row)  :?>
-		   <?php
-		      $fromfeed = $row->from;
-		      if($fromfeed->id == 252175674875211){
-			?>
+  <?php
+     $fromfeed = $row->from;
+     if($fromfeed->id == 252175674875211   &&  $row->message!="" ){
+?>
             <div class="socialmedia-box">
                       <p class="fb-img"><img src="<?php echo $row->picture ?>"/>
                       <p> <?php echo $row->message ?><br/>
@@ -165,7 +165,7 @@ a Facebook program designed to educate them about the connection between oral an
                       </p>
                       <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
                     </div>
-					<?php } ?>
+<?php } ?>
           <?php endforeach; ?>
         </div>
 
@@ -177,11 +177,6 @@ a Facebook program designed to educate them about the connection between oral an
             <a href="https://twitter.com/UnitedConcordia/status/<?php echo $row->id ?>" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
        <?php endforeach; ?>
 </div>
-
-
-
-
-
 
 
 

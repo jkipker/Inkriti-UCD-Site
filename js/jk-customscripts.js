@@ -18,6 +18,12 @@ $(function() {
 		if(myHeight <=590){ 
 			myHeight = 590; 
 		}
+
+		if(myHeight >=1000){ 
+			myHeight = 1000; 
+		}
+
+		
 		$('.stage section').height(myHeight);
 
 		$('.img-divider').height(myHeight);

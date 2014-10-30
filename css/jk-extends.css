@@ -347,7 +347,7 @@ height:95%;
 
 #mission{
     /*left: -240px;*/
-    left: -1.8%;
+    left: -1%;
 border: 25px #f99d29 solid;
 border-right:none;
 background-color: transparent;
@@ -1309,7 +1309,7 @@ float: left;
 font-size: 40px;
 left: 2959px;
 position: absolute;
-top: 425px;
+top: 365px;
 width: 100%;
 margin-top: 0px;
 }
@@ -1505,7 +1505,7 @@ margin-top: 0px;
 
 .middle-col-content-right{
     padding: 0;
-    margin-top: 170px;
+    margin-top: 150px;
     margin-right: -65px;
     position: relative;
     color: #0066a4;
@@ -1667,7 +1667,7 @@ blockquote strong{
     margin: 0;
     padding: 0;
     position: absolute;
-    top: 290px;
+    top: 260px;
     width: 535px;
     z-index: 100;
 }
@@ -1944,7 +1944,7 @@ background: url(../img/accorian-bg2.gif) no-repeat left 6px !important;
     font-size: 9px;
     width: 150px;
     margin-left: 110px;
-    margin-top: -135px;
+    margin-top: -70px;
     line-height: 8px;
     font-weight: normal;
 }
@@ -2248,7 +2248,7 @@ h2 img{
 
 .footer-txt .citation{
     line-height: 9px;
-    margin-top: -127px;
+    margin-top: -60px;
 }
 
 
@@ -2340,7 +2340,7 @@ h2 img{
 
 .footer-txt .citation2{
     margin-left: 355px;
-    margin-top: -70px;
+    margin-top: -85px;
 
 }
 

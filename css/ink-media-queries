@@ -1,0 +1,8 @@
+
+/*UCD MEDIA QUERIES*/
+
+@media (max-width: 1460px) {
+	div{
+		border: thin red solid;
+	}
+}

@@ -13,7 +13,7 @@
   <meta property="og:url" content="https://www.unitedConcordia.com/ourdentalstory" />
   <meta property="og:image" content="https://www.unitedconcordia.com/v2/images/uc-header.png" />
 
-  <meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=.75">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=.55">
   
   <meta http-equiv="x-ua-compatible" content="IE=edge">
   
@@ -36,6 +36,7 @@
   <link rel="stylesheet" type="text/css" href="css/animate.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <link rel="stylesheet" type="text/css" href="css/jk-extends.css">
+  <link rel="stylesheet" type="text/css" href="css/ink-media-queries.css">
 
 
 
