@@ -608,7 +608,7 @@ div{
 .oral-wellness{
     top:8%;
     left: 3385px;
-    margin-left:0.3%;
+    margin-left:1%;
 }
 
 .oral-wellness hgroup{
@@ -744,7 +744,7 @@ div{
 #programTab{
     display: block;
     float: right;
-    left: 8220px;
+    left: 8290px;
     position: absolute;
 }
 
@@ -824,7 +824,7 @@ audio, canvas, progress, video{
 #mission .wrap{
     display: block;
     background-color:transparent;
-    margin-left: 195px !important
+    margin-left: 1.5% !important
 }
 
 .wrap{
@@ -1050,7 +1050,7 @@ audio, canvas, progress, video{
 
 #company{
     margin-left:5px;
-    width: 840px;
+    width: 830px;
     border: 25px #004462 solid;
 }
 
@@ -1083,7 +1083,7 @@ top: -20px;
 }
 
 .phone-woman-img{
-    left: 15250px;
+    left: 15290px;
 }
 
 
@@ -1330,7 +1330,7 @@ margin-top: 0px;
     left: 30px;
     position: absolute;
     text-transform: uppercase;
-    top: 365px;
+    top: 368px;
     width: 1000px;
 }
 
@@ -1351,7 +1351,7 @@ margin-top: 0px;
     left: 1495px;
     position: absolute;
     top: 18%;
-    width: 600px;
+    width: 550px;
 }
 
 .innovative-smile{
@@ -1485,7 +1485,7 @@ margin-top: 0px;
     width: 2000px !important;
     background-color: white !important;
     border: 25px #666 solid;
-    /*margin-left:-20px;*/
+    margin-left: 1%;
 }
 
 #financials .wrap{
@@ -1807,7 +1807,7 @@ background: url(../img/accorian-bg2.gif) no-repeat left 6px !important;
 }
 
 #community{
-    margin-left: -20px;
+    margin-left: 2%;
     position: relative;
     border: 25px #8DC63F solid;
     background-color: transparent;
@@ -1995,6 +1995,7 @@ line-height: 8px;
 #company{
     background-color: white;
     padding-left: 278px;
+    margin-left: 3.25%;
 }
 
 #company .wrap{
@@ -2168,7 +2169,7 @@ h2 img{
 
 .nav2 .fb-like, .nav2 .fb-share-button{
     position: absolute;
-    left: 818px;
+    left: 882px;
     bottom: 3px;
     margin: 0;
     width: 60px;
@@ -2224,7 +2225,7 @@ h2 img{
 }
 
 .summary-txt{
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .goodNews p{
@@ -2280,11 +2281,11 @@ h2 img{
 }
 
 .blocquotes.amyShearer{
-    left: 1330px;
+    left: 1300px;
 }
 
 .kids-app{
-    left: 1550px;
+    left: 1460px;
 }
 
 .ponyies{
@@ -2293,7 +2294,7 @@ h2 img{
 }
 
 .socialmedia-wrapper{
-    left:-730px;
+    left:-790px;
     width: 965px;
     height: 540px;
     background-color: white;
@@ -2316,7 +2317,7 @@ h2 img{
 }
 
 .ponyies{
-    left: 990px;
+    left: 940px;
     margin-top: -315px;
 }
 
@@ -2325,7 +2326,7 @@ h2 img{
 }
 
 .company-img {
-    left: 21145px;
+    left: 21135px;
 }
 
 
@@ -2340,7 +2341,7 @@ h2 img{
 
 .footer-txt .citation2{
     margin-left: 355px;
-    margin-top: -85px;
+    margin-top: -72px;
 
 }
 
@@ -2420,7 +2421,7 @@ h2 img{
 }
 
 .facebook-column .socialmedia-box{
-    height: 223px;
+    height: 136px;
 }
 
 .twitter-column{
@@ -2434,6 +2435,8 @@ h2 img{
 .facebook-column .socialmedia-box p{
     width: 240px;
     margin-left: -5px;
+    max-height: 130px;
+overflow: hidden;
 }
 
 
