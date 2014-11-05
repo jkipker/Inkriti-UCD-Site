@@ -23,7 +23,8 @@
           			<li><div class="nav-div-company"><a class="nav-company" href="#">Company</a></div></li>
                    </ul>
                 </nav>
-                <div class="scroll-instruction">(use your mouse wheel to scroll)</div>
+                <div class="scroll-instruction">Use your mouse wheel to scroll. Viewing experience may vary based on browser and operating device.</div>
+                <!-- <div class="scroll-instruction view-experience"><sup>*</sup>viewing experience may vary based on browser and operating device</div> -->
               </div>
             </div>
     </section>

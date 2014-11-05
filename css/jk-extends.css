@@ -2183,8 +2183,8 @@ h2 img{
     color: #ccc;
     font-size: 12px;
     font-style: italic;
-    float: right;
-    right: 168px;
+    text-align: center;
+    width: 625px;
     margin-top: 50px;
 }
 
@@ -2436,7 +2436,12 @@ h2 img{
     width: 240px;
     margin-left: -5px;
     max-height: 130px;
-overflow: hidden;
+    overflow: hidden;
+}
+
+.view-experience{
+    /*border: thin red solid;*/
+    margin-top: 65px;
 }
 
 
