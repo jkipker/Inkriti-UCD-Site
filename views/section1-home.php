@@ -3,6 +3,8 @@
 <div class="logo-bg">
   
 </div>
+
+<div class="nav-disclaimer">Scroll through the site using your mouse wheel or trackpad.</div>
     <section class="sec1">
             <div id="home">
               <div class="home_wrapper">
@@ -23,7 +25,7 @@
           			<li><div class="nav-div-company"><a class="nav-company" href="#">Company</a></div></li>
                    </ul>
                 </nav>
-                <div class="scroll-instruction">Use your mouse wheel to scroll. Viewing experience may vary based on browser and operating device.</div>
+                <div class="scroll-instruction">Viewing experience may vary based on browser and operating device.</div>
                 <!-- <div class="scroll-instruction view-experience"><sup>*</sup>viewing experience may vary based on browser and operating device</div> -->
               </div>
             </div>
@@ -52,8 +54,6 @@
                 <!--  <div class="fb-share-button" data-href="https://www.unitedConcordia.com/ourdentalstory"  data-width="60"></div> -->
                   <!-- <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a> -->
                   <fb:share-button class="fb-share-button" href="https://www.unitedConcordia.com/ourdentalstory" width="60"></fb:share-button>
-
-                 
 
                 <a href="https://twitter.com/share" class="twitter-share-button" data-text="The Good News Continues from United Concordia" data-count="none">Tweet</a>
                 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

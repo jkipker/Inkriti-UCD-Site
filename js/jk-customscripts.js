@@ -64,7 +64,10 @@ $(function() {
 		//SHOW BOTTOM NAVIGATION
 		if($(window).scrollLeft() <= 0) {
             $( ".nav2 .bottom-nav" ).show();
+            $(".nav-disclaimer").css( "color", "white" );
         }
+
+      
 	});
 
 	$( ".prev" ).click(function() {
@@ -80,14 +83,29 @@ $(function() {
 	$('.home_wrapper').waypoint(function() {
 		$( ".nav2 .bottom-nav" ).toggle();
 		$( ".scroll-instruction" ).hide();
+
 	},
 		{ offset: '-50%', horizontal:true, triggerOnce: false
+	});
+
+	$('.home_wrapper').waypoint(function() {
+		$(".nav-disclaimer").css( "color", "white" );
+	},
+		{ offset: '-60%', horizontal:true, triggerOnce: false
+	});
+
+	$('.home_wrapper').waypoint(function() {
+		$(".nav-disclaimer").css( "color", "#666666" );
+	},
+		{ offset: '-45%', horizontal:true, triggerOnce: false
 	});
 
 	//Nav highlight & upper-tab functions
 	$('.protecting p').waypoint(function() {
 		$('.show-nav').removeClass('show-nav');
-		$('.nav-lookback').addClass('show-nav'); },
+		$('.nav-lookback').addClass('show-nav'); 
+		
+	},
 		{ offset: '50%', horizontal:true, triggerOnce: false 
 	});
 
@@ -447,5 +465,32 @@ $(function() {
 		$('.show-nav').removeClass('show-nav');
 		$(this).addClass('show-nav');
 	});
+
+
+
+	//click to drag 
+	/*var clicked = false, clickX;
+	$(document).on({
+	    'mousemove': function(e) {
+	        clicked && updateScrollPos(e);
+	    },
+	    'mousedown': function(e) {
+	        clicked = true;
+	        clickX = e.pageX;
+	    },
+	    'mouseup': function() {
+	        clicked = false;
+	        $('html').css('cursor', 'auto');
+	    }
+	});
+
+	var updateScrollPos = function(e) {
+	    $('html').css('cursor', 'ew-resize');
+	    $(window).scrollLeft($(window).scrollLeft() + (clickX - e.pageX));
+	}*/
+
+	//IE select prevent
+	//document.onselectstart = function() { return false; }
+
 
 });
