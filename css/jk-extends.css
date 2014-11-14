@@ -2454,12 +2454,18 @@ h2 img{
 }
 
 .nav-disclaimer{
-    font-size: 11px;
-    color: #666;
-    position: fixed;
-    top: 3px;
-    z-index: 1000;
-    left: 20px;
+    font-size: 12px;
+font-weight: bold;
+color: #000 !important;
+position: fixed;
+top: 0px;
+z-index: 1000;
+left: 50%;
+background-color: white;
+padding: 4px;
+margin-left: -160px;
+/*width: 320px;*/
+/*opacity: 0.25;*/
 }
 
 
