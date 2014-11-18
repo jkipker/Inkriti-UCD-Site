@@ -109,31 +109,7 @@ a Facebook program designed to educate them about the connection between oral an
       </div>
 
       <div class="col col2">
-        <div class="facebook-column">
-          <?php foreach ($arrayfeeds as $row)  :?>
-  <?php
-     $fromfeed = $row->from;
-     if($fromfeed->id == 252175674875211   &&  $row->message!="" ){
-?>
-            <div class="socialmedia-box">
-                     
-                      <p> <?php echo $row->message ?><br/>
-                          <a href="<?php echo $row->link ?>" target="_blank">View Post</a>
-                      </p>
-                      <a href="https://www.facebook.com/UnitedConcordiaDental" target="_blank" class="link-icon"><img src="img/facebook-icon.png" alt="facebook" width="24" height="24"></a>
-                    </div>
-<?php } ?>
-          <?php endforeach; ?>
-        </div>
-
-<div class="twitter-column">
-<!-- Start Twitter code Integration -->
-       <?php foreach ($tweets as $row) : ?>
-            <div class="socialmedia-box">
-            <p> <?php echo $row->text; ?></p>
-            <a href="https://twitter.com/UnitedConcordia/status/<?php echo $row->id ?>" target="_blank" class="link-icon"><img src="img/twitter-icon.png" alt="twitter" width="24" height="24"></a> </div>
-       <?php endforeach; ?>
-</div>
+        
 
 
 

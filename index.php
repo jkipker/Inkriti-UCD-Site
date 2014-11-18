@@ -1,3 +1,48 @@
+<?php
+//twitter snippets for tweets
+session_start();
+error_reporting(1);
+require_once("library/twitteroauth-master/twitteroauth/twitteroauth.php"); //Path to twitteroauth library
+$twitteruser = "UnitedConcordia";
+$notweets =4;
+$consumerkey = "KxGg42KccAHCtuNqSOsnTgWPe";
+$consumersecret = "cfFmUoEXU3Y1JbKdhuvAF88P3CMcOqKAljwqpkotng0cy91nHj";
+$accesstoken = "2459385752-myx7Aszc4x4btu1Ikzp9UxkwELYzuTzrHgEgXDg";
+$accesstokensecret = "TDS5Hjc6ENNUYvRigQTfhrxmEOyNWpBdteLo5v31lOjiS";
+
+function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
+  $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
+  return $connection;
+}
+
+$connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
+$tweets = $connection->get("https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=".$twitteruser."&count=".$notweets."&exclude_replies=true");
+
+
+function fetchUrl($url){
+
+ $ch = curl_init();
+ curl_setopt($ch, CURLOPT_URL, $url);
+ curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+ curl_setopt($ch, CURLOPT_TIMEOUT, 20);
+ // You may need to add the line below
+ curl_setopt($ch,CURLOPT_SSL_VERIFYPEER,false);
+
+ $feedData = curl_exec($ch);
+ curl_close($ch); 
+
+ return $feedData;
+
+}
+
+
+$json_object = fetchUrl("https://graph.facebook.com/v2.1/252175674875211/feed?key=value&access_token=979366645412371|31336bf1baa8a42462325e4ab572debd");
+$arraydata = json_decode($json_object);
+$arrayfeeds= $arraydata->data;
+
+
+?>
+
 <!DOCTYPE HTML>
 
 <html xmlns:fb="http://ogp.me/ns/fb#">
@@ -52,6 +97,20 @@
         	<link rel="stylesheet" type="text/css" href="css/jk-ie8.css">	
 
 	<![endif]-->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TT53QQ"
+height="0" width="0"
+style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f)
+;
+})(window,document,'script','dataLayer','GTM-TT53QQ');</script>
+<!-- End Google Tag Manager -->
+
+  
 </head>
 
 <body>
